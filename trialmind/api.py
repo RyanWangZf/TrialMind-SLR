@@ -29,8 +29,9 @@ from .prompts.extraction import (
     RESULT_TABLE_TEMPLATE,
     )
 from .prompts.screening import LITERATURE_SCREENING_FC
-from .prompts.screening_criteria import SCREENING_CRITERIA_GENERATION
+from .prompts.screen_criteria import SCREENING_CRITERIA_GENERATION
 from .pubmed import ReqPubmedFull, ReqPubmedID
+from .sandbox import E2BSandbox
 
 
 from logging import getLogger
@@ -434,7 +435,6 @@ class StudyResultStandardization:
         ):
         # connect to the E2B sandbox with the given sandbox id
         if sandbox_id is not None and len(sandbox_id) > 0:
-            from trialmind.sandbox import E2BSandbox
             self.sandbox = E2BSandbox(sandbox_id=sandbox_id)
         else:
             logger.warning("No sandbox id is provided. The API will not be able to execute the code!")
