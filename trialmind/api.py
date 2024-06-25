@@ -4,7 +4,7 @@ import tempfile
 import os
 import io
 from typing import List, Dict, Union, Optional
-
+from bs4 import BeautifulSoup
 import pandas as pd
 
 from .llm import (
@@ -74,6 +74,22 @@ def parse_json_outputs(outputs: List[str]) -> List[Dict]:
         parsed_outputs.append(output)
     return parsed_outputs
 
+def extract_code(_raw_output: str) -> str:
+    # Using 'html.parser' to parse the content
+    soup = BeautifulSoup(_raw_output, "html.parser")
+    try:
+        _raw_output = soup.find("code").text
+    except:
+        pass
+    if "```python:" in _raw_output:
+        pattern = r"```python\n{(.*?)}\n```"
+        match = re.search(pattern, _raw_output, re.DOTALL)
+        if match:
+            return match.group(1)
+        else:
+            return _raw_output
+    else:
+        return _raw_output
 
 class SearchQueryGeneration:
     """
@@ -479,8 +495,6 @@ class StudyResultStandardization:
         data_type: str,
         llm: str="gpt-4"
         ):
-        from trialmind.DataScienceFlow.utils import extract_code
-
         data_structure = RESULT_TABLE_TEMPLATE.get(data_type, None)
         if data_structure is None:
             raise ValueError(f"data_type {data_type} is not supported.")
