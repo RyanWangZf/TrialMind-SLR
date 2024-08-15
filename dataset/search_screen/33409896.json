@@ -1,0 +1,231 @@
+{
+    "title": "Nephrotoxicity in patients with solid tumors treated with anti-PD-1/PD-L1 monoclonal antibodies: a systematic review and meta-analysis",
+    "pmid": "33409896",
+    "date": "2021/06",
+    "text": {
+        "abstract": "Background Programmed death-1 (PD-1) and programmed death ligand 1 (PD-L1) have dramatically improved cancer therapy for many patients. Adverse kidney effects have been found to be an important complication but have unclear mechanisms. Methods We searched Embase, PubMed, and the Cochrane Library to identify potential eligible studies. All included studies were randomized controlled trials (RCTs) examining patients with solid tumors treated with anti-PD-1/PD-L1 monoclonal antibodies (mAbs) and/or chemotherapy. The relative risk (RR) was used to assess the risk of nephrotoxic events. Results We included 27 clinical trials (15,063 patients). Compared with chemotherapy, the RR of all-grade nephritis was significantly increased with anti-PD-1/PD-L1 mAbs (RR = 2.77, 95% CI: 1.09-6.99, P = 0.03). Furthermore, anti-PD-1/PD-L1 mAbs plus chemotherapy can significantly increase the RR of all-grade nephritis (RR = 2.99, 95% CI: 1.07-8.35, P = 0.04). There was also a significant increase in the RRs of all-grade increased blood creatinine (RR = 1.88, 95% CI: 1.24-2.86, P = 0.003) and acute kidney injury (AKI) (RR =3.35, 95% CI: 1.48-7.60, P = 0.004). Conclusions Anti-PD-1/PD-L1 mAbs can significantly increase nephrotoxicity in patients with solid tumors, especially when combined with chemotherapy. During the application of these drugs, we should remain aware of nephrotoxicity for better efficacy. Trial registration number and date of registration Not applicable.",
+        "results": "We included 27 clinical trials (15,063 patients). Compared with chemotherapy, the RR of all-grade nephritis was significantly increased with anti-PD-1/PD-L1 mAbs (RR = 2.77, 95% CI: 1.09-6.99, P = 0.03). Furthermore, anti-PD-1/PD-L1 mAbs plus chemotherapy can significantly increase the RR of all-grade nephritis (RR = 2.99, 95% CI: 1.07-8.35, P = 0.04). There was also a significant increase in the RRs of all-grade increased blood creatinine (RR = 1.88, 95% CI: 1.24-2.86, P = 0.003) and acute kidney injury (AKI) (RR =3.35, 95% CI: 1.48-7.60, P = 0.004).",
+        "conclusions": "Anti-PD-1/PD-L1 mAbs can significantly increase nephrotoxicity in patients with solid tumors, especially when combined with chemotherapy. During the application of these drugs, we should remain aware of nephrotoxicity for better efficacy."
+    },
+    "PICO": {
+        "P": "Patients with solid tumors",
+        "I": "Treatment with anti-PD-1/PD-L1 monoclonal antibodies",
+        "C": "Chemotherapy",
+        "O": "Risk of nephrotoxic events including all-grade nephritis, increased blood creatinine, and acute kidney injury (AKI)"
+    },
+    "PICO_terms": {
+        "P": ["solid tumors"],
+        "I": ["anti-PD-1/PD-L1 monoclonal antibodies"],
+        "C": ["Chemotherapy"],
+        "O": ["Risk of nephrotoxic events", "all-grade nephritis", "increased blood creatinine", "acute kidney injury"]
+    },
+    "trials": [
+        {
+            "title": "Avelumab versus docetaxel in patients with platinum-treated advanced non-small-cell lung cancer (JAVELIN Lung 200): an open-label, randomised, phase 3 study",
+            "pdf_link": "",
+            "pmid": "30262187",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Pembrolizumab as second-line therapy for advanced Urothelial carcinoma",
+            "pdf_link": "",
+            "pmid": "28212060",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Nivolumab versus Docetaxel in advanced nonsquamous non-small-cell lung Cancer",
+            "pdf_link": "",
+            "pmid": "26412456",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Nivolumab versus Docetaxel in advanced squamous-cell non-small-cell lung Cancer",
+            "pdf_link": "",
+            "pmid": "26028407",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "First-line Nivolumab in stage IV or recurrent non-small-cell lung Cancer",
+            "pdf_link": "",
+            "pmid": "28636851",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Pembrolizumab versus methotrexate, docetaxel, or cetuximab for recurrent or metastatic head-and-neck squamous cell carcinoma (KEYNOTE-040): a randomised, open-label, phase 3 study",
+            "pdf_link": "",
+            "pmid": "30509740",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Nivolumab for recurrent squamous-cell carcinoma of the head and neck",
+            "pdf_link": "",
+            "pmid": "27857112",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Pembrolizumab versus docetaxel for previously treated, PD-L1-positive, advanced non-small-cell lung cancer (KEYNOTE-010): a randomised controlled trial",
+            "pdf_link": "",
+            "pmid": "26712084",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Pembrolizumab versus chemotherapy for previously untreated, PD-L1-expressing, locally advanced or metastatic non-small-cell lung cancer (KEYNOTE-042): a randomised, open-label, controlled, phase 3 trial",
+            "pdf_link": "",
+            "pmid": "30955977",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Pembrolizumab versus chemotherapy for PD-L1-positive non-small-cell lung Cancer",
+            "pdf_link": "",
+            "pmid": "27718847",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Pembrolizumab versus investigator-choice chemotherapy for ipilimumab-refractory melanoma (KEYNOTE-002): a randomised, controlled, phase 2 trial",
+            "pdf_link": "",
+            "pmid": "26115796",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Nivolumab in previously untreated melanoma without BRAF mutation",
+            "pdf_link": "",
+            "pmid": "25399552",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Pembrolizumab versus Ipilimumab in Advanced Melanoma",
+            "pdf_link": "",
+            "pmid": "25891173",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Nivolumab versus everolimus in advanced renal cell carcinoma: Japanese subgroup 3-year follow-up analysis from the phase III CheckMate 025 study",
+            "pdf_link": "",
+            "pmid": "30941424",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Nivolumab versus chemotherapy in patients with advanced melanoma who progressed after anti-CTLA-4 treatment (CheckMate 037): a randomised, controlled, open-label, phase 3 trial",
+            "pdf_link": "",
+            "pmid": "25795410",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Adjuvant Pembrolizumab versus placebo in resected stage III melanoma",
+            "pdf_link": "",
+            "pmid": "29658430",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Atezolizumab in Japanese patients with previously treated advanced non-small-cell lung Cancer: a subgroup analysis of the phase 3 OAK study",
+            "pdf_link": "",
+            "pmid": "29525239",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Pembrolizumab versus ipilimumab for advanced melanoma: final overall survival results of a multicentre, randomised, open-label phase 3 study (KEYNOTE-006)",
+            "pdf_link": "",
+            "pmid": "28822576",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Pembrolizumab plus chemotherapy in metastatic non-small-cell lung Cancer",
+            "pdf_link": "",
+            "pmid": "29658856",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "First-line Atezolizumab plus chemotherapy in extensive-stage small-cell lung Cancer",
+            "pdf_link": "",
+            "pmid": "30280641",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Carboplatin and pemetrexed with or without pembrolizumab for advanced, non-squamous non-small-cell lung cancer: a randomised, phase 2 cohort of the open-label KEYNOTE-021 study",
+            "pdf_link": "",
+            "pmid": "27745820",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Pembrolizumab plus chemotherapy for squamous non-small-cell lung Cancer",
+            "pdf_link": "",
+            "pmid": "30280635",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Atezolizumab and nabpaclitaxel in advanced triple-negative breast Cancer",
+            "pdf_link": "",
+            "pmid": "30855754",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Atezolizumab for first-line treatment of metastatic nonsquamous NSCLC",
+            "pdf_link": "",
+            "pmid": "29863955",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Atezolizumab in combination with carboplatin plus nabpaclitaxel chemotherapy compared with chemotherapy alone as first-line treatment for metastatic non-squamous non-smallcell lung cancer (IMpower130): a multicentre, randomised, open-label, phase 3 trial",
+            "pdf_link": "",
+            "pmid": "31122901",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Combined nivolumab and ipilimumab versus ipilimumab alone in patients with advanced melanoma: 2-year overall survival outcomes in a multicentre, randomised, controlled, phase 2 trial",
+            "pdf_link": "",
+            "pmid": "27622997",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": " Overall survival with combined Nivolumab and Ipilimumab in advanced melanoma",
+            "pdf_link": "",
+            "pmid": "28889792",
+            "doi": "",
+            "nctid": ""
+        }
+    ],
+    "forest_plot_path": {
+        "./images/33409896/a.png": {
+            "subgroup": "anti-PD-1/PD-L1 mAbs and chemotherapy",
+            "outcome": "risk ratio (RR) for all-grade nephritis"
+        },
+        "./images/33409896/b.png": {
+            "subgroup": "anti-PD-1/PD-L1 mAbs plus chemotherapy",
+            "outcome": "risk ratio (RR) for all grade increased blood creatinine"
+        },
+        "./images/33409896/c.png": {
+            "subgroup": "anti-PD-1/PD-L1 mAbs plus chemotherapy",
+            "outcome": "risk ratio (RR) for acute kidney injury (AKI)"
+        },
+        "./images/33409896/d.png": {
+            "subgroup": "anti-PD-1/PD-L1 mAbs plus chemotherapy and chemotherapy",
+            "outcome": "risk ratio (RR) for all-grade nephritis"
+        }
+    }
+}

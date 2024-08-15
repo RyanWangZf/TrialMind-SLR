@@ -1,0 +1,211 @@
+{
+    "title": "Point-A vs. volume-based brachytherapy for the treatment of cervix cancer: A meta-analysis",
+    "pmid": "35259419",
+    "date": "2022/05",
+    "text": {
+        "abstract": "Background & purpose: To report disease-free survival (DFS) for volume-based and point-A based brachytherapy (BT) in locally advanced cervical cancer.\n\nMaterials & methods: We conducted a meta-analysis of studies assessing the effects of point-A and volume-based brachytherapy on 3-year DFS. Studies including stage I-IVA cervical cancer patients were included if standard treatment of concomitant chemo-radiotherapy and high-dose- or pulsed dose rate BT was delivered. The primary outcome was 3-year DFS, and secondary outcomes were 3-year local control (LC), 3-year overall survival (OS) and late toxicity. A random-effects subgroup meta-analysis was done.\n\nResults: In total, 5499 studies were screened, of which 24 studies with 5488 patients were eligible. There was significant heterogeneity among point-A studies (1538 patients) (I2 = 82%, p < 0.05) relative to volume-based studies (3950 patients) (I2 = 58, p = 0.01). The 3-year DFS for point-A and volume-based studies were 67% (95% CI 60%-73%) and 79% (95% CI 76%-82%) respectively (p = 0.001). Three-year LC for point-A and volume-based studies were 86% (95% CI 81%-90%) and 92% (91%-94%) respectively (p = 0.01). The difference in 3-year OS (72% vs. 79%, p = 0.12) was not statistically significant. The proportion of prospectively enrolled patients was 23% for point-A studies and 33% for volume-based studies. There was no difference in late grade 3 or higher gastrointestinal (3% vs. 4%, p = 0.76) genitourinary toxicities (3% vs. 3% p = 0.45) between the two groups.\n\nConclusion: Volume-based BT results in superior 3-year DFS and 3-year LC. In the absence of randomized trials, this meta-analysis provides the best evidence regarding transition to 3D planning.\n\nKeywords: Brachytherapy; Disease-free survival; Image-guided radiation therapy; Uterine cervical neoplasms.",
+        "results": "In total, 5499 studies were screened, of which 24 studies with 5488 patients were eligible. There was significant heterogeneity among point-A studies (1538 patients) (I2 = 82%, p < 0.05) relative to volume-based studies (3950 patients) (I2 = 58, p = 0.01). The 3-year DFS for point-A and volume-based studies were 67% (95% CI 60%-73%) and 79% (95% CI 76%-82%) respectively (p = 0.001). Three-year LC for point-A and volume-based studies were 86% (95% CI 81%-90%) and 92% (91%-94%) respectively (p = 0.01). The difference in 3-year OS (72% vs. 79%, p = 0.12) was not statistically significant. The proportion of prospectively enrolled patients was 23% for point-A studies and 33% for volume-based studies. There was no difference in late grade 3 or higher gastrointestinal (3% vs. 4%, p = 0.76) genitourinary toxicities (3% vs. 3% p = 0.45) between the two groups.",
+        "conclusions": "Volume-based BT results in superior 3-year DFS and 3-year LC. In the absence of randomized trials, this meta-analysis provides the best evidence regarding transition to 3D planning."
+    },
+    "PICO": {
+        "P": "Patients with locally advanced cervical cancer",
+        "I": "Volume-based brachytherapy (BT)",
+        "C": "Point-A based brachytherapy (BT)",
+        "O": "3-year disease-free survival (DFS), 3-year local control (LC), 3-year overall survival (OS), and late toxicity"
+    },
+    "PICO_terms": {
+        "P": ["locally advanced cervical cancer"],
+        "I": ["Volume-based brachytherapy"],
+        "C": ["Point-A based brachytherapy"],
+        "O": ["3-year disease-free survival", "3-year local control", "3-year overall survival", "late toxicity"]
+    },
+    "trials": [
+        {
+            "title": "MRI-guided adaptive brachytherapy in locally advanced cervical cancer (EMBRACE-I): a multicentre prospective cohort study",
+            "pdf_link": "",
+            "pmid": "33794207",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Clinical outcome of protocol based image (MRI) guided adaptive brachytherapy combined with 3D conformal radiotherapy with or without chemotherapy in patients with locally advanced cervical cancer",
+            "pdf_link": "",
+            "pmid": "21821305",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "The promise of image-guided brachytherapy of better clinical outcomes in treatment of cervical cancer: Does it deliver? An Indian scenario",
+            "pdf_link": "",
+            "pmid": "30017538",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "MRIguided adaptive radiotherapy in locally advanced cervical cancer from a Nordic perspective",
+            "pdf_link": "",
+            "pmid": "23962242",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A 3-year follow-up study of radiotherapy using computed tomography-based image-guided brachytherapy for cervical cancer",
+            "pdf_link": "",
+            "pmid": "30649485",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Efficacy and toxicity of chemoradiation with image-guided adaptive brachytherapy for locally advanced cervical cancer",
+            "pdf_link": "",
+            "pmid": "30630883",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Radiation therapy for carcinoma of the uterine cervix: comparison of two brachytherapy schedules",
+            "pdf_link": "",
+            "pmid": "24563532",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Impact of brachytherapy technique (2D versus 3D) on outcome following radiotherapy of cervical cancer",
+            "pdf_link": "",
+            "pmid": "29619052",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Toxicity and clinical outcomes with definitive three-dimensional conformal radiotherapy (3DCRT) and concurrent cisplatin chemotherapy in locally advanced cervical carcinoma",
+            "pdf_link": "",
+            "pmid": "30452664",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "MRI-guided high-dose-rate intracavitary brachytherapy for treatment of cervical cancer: the University of Pittsburgh experience",
+            "pdf_link": "",
+            "pmid": "25680598",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "An early report on outcomes from computed tomographic-based high-dose-rate brachytherapy for locally advanced cervix cancer: A single institution experience",
+            "pdf_link": "",
+            "pmid": "24673947",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "3D CT-based high-dose-rate brachytherapy for cervical cancer: clinical impact on late rectal bleeding and local control",
+            "pdf_link": "",
+            "pmid": "21074881",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Magnetic resonance image-guided brachytherapy for cervical cancer : Prognostic factors for survival",
+            "pdf_link": "",
+            "pmid": "27734106",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Feasibility study of toxicity outcomes using GEC-ESTRO contouring guidelines on CT based instead of MRI-based planning in locally advanced cervical cancer patients",
+            "pdf_link": "",
+            "pmid": "27816539",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Standard chemoradiation and conventional brachytherapy for locally advanced cervical cancer: is it still applicable in the era of magnetic resonance-based brachytherapy?",
+            "pdf_link": "",
+            "pmid": "30085892",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "CT based three dimensional dose-volume evaluations for high-dose rate intracavitary brachytherapy for cervical cancer",
+            "pdf_link": "",
+            "pmid": "24938757",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Five years\u2019 experience treating locally advanced cervical cancer with concurrent chemoradiotherapy and high-dose-rate brachytherapy: results from a single institution",
+            "pdf_link": "",
+            "pmid": "18922646",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Evaluation of survival and treatment toxicity with high-dose-rate brachytherapy with cobalt 60 in carcinoma of cervix",
+            "pdf_link": "",
+            "pmid": "26478798",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Long term experience with 3D image guided brachytherapy and clinical outcome in cervical cancer patients",
+            "pdf_link": "",
+            "pmid": "27157510",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Image guided brachytherapy in locally advanced cervical cancer: Improved pelvic control and survival in RetroEMBRACE, a multicenter cohort study",
+            "pdf_link": "",
+            "pmid": "27134181",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "The effects of two HDR brachytherapy schedules in locally advanced cervical cancer treated with concurrent chemoradiation: a study from Chiang Mai, Thailand",
+            "pdf_link": "",
+            "pmid": "22510600",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Outcome and toxicity of radical radiotherapy or concurrent Chemoradiotherapy for elderly cervical cancer women",
+            "pdf_link": "",
+            "pmid": "28764676",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Computed tomography-planned high-dose-rate brachytherapy for treating uterine cervical cancer",
+            "pdf_link": "",
+            "pmid": "27375169",
+            "doi": "",
+            "nctid": ""
+        }
+    ],
+    "forest_plot_path": {
+        "./images/35259419/b-volume based-3 year disease free survival(3yDFS).png": {
+            "subgroup": "volume based",
+            "outcome": "3 year disease free survival(3yDFS)"
+        },
+        "./images/35259419/a-point A-3 year disease free survival(3yDFS).png": {
+            "subgroup": "point A",
+            "outcome": "3 year disease free survival(3yDFS)"
+        },
+        "./images/35259419/e-point A-3 year Overall Survival(3yOS).png": {
+            "subgroup": "point A",
+            "outcome": "3 year Overall Survival(3yOS)"
+        },
+        "./images/35259419/f-volume based-3 year Overall Survival(3yOS).png": {
+            "subgroup": "volume based",
+            "outcome": "3 year Overall Survival(3yOS)"
+        },
+        "./images/35259419/c-point A-3 year local control(3yLC).png": {
+            "subgroup": "point A",
+            "outcome": "3 year local control(3yLC)"
+        },
+        "./images/35259419/d-volume based-3 year local control(3yLC).png": {
+            "subgroup": "volume based",
+            "outcome": "3 year local control(3yLC)"
+        }
+    }
+}

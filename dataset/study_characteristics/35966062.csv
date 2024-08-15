@@ -1,0 +1,12 @@
+PMID,Year,Study Design,Study Period,Number of patients (Female/male),Age (year) Mean ± SD,Follow-up (months) Mean ± SD,Treatment,Disease Progress,Complication,Newcastle–Ottawa scale scores
+34337037,2021,retrospective,2012.6-2015.5,105 (74/31),44.1±12.2,65.4±6.3,LA,"new tumor/tumor recurrence, Lymph node metastasis",pain,8
+32458748,2020,retrospective,2014.6-2014.10,41 (28/13),46.10±8.85,NA,MWA,None,hoarseness,7
+34645358,2021,retrospective,2016.1-2018.12,63 (51/12),43.56±14.172,NA,MWA,None,reactive lymph node hyperplasia,7
+34757942,2021,retrospective,2014.4-2019.12,131 (104/27),41.2±10.9,26.2±13.3,RFA,new tumor/tumor recurrence,pain,8
+32198508,2020,prospective,NA,119 (92/27),48.7±11.8,37.2±20.9,MWA,new tumor/tumor recurrence,"hematoma, hoarseness, labored breathing, coughing",7
+32216112,2020,retrospective,NA,34 (23/11),41.8 ± 13.4,23.3±4.4,LA,None,hematoma,7
+32216112,2020,retrospective,NA,33 (26/7),37.9 ± 10.1,22.8±4.1,MWA,None,hematoma,7
+34719323,2021,retrospective,2013.7-2020.6,320 (237/83),44.99 ± 10.62,29.69±17.73,MWA,"new tumor/tumor recurrence, Lymph node metastasis","hematoma, hoarseness",8
+33107573,2020,retrospective,2015.4-2020.3,172 (134/38),46±13,24.9±14.1,RFA,"new tumor/tumor recurrence, Lymph node metastasis","hoarseness, fever",8
+32340500,2020,retrospective,2014.4-2018.10,66 (52/14),41.0±9.2,20.5±7.4,RFA,"new tumor/tumor recurrence, Lymph node metastasis",pain,8
+34757942,2021,retrospective,2014.4-2019.12,131 (103/28),41.1±10.3,25.1±10.6,RFA,new tumor/tumor recurrence,"pain, hoarseness",8

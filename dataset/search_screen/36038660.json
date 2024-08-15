@@ -1,0 +1,109 @@
+{
+    "title": "Allogeneic hematopoietic stem cell transplantation for pediatric acute myeloid leukemia in first complete remission: a meta-analysis",
+    "pmid": "36038660",
+    "date": "2022/11",
+    "text": {
+        "abstract": "Identification of pediatric patients with acute myeloid leukemia (AML) candidates to receive allogeneic hematopoietic stem cell transplantation (allo-HSCT) in first complete remission (CR1) is still a matter of debate. Currently, transplantation is reserved to patients considered at high risk of relapse based on cytogenetics, molecular biology, and minimal residual disease (MRD) assessment. However, no randomized clinical trial exists in the literature comparing transplantation with other types of consolidation therapy. Here, we provide an up-to-date meta-analysis of studies comparing allo-HSCT in CR1 with chemotherapy alone as a post-remission treatment in high-risk pediatric AML. The literature search strategy identified 10 cohorts from 9 studies performing as-treated analysis. The quantitative synthesis showed improved overall survival (OS) (relative risk, 1.15; 95% confidence interval [CI], 1.06\u20131.24; P\u2009=\u20090.0006) and disease-free survival (relative risk, 1.31; 95% CI, 1.17\u20131.47; P\u2009=\u20090.0001) in the allo-HSCT group, with increased relapse rate in the chemotherapy group (relative risk, 1.26; 95% CI, 1.07\u20131.49; P\u2009=\u20090.006). Sensitivity analysis including prospective studies alone and excluding studies that reported the comparison only on intermediate-risk patients confirmed the benefit of allo-HSCT on OS. Further research should focus on individualizing allo-HSCT indications based on molecular stratification and MRD monitoring.",
+        "results": "The quantitative synthesis showed improved overall survival (OS) (relative risk, 1.15; 95% confidence interval [CI], 1.06\u20131.24; P\u2009=\u20090.0006) and disease-free survival (relative risk, 1.31; 95% CI, 1.17\u20131.47; P\u2009=\u20090.0001) in the allo-HSCT group, with increased relapse rate in the chemotherapy group (relative risk, 1.26; 95% CI, 1.07\u20131.49; P\u2009=\u20090.006). Sensitivity analysis including prospective studies alone and excluding studies that reported the comparison only on intermediate-risk patients confirmed the benefit of allo-HSCT on OS.",
+        "conclusions": "Further research should focus on individualizing allo-HSCT indications based on molecular stratification and MRD monitoring."
+    },
+    "PICO": {
+        "P": "Pediatric patients with acute myeloid leukemia (AML) in first complete remission (CR1)",
+        "I": "Allogeneic hematopoietic stem cell transplantation (allo-HSCT)",
+        "C": "Chemotherapy alone as a post-remission treatment",
+        "O": "Improved overall survival (OS) and disease-free survival (DFS), reduced relapse rate"
+    },
+    "PICO_terms": {
+        "P": ["acute myeloid leukemia", "first complete remission"],
+        "I": ["Allogeneic hematopoietic stem cell transplantation"],
+        "C": ["Chemotherapy alone"],
+        "O": ["Improved overall survival", "disease-free survival", "reduced relapse rate"]
+    },
+    "trials": [
+        {
+            "title": "Results of the AIEOP AML 2002/01 multicenter prospective trial for the treatment of children with acute myeloid leukemia",
+            "pdf_link": "",
+            "pmid": "23673857",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "The role of matched sibling donor allogeneic stem cell transplantation in pediatric high-risk acute myeloid leukemia: results from the AML-BFM 98 study",
+            "pdf_link": "",
+            "pmid": "21933851",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Risk-stratifed therapy and the intensive use of cytarabine improves the outcome in childhood acute myeloid leukemia: the AML99 trial from the Japanese childhood AML cooperative study group",
+            "pdf_link": "",
+            "pmid": "19620491",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Minimal residual disease-directed therapy for childhood acute myeloid leukemia: results of the AML02 multicentre trial",
+            "pdf_link": "",
+            "pmid": "20451454",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Gemtuzumab ozogamicin in children and adolescents with de novo acute myeloid leukemia improves eventfree survival by reducing relaps",
+            "pdf_link": "",
+            "pmid": "25092781",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Retrospective analysis of children with high-risk acute myeloid leukemia who underwent allogeneic hematopoietic stem cell transplantation following complete remission with initial induction chemotherapy in the AML-05 clinical trial",
+            "pdf_link": "",
+            "pmid": "31309713",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Comparable survival for pediatric acute myeloid leukemia with poor-risk cytogenetics following chemotherapy, matched related donor, or unrelated donor transplantation",
+            "pdf_link": "",
+            "pmid": "23955900",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Treatment outcomes of pediatric acute myeloid leukemia in the Yeungnam region: a multicenter retrospective study of the study alliance of Yeungnam pediatric hematology\u2013oncology (sayph)",
+            "pdf_link": "",
+            "pmid": "33562522",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Treatment of childhood acute myeloid leukemia in uruguay: results of 2 consecutive protocols over 20 years",
+            "pdf_link": "",
+            "pmid": "32068649",
+            "doi": "",
+            "nctid": ""
+        }
+    ],
+    "forest_plot_path": {
+        "./images/36038660/a.png": {
+            "subgroup": "all included studies",
+            "outcome": "risk ratio (RR) for overall surviva (OS)"
+        },
+        "./images/36038660/b.png": {
+            "subgroup": "only prospective trials",
+            "outcome": "risk ratio (RR) for overall surviva (OS)"
+        },
+        "./images/36038660/c.png": {
+            "subgroup": "excluding studies including only IR patients",
+            "outcome": "risk ratio (RR) for overall surviva (OS)"
+        },
+        "./images/36038660/d.png": {
+            "subgroup": "alloHSCT and chemotherapy",
+            "outcome": "risk ratio (RR) for relapse rate (RR)"
+        },
+        "./images/36038660/e.png": {
+            "subgroup": "alloHSCT and chemotherapy",
+            "outcome": "risk ratio (RR) for disease-free survival (DFS)"
+        }
+    }
+}

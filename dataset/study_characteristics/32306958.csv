@@ -1,0 +1,31 @@
+PMID,Cancer Type,Antibody Immunotherapy Agents,Total Numebr of Participants,immune-related adverse event grades,Univariate or Multivariate Model,retrospective or prospective cohort
+26222619,multiple cancer types,pembrolizumab,83,1–3,multivariate,retrospective cohort
+26446948,Melanoma,nivolumab,143,1–3,multivariate,retrospective cohort
+28975219,non-small-cell lung carcinoma,nivolumab,130,1–4,multivariate,retrospective cohort
+29296533,non-small-cell lung carcinoma,nivolumab/pembrolizumab,58,1–2,multivariate,retrospective cohort
+28652280,multiple cancer types,nivolumab/pembrolizumab,173,1–2,multivariate,retrospective cohort
+27998967,non-small-cell lung carcinoma,pembrolizumab,48,1–3,univariate,prospective cohort
+27510892,Melanoma,nivolumab,35,1–2,univariate,retrospective cohort
+30442524,non-small-cell lung carcinoma,nivolumab/pembrolizumab,270,1–4,univariate,retrospective cohort
+30589930,non-small-cell lung carcinoma,nivolumab/pembrolizumab,137,1–4,univariate,retrospective cohort
+29290265,non-small-cell lung carcinoma,nivolumab,18,1–4,univariate,retrospective cohort
+30682533,multiple cancer types,nivolumab/pembrolizumab,106,1–4,multivariate,retrospective cohort
+30506406,non-small-cell lung carcinoma,nivolumab,195,1–4,multivariate,retrospective cohort
+30506406,non-small-cell lung carcinoma,nivolumab/pembrolizumab,246,1–2,multivariate,retrospective cohort
+29975414,Melanoma,ipilimumab,281,N.A.,univariate,retrospective cohort
+30539281,Melanoma,nivolumab/pembrolizumab,173,1–5,multivariate,retrospective cohort
+30311424,non-small-cell lung carcinoma,nivolumab,104,1–4,multivariate,retrospective cohort
+30197259,non-small-cell lung carcinoma,nivolumab/pembrolizumab/atezolizumab,91,1–4,univariate,retrospective cohort
+29382669,non-small-cell lung carcinoma,pembrolizumab,97,1–4,multivariate,retrospective cohort
+29656747,non-small-cell lung carcinoma,nivolumab,613,≥3,multivariate,retrospective cohort
+30528047,Melanoma,nivolumab,15,1–2,multivariate,retrospective cohort
+30782080,multiple cancer types,nivolumab/pembrolizumab,103,1–4,univariate,retrospective cohort
+30885550,non-small-cell lung carcinoma,nivolumab/pembrolizumab,559,1–4,multivariate,retrospective cohort
+30911841,non-small-cell lung carcinoma,nivolumab/pembrolizumab,133,1–4,multivariate,retrospective cohort
+31021392,non-small-cell lung carcinoma,nivolumab/pembrolizumab,83,N.A.,univariate,prospective cohort
+30944023,renal cell carcinoma,nivolumab,389,1–4,multivariate,retrospective cohort
+31086392,multiple cancer types,nivolumab,191,N.A.,univariate,retrospective cohort
+31081424,non-small-cell lung carcinoma,nivolumab/pembrolizumab,112,3–4,univariate,retrospective cohort
+30935847,renal cell carcinoma,nivolumab,47,1–4,multivariate,retrospective cohort
+30425107,Melanoma,ipilimumab,133,1–4,univariate,retrospective cohort
+31088239,Melanoma,ipilimumab,100,1–3,univariate,retrospective cohort

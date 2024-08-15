@@ -1,0 +1,225 @@
+{
+    "title": "Efficacy of targeted therapy in patients with HER2-positive non-small cell lung cancer: A systematic review and meta-analysis",
+    "pmid": "34820879",
+    "date": "2022/05",
+    "text": {
+        "abstract": "Anti-human epidermal growth factor receptor 2 (HER2) therapy is an effective treatment for HER2-positive gastric and breast malignancies. However, the efficacy of HER2-targeted therapy in non-small cell lung cancer (NSCLC) patients with HER2 alterations remains controversial. We searched studies on HER2-targeted therapy in NSCLC patients that reported objective response rate (ORR), disease control rate (DCR) and progressionfree survival (PFS) published from database inception to 30 May 2021. A total of 32 trials involving 958 patients were included. The ORRs of HER2-TKIs targeted therapy, humanised monoclonal antibody, trastuzumab-based treatment and antibody-drug conjugate (ADC) (T-DM1) were 22% (95% CI 11-31), 23% (95% CI 20-65), 26% (95% CI 14-39) and 16% (95% CI _6-37), while that of ADC (DS-8201) was 60% (95% CI 35-85). The DCRs of these groups were 59% (95% CI 49-69), 39% (95% CI _9-88), 63% (95% CI 37-89), 31% (95% CI 4-58) and 87% (95% CI 62-112), respectively. In the subgroup analysis, numerically higher ORRs and DCRs were observed in the poziotinib (38%; 75%) and pyrotinib (35%; 83%) groups. The median PFSs of these groups were 5.51 months, 3.09 months, 4.61 months, 2.65 months and 12.04 months, respectively. HER2-targeted therapy can be considered an acceptable treatment strategy for NSCLC patients with HER2 alterations. In particular, ADC (DS-8201), pyrotinib and poziotinib demonstrated promising anti-tumour activity in HER2-positive NSCLC.",
+        "results": "The ORRs of HER2-TKIs targeted therapy, humanised monoclonal antibody, trastuzumab-based treatment and antibody-drug conjugate (ADC) (T-DM1) were 22% (95% CI 11-31), 23% (95% CI 20-65), 26% (95% CI 14-39) and 16% (95% CI _6-37), while that of ADC (DS-8201) was 60% (95% CI 35-85). The DCRs of these groups were 59% (95% CI 49-69), 39% (95% CI _9-88), 63% (95% CI 37-89), 31% (95% CI 4-58) and 87% (95% CI 62-112), respectively. In the subgroup analysis, numerically higher ORRs and DCRs were observed in the poziotinib (38%; 75%) and pyrotinib (35%; 83%) groups. The median PFSs of these groups were 5.51 months, 3.09 months, 4.61 months, 2.65 months and 12.04 months, respectively.",
+        "conclusions": "HER2-targeted therapy can be considered an acceptable treatment strategy for NSCLC patients with HER2 alterations. In particular, ADC (DS-8201), pyrotinib and poziotinib demonstrated promising anti-tumour activity in HER2-positive NSCLC."
+    },
+    "PICO": {
+        "P": "Patients with HER2-positive non-small cell lung cancer",
+        "I": "HER2-targeted therapy (Including HER2-TKIs, humanised monoclonal antibody, trastuzumab-based treatment, antibody-drug conjugate (ADC) (T-DM1), and ADC (DS-8201))",
+        "C": "",
+        "O": "Objective response rate (ORR), disease control rate (DCR), and progression-free survival (PFS)"
+    },
+    "PICO_terms": {
+        "P": ["HER2-positive non-small cell lung cancer"],
+        "I": ["HER2-targeted therapy", "HER2-TKIs", "humanised monoclonal antibody", "trastuzumab-based treatment", "antibody-drug conjugate (T-DM1)", "ADC (DS-8201)"],
+        "C": [],
+        "O": ["Objective response rate", "disease control rate", "progression-free survival"]
+    },
+    "trials": [
+        {
+            "title": "Pan-cancer landscape and analysis of ERBB2 mutations identifies poziotinib as a clinically active inhibitor and enhancer of T-DM1 activity",
+            "pdf_link": "",
+            "pmid": "32183953",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Lung cancer that harbors an HER2 mutation: epidemiologic characteristics and therapeutic perspectives",
+            "pdf_link": "",
+            "pmid": "23610105",
+            "doi": "10.1200/JCO.2012.45.6095",
+            "nctid": ""
+        },
+        {
+            "title": "Lung cancer patients with HER2 mutations treated with chemotherapy and HER2-targeted drugs: results from the European EUHER2 cohort",
+            "pdf_link": "",
+            "pmid": "26598547",
+            "doi": "10.1093/annonc/mdv573",
+            "nctid": ""
+        },
+        {
+            "title": "Phase II study of afatinib, an irreversible ErbB family blocker, in demographically and genotypically defined lung adenocarcinoma",
+            "pdf_link": "",
+            "pmid": "25682316",
+            "doi": "10.1016/j.lungcan.2015.01.013",
+            "nctid": ""
+        },
+        {
+            "title": "Targeting HER2 aberrations as actionable drivers in lung cancers: phase II trial of the pan-HER tyrosine kinase inhibitor dacomitinib in patients with HER2-mutant or amplified tumors",
+            "pdf_link": "",
+            "pmid": "25899785",
+            "doi": "10.1093/annonc/mdv186",
+            "nctid": ""
+        },
+        {
+            "title": "HER2 mutations in Chinese patients with non-small cell lung cancer",
+            "pdf_link": "",
+            "pmid": "27825109",
+            "doi": "10.18632/oncotarget.11313",
+            "nctid": ""
+        },
+        {
+            "title": "Afatinib in patients with metastatic or recurrent HER2-mutant lung cancers: a retrospective international multicentre study",
+            "pdf_link": "",
+            "pmid": "30685684",
+            "doi": "10.1016/j.ejca.2018.11.030",
+            "nctid": ""
+        },
+        {
+            "title": "Clinical activity of pan-HER inhibitors against HER2-mutant lung adenocarcinoma",
+            "pdf_link": "",
+            "pmid": "30149884",
+            "doi": "10.1016/j.cllc.2018.05.018",
+            "nctid": ""
+        },
+        {
+            "title": "Activity of afatinib in heavily pretreated patients with ERBB2 mutation-positive advanced NSCLC: findings from a global named patient use program",
+            "pdf_link": "",
+            "pmid": "30096481",
+            "doi": "10.1016/j.jtho.2018.07.093",
+            "nctid": ""
+        },
+        {
+            "title": "Mechanisms and clinical activity of an EGFR and HER2 exon 20-selective kinase inhibitor in non-small cell lung cancer",
+            "pdf_link": "",
+            "pmid": "29686424",
+            "doi": "10.1038/s41591-018-0007-9",
+            "nctid": ""
+        },
+        {
+            "title": "HER kinase inhibition in patients with HER2- and HER3-mutant cancers",
+            "pdf_link": "",
+            "pmid": "29420467",
+            "doi": "10.1038/nature25475",
+            "nctid": ""
+        },
+        {
+            "title": "Afatinib in NSCLC with HER2 mutations: results of the prospective open-label phase II NICHE trial of European Thoracic Oncology Platform (ETOP)",
+            "pdf_link": "",
+            "pmid": "30825613",
+            "doi": "10.1016/j.jtho.2019.02.017",
+            "nctid": ""
+        },
+        {
+            "title": "HER2 exon 20 insertions in non-small-cell lung cancer are sensitive to the irreversible pan-HER receptor tyrosine kinase inhibitor pyrotinib",
+            "pdf_link": "",
+            "pmid": "30596880",
+            "doi": "10.1093/annonc/mdy542",
+            "nctid": ""
+        },
+        {
+            "title": "Pyrotinib in HER2-mutant advanced lung adenocarcinoma after platinum-based chemotherapy: a multicenter open-label single-arm phase II study",
+            "pdf_link": "",
+            "pmid": "32614698",
+            "doi": "10.1200/JCO.20.00297",
+            "nctid": ""
+        },
+        {
+            "title": "Clinical outcomes of patients with HER2-mutant advanced lung cancer: chemotherapies versus HER2-directed therapies",
+            "pdf_link": "",
+            "pmid": "32647540",
+            "doi": "10.1177/1758835920936090",
+            "nctid": ""
+        },
+        {
+            "title": "Trastuzumab plus docetaxel in HER2/neu-positive non-small-cell lung cancer: a California Cancer Consortium screening and phase II trial",
+            "pdf_link": "",
+            "pmid": "14967075",
+            "doi": "10.3816/clc.2004.n.004",
+            "nctid": ""
+        },
+        {
+            "title": "Efficacy and safety of single-agent pertuzumab, a human epidermal receptor dimerization inhibitor, in patients with non small cell lung cancer",
+            "pdf_link": "",
+            "pmid": "17947484",
+            "doi": "10.1158/1078-0432.CCR-07-0460",
+            "nctid": ""
+        },
+        {
+            "title": "Trastuzumab in the treatment of advanced non-small-cell lung cancer: is there a role? Focus on Eastern Cooperative Oncology Group Study 2598",
+            "pdf_link": "",
+            "pmid": "14981103",
+            "doi": "10.1200/JCO.2004.04.105",
+            "nctid": ""
+        },
+        {
+            "title": "Randomized phase II trial of gemcitabine-cisplatin with or without trastuzumab in HER2-positive non-small-cell lung cancer",
+            "pdf_link": "",
+            "pmid": "14679114",
+            "doi": "10.1093/annonc/mdh031",
+            "nctid": ""
+        },
+        {
+            "title": "Targeted therapy for advanced solid tumors on the basis of molecular profiles: results from MyPathway, an open-label phase IIa multiple basket study",
+            "pdf_link": "",
+            "pmid": "29320312",
+            "doi": "10.1200/JCO.2017.75.3780",
+            "nctid": ""
+        },
+        {
+            "title": "Trastuzumab and paclitaxel in patients with EGFR mutated NSCLC that express HER2 after progression on EGFR TKI treatment",
+            "pdf_link": "",
+            "pmid": "30061586",
+            "doi": "10.1038/s41416-018-0194-7",
+            "nctid": ""
+        },
+        {
+            "title": "Targeting HER2 with trastuzumab deruxtecan: a dose-expansion phase I study in multiple advanced solid tumors",
+            "pdf_link": "",
+            "pmid": "32213540",
+            "doi": "10.1158/2159-8290.CD-19-1014",
+            "nctid": ""
+        },
+        {
+            "title": "A phase II study of trastuzumab emtansine in HER2-positive non-small cell lung cancer",
+            "pdf_link": "",
+            "pmid": "29313813",
+            "doi": "10.1016/j.jtho.2017.10.032",
+            "nctid": ""
+        },
+        {
+            "title": "Ado-trastuzumab emtansine for patients with HER2-mutant lung cancers: results from a phase II basket trial",
+            "pdf_link": "",
+            "pmid": "29989854",
+            "doi": "10.1200/JCO.2018.77.9777",
+            "nctid": ""
+        },
+        {
+            "title": "Trastuzumab emtansine (T-DM1) in patients with previously treated HER2-overexpressing metastatic non-small cell lung cancer: efficacy, safety, and biomarkers",
+            "pdf_link": "",
+            "pmid": "30206164",
+            "doi": "10.1158/1078-0432.CCR-18-1590",
+            "nctid": ""
+        }
+    ],
+    "forest_plot_path": {
+        "./images/34820879/a.png": {
+            "subgroup": "afatinib",
+            "outcome": "effect size (ES) for objective response rate (ORR)"
+        },
+        "./images/34820879/b.png": {
+            "subgroup": "pyrotinib",
+            "outcome": "effect size (ES) for objective response rate (ORR)"
+        },
+        "./images/34820879/c.png": {
+            "subgroup": "poziotinib",
+            "outcome": "effect size (ES) for objective response rate (ORR)"
+        },
+        "./images/34820879/d.png": {
+            "subgroup": "dacomitinib",
+            "outcome": "effect size (ES) for objective response rate (ORR)"
+        },
+        "./images/34820879/e.png": {
+            "subgroup": "masatinib, neratinib, lapatinib and tarloxotinib",
+            "outcome": "effect size (ES) for objective response rate (ORR)"
+        },
+        "./images/34820879/f.png": {
+            "subgroup": "afatinib plus paclitaxel and neratinib plus temsirolimus",
+            "outcome": "effect size (ES) for objective response rate (ORR)"
+        }
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "title": "Microwave ablation compared with radiofrequency ablation for the treatment of liver cancer: a systematic review and meta-analysis",
+    "pmid": "34167181",
+    "date": "2021/06",
+    "text": {
+        "abstract": "Background: Guidelines have reported that although microwave ablation (MWA) has potential advantages over radiofrequency ablation (RFA), superiority in efficacy and safety remain unclear. Aim of the study is to compare MWA with RFA in the treatment of liver cancer.\n\nMethods: Meta-analysis was conducted according to the PRISMA guidelines for studies published from 2010 onwards. A random-effects model was used for the meta-analyses. Complete ablation (CA), local tumor progression (LTP), intrahepatic distant recurrence (IDR), and complications were analyzed.\n\nResults: Four randomized trials and 11 observational studies with a total of 2,169 patients met the inclusion criteria. Although overall analysis showed no significant difference in LTP between MWA and RFA, subgroup analysis including randomized trials for patients with hepatocellular cancer (HCC) demonstrated statistically decreased rates of LTP in favor of MWA (OR, 0.40; 95% CI, 0.18-0.92; p = 0.03). No significant differences were found between the two procedures in CA, IDR, complications, and tumor diameter less or larger than 3 cm.\n\nConclusions: MWA showed promising results and demonstrated better oncological outcomes in terms of LTP compared to RFA in patients with HCC. MWA can be utilized as the ablation method of choice in patients with HCC.\n\nKeywords: carcinoma hepatocellular; liver; liver neoplasms; microwaves; radiofrequency ablation.",
+        "results": "Four randomized trials and 11 observational studies with a total of 2,169 patients met the inclusion criteria. Although overall analysis showed no significant difference in LTP between MWA and RFA, subgroup analysis including randomized trials for patients with hepatocellular cancer (HCC) demonstrated statistically decreased rates of LTP in favor of MWA (OR, 0.40; 95% CI, 0.18-0.92; p = 0.03). No significant differences were found between the two procedures in CA, IDR, complications, and tumor diameter less or larger than 3 cm.",
+        "conclusions": "MWA showed promising results and demonstrated better oncological outcomes in terms of LTP compared to RFA in patients with HCC. MWA can be utilized as the ablation method of choice in patients with HCC."
+    },
+    "PICO": {
+        "P": "liver cancer",
+        "I": "1. microwave ablation; 2. radiofrequency ablation",
+        "C": "",
+        "O": "1. complete ablation (CA); 2. local tumor prgression (LTP); 3. intrahepatic distant (IDR); 4. complications"
+    },
+    "PICO_terms": {
+        "P": ["liver cancer"],
+        "I": ["microwave ablation", "radiofrequency ablation"],
+        "C": [],
+        "O": ["complete ablation", "local tumor prgression", "intrahepatic distant", "complications"]
+    },
+    "trials": [
+        {
+            "title": "Percutaneous cooled-probe microwave versus radiofrequency ablation in early-stage hepatocellular carcinoma: a phase III randomised controlled trial",
+            "pdf_link": "",
+            "pmid": "27884919",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Percutaneous radiofrequency versus microwave ablation for management of hepatocellular carcinoma: a randomized controlled trial",
+            "pdf_link": "",
+            "pmid": "31183208",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Efficacy of microwave ablation versus radiofrequency ablation for the treatment of hepatocellular carcinoma in patients with chronic liver disease: a randomised controlled phase 2 trial",
+            "pdf_link": "",
+            "pmid": "29503247",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Efficacy and survival analysis of percutaneous radiofrequency versus microwave ablation for hepatocellular carcinoma: an Egyptian multidisciplinary clinic experience",
+            "pdf_link": "",
+            "pmid": "24935203",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Coagulation areas produced by cool-tip radiofrequency ablation and microwave ablation using a device to decrease back-heating effects: a prospective pilot study",
+            "pdf_link": "",
+            "pmid": "24196263",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Efficacy of microwave versus radiofrequency ablation for treatment of small hepatocellular carcinoma: experimental and clinical studies",
+            "pdf_link": "",
+            "pmid": "22544225",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Percutaneous ultrasound guided radiofrequency and microwave ablation in the treatment of hepatic metastases. A monocentric initial experience",
+            "pdf_link": "",
+            "pmid": "31476199",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A comparison of microwave thermosphere versus radiofrequency thermal ablation in the treatment of colorectal liver metastases",
+            "pdf_link": "",
+            "pmid": "29929785",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Percutaneous Microwave versus Radiofrequency Ablation of Colorectal Liver Metastases: Ablation with Clear Margins (A0) Provides the Best Local Tumor Control",
+            "pdf_link": "",
+            "pmid": "29203394",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "MWA Versus RFA for Perivascular and Peribiliary CRLM: A Retrospective Patient- and Lesion-Based Analysis of Two Historical Cohorts",
+            "pdf_link": "",
+            "pmid": "27387188",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Microwave versus Radiofrequency Ablation Treatment for Hepatocellular Carcinoma: A Comparison of Efficacy at a Single Center",
+            "pdf_link": "",
+            "pmid": "27017124",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Ultrasound-guided ablative therapy for hepatic malignancies : a comparison of the therapeutic effects of microwave and radiofrequency ablation",
+            "pdf_link": "",
+            "pmid": "24720137",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Therapeutic efficacy of percutaneous radiofrequency ablation versus microwave ablation for hepatocellular carcinoma",
+            "pdf_link": "",
+            "pmid": "24146824",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Efficacy and safety of thermal ablation in patients with liver metastases",
+            "pdf_link": "",
+            "pmid": "23470267",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Laparoscopic-assisted microwave ablation for hepatocellular carcinoma: safety and efficacy in comparison with radiofrequency ablation",
+            "pdf_link": "",
+            "pmid": "21520094",
+            "doi": "",
+            "nctid": ""
+        }
+    ],
+    "forest_plot_path": {
+        "./images/34167181/a.png": {
+            "subgroup": "MWA (microwave ablation) v.s. RFA (radiofrequency ablation)",
+            "outcome": "Odds Ratio (OR) for Complete Ablation (CA)"
+        }
+    }
+}

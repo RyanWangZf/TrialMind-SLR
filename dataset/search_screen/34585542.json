@@ -1,0 +1,78 @@
+{
+    "title": "Comparison of Thermal Ablation and Surgery for Low-Risk Papillary Thyroid Microcarcinoma: A Systematic Review and Meta-Analysis",
+    "pmid": "34585542",
+    "date": "2021/10",
+    "text": {
+        "abstract": "Objective: Although thermal ablation is effective in treating low-risk papillary thyroid microcarcinomas (PTMCs), comparison of treatment outcomes between thermal ablation and surgery has not yet been systematically evaluated. This study aimed to compare the efficacy and safety of thermal ablation and surgery for the treatment of low-risk PTMCs.\n\nMaterials and methods: Ovid-MEDLINE and EMBASE databases were searched for studies reporting comparisons of treatment results between thermal ablation and surgery for patients with low-risk PTMC published up to April 6, 2020. The analysis evaluated the efficacy (local tumor recurrence, occurrence of new tumor, metastasis, and rescue surgery) and safety (complication rate) of thermal ablation and surgery.\n\nResults: This systematic review included four studies with a total of 339 PTMCs in 339 patients who underwent thermal ablation and 320 PTMCs in 314 patients who underwent surgery. There was no local tumor recurrence or distant metastasis in either group. There was no significant difference in the pooled proportion of lymph node metastasis (2.6% with thermal ablation vs. 3.3% with surgery, p = 0.65), occurrence of new tumors (1.4% with thermal ablation vs. 1.3% with surgery, p = 0.85), or rescue surgery (2.6% with thermal ablation vs. 1.6% with surgery, p = 0.62). However, the pooled complication rate was significantly higher in the surgery group than in the ablation group (3.3% with thermal ablation vs. 7.8% with surgery, p = 0.03).\n\nConclusion: Both thermal ablation and surgery are effective and safe options for the management of low-risk PTMCs, with thermal ablation achieving a lower complication rate. Therefore, thermal ablation may be considered as an alternative treatment option for low-risk PTMC in patients who refuse surgery and active surveillance or are ineligible for surgery.\n\nKeywords: Meta-analysis; Papillary thyroid microcarcinoma; Radiofrequency ablation; Thermal ablation; Thyroid gland.",
+        "results": "This systematic review included four studies with a total of 339 PTMCs in 339 patients who underwent thermal ablation and 320 PTMCs in 314 patients who underwent surgery. There was no local tumor recurrence or distant metastasis in either group. There was no significant difference in the pooled proportion of lymph node metastasis (2.6% with thermal ablation vs. 3.3% with surgery, p = 0.65), occurrence of new tumors (1.4% with thermal ablation vs. 1.3% with surgery, p = 0.85), or rescue surgery (2.6% with thermal ablation vs. 1.6% with surgery, p = 0.62). However, the pooled complication rate was significantly higher in the surgery group than in the ablation group (3.3% with thermal ablation vs. 7.8% with surgery, p = 0.03).",
+        "conclusions": "Both thermal ablation and surgery are effective and safe options for the management of low-risk PTMCs, with thermal ablation achieving a lower complication rate. Therefore, thermal ablation may be considered as an alternative treatment option for low-risk PTMC in patients who refuse surgery and active surveillance or are ineligible for surgery."
+    },
+    "PICO": {
+        "P": "low-risk papillary thyroid microcarcinomas (PTMCs)",
+        "I": "1. thermal ablation; 2. surgery",
+        "C": "",
+        "O": "1. new tumor after treatment; 2. lymph node metastasis; 3. complication"
+    },
+    "PICO_terms": {
+        "P": ["low-risk papillary thyroid microcarcinomas"],
+        "I": ["thermal ablation", "surgery"],
+        "C": [],
+        "O": ["new tumor after treatment", "lymph node metastasis", "complication"]
+    },
+    "trials": [
+        {
+            "title": "Comparative study on operative trauma between microwave ablation and surgical treatment for papillary thyroid microcarcinoma",
+            "pdf_link": "",
+            "pmid": "30568949",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A comparative study of short-term efficacy and safety for thyroid micropapillary carcinoma patients after microwave ablation or surgery",
+            "pdf_link": "",
+            "pmid": "31244350",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Ultrasound-guided laser ablation versus surgery for solitary papillary thyroid microcarcinoma: a retrospective study",
+            "pdf_link": "",
+            "pmid": "31464140",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Ultrasound-Guided Radiofrequency Ablation Versus Surgery for Low-Risk Papillary Thyroid Microcarcinoma: Results of Over 5 Years' Follow-Up",
+            "pdf_link": "",
+            "pmid": "31910107",
+            "doi": "",
+            "nctid": ""
+        }
+    ],
+    "forest_plot_path": {
+        "./images/34585542/a.png": {
+            "subgroup": "surgery",
+            "outcome": "number of events: New tumor after treated primary tumor"
+        },
+        "./images/34585542/b.png": {
+            "subgroup": "thermal ablation",
+            "outcome": "number of events: New tumor after treated primary tumor"
+        },
+        "./images/34585542/c.png": {
+            "subgroup": "surgery",
+            "outcome": "number of events: Lymph node metastasis"
+        },
+        "./images/34585542/d.png": {
+            "subgroup": "thermal ablation",
+            "outcome": "number of events: Lymph node metastasis"
+        },
+        "./images/34585542/e.png": {
+            "subgroup": "surgery",
+            "outcome": "number of events: Complication"
+        },
+        "./images/34585542/f.png": {
+            "subgroup": "thermal ablation",
+            "outcome": "number of events: Complication"
+        }
+    }
+}

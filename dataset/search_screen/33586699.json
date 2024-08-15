@@ -1,0 +1,162 @@
+{
+    "title": "Neoadjuvant hormone therapy for patients with high-risk prostate cancer: a systematic review and meta-analysis",
+    "pmid": "33586699",
+    "date": "2021/07",
+    "text": {
+        "abstract": "This study aimed to identify the pathological outcomes and survival benefits of neoadjuvant hormone therapy (NHT) combined with radical prostatectomy (RP) and radiotherapy (RT) administered to patients with high-risk prostate cancer (HRPCa). We searched PubMed, Embase, and the Cochrane Library for studies comparing NHT plus RP or RT with RP or RT alone, administered to patients with HRPCa. We used a random-effects model to compute risk estimates with 95% confidence intervals (CIs) and quantified heterogeneity using the I \"2\" statistic. Subgroup and sensitivity analyses were performed to identify potential sources of heterogeneity. We selected 16 studies. NHT before RP significantly decreased lymph node involvement (risk ratio [RR] = 0.69, 95% CI: 0.56-0.87) and increased the rates of pathological downstaging (RR = 2.62, 95% CI: 1.22-5.61) and organ-confinement (RR = 2.24, 95% CI: 1.54-3.25), but did not improve overall survival and biochemical progression-free survival (bPFS). The administration of NHT before RT to patients with HRPCa was associated with significant benefits for cancer-specific survival (hazard ratio [HR] = 0.51, 95% CI: 0.39-0.68), disease-free survival (HR = 0.51, 95% CI: 0.44-0.60), and bPFS (HR = 0.54, 95% CI: 0.46-0.64). Short-term NHT combined with RT administered to patients with HRPCa conferred significant improvements. Although the advantage of local control was observed when NHT was administered before RP, there was no significant survival benefit associated with HRPCa. Therefore, short-term NHT combined with RT is recommended for implementation in standard clinical practice but not for patients who undergo RP.\n\nKeywords: high-risk diseases; meta-analysis; neoadjuvant hormone therapy; prostate cancer; prostatectomy; radiotherapy.",
+        "results": "NHT before RP significantly decreased lymph node involvement (risk ratio [RR] = 0.69, 95% CI: 0.56-0.87) and increased the rates of pathological downstaging (RR = 2.62, 95% CI: 1.22-5.61) and organ-confinement (RR = 2.24, 95% CI: 1.54-3.25), but did not improve overall survival and biochemical progression-free survival (bPFS). The administration of NHT before RT to patients with HRPCa was associated with significant benefits for cancer-specific survival (hazard ratio [HR] = 0.51, 95% CI: 0.39-0.68), disease-free survival (HR = 0.51, 95% CI: 0.44-0.60), and bPFS (HR = 0.54, 95% CI: 0.46-0.64).",
+        "conclusions": "Short-term NHT combined with RT administered to patients with HRPCa conferred significant improvements. Although the advantage of local control was observed when NHT was administered before RP, there was no significant survival benefit associated with HRPCa. Therefore, short-term NHT combined with RT is recommended for implementation in standard clinical practice but not for patients who undergo RP."
+    },
+    "PICO": {
+        "P": "high-risk prostate cancer (HRPCa)",
+        "I": "1. neoadjuvant hormone therapy (NHT) with radical prostatectomy (RP); 2. RP alone",
+        "C": "",
+        "O": "1. overall survival; 2. biochemical progression-free survival; 3. cancer-specific survival; 4. disease-free survival; 5. risk rates (RRs) of lymph node involvement; 6. RRs of pathological downstaging; 7. RRs of organ-confinement; 8. RRs of positive surgical margins; 9. RRs of seminal vesicle invasion"
+    },
+    "PICO_terms": {
+        "P": ["high-risk prostate cancer"],
+        "I": ["neoadjuvant hormone therapy", "radical prostatectomy", "RP alone"],
+        "C": [],
+        "O": ["overall survival", "biochemical progression-free survival", "cancer-specific survival", "disease-free survival", "risk rates of lymph node involvement", "RRs of pathological downstaging", "RRs of organ-confinement","RRs of positive surgical margins", "RRs of seminal vesicle invasion"]
+    },
+    "trials": [
+        {
+            "title": "Neoadjuvant chemohormonal therapy combined with radical prostatectomy and extended PLND for very high risk locally advanced prostate cancer: a retrospective comparative study",
+            "pdf_link": "",
+            "pmid": "31466813",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Neoadjuvant androgen deprivation therapy prior to radical prostatectomy: recent trends in utilization and association with postoperative surgical margin status",
+            "pdf_link": "",
+            "pmid": "30430324",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Short-term benefit of neoadjuvant hormone therapy in patients with localized high-risk or limited progressive prostate cancer",
+            "pdf_link": "",
+            "pmid": "31190986",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Effect of neoadjuvant hormone therapy on resection margin and survival prognoses in locally advanced prostate cancer after prostatectomy using propensity-score matching",
+            "pdf_link": "",
+            "pmid": "30627554",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "The survival impact of neoadjuvant hormonal therapy before radical prostatectomy for treatment of high-risk prostate cancer",
+            "pdf_link": "",
+            "pmid": "28485390",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Long-term outcome following radical prostatectomy in men with clinical stage T3 prostate cancer",
+            "pdf_link": "",
+            "pmid": "16813890",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "4-year follow-up results of a European prospective randomized study on neoadjuvant hormonal therapy prior to radical prostatectomy in T2-3N0M0 prostate cancer",
+            "pdf_link": "",
+            "pmid": "11111188",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Effects of complete androgen blockade for 12 and 24 weeks on the pathological stage and resection margin status of prostate cancer",
+            "pdf_link": "",
+            "pmid": "12101195",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Combined brachytherapy and external beam radiotherapy without adjuvant androgen deprivation therapy for high-risk prostate cancer",
+            "pdf_link": "",
+            "pmid": "24401540",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Neoadjuvant hormonal therapy use and the risk of death in men with prostate cancer treated with brachytherapy who have no or at least a single risk factor for coronary artery disease",
+            "pdf_link": "",
+            "pmid": "22981136",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Short-term neoadjuvant androgen deprivation and radiotherapy for locally advanced prostate cancer: 10-year data from the TROG 96.01 randomised trial",
+            "pdf_link": "",
+            "pmid": "21440505",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Short-term androgen deprivation and radiotherapy for locally advanced prostate cancer: results from the Trans-Tasman Radiation Oncology Group 96.01 randomised controlled trial",
+            "pdf_link": "",
+            "pmid": "16257791",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Benefit of whole pelvic radiotherapy combined with neoadjuvant androgen deprivation for the high-risk prostate cancer",
+            "pdf_link": "",
+            "pmid": "19859572",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Early oncological and functional outcomes following radical treatment of high-risk prostate cancer in men older than 70 years: a prospective longitudinal study",
+            "pdf_link": "",
+            "pmid": "27083115",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Is neoadjuvant androgen deprivation therapy beneficial in prostate cancer treated with definitive radiotherapy",
+            "pdf_link": "",
+            "pmid": "25568853",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Short-term neoadjuvant androgen deprivation therapy and external-beam radiotherapy for locally advanced prostate cancer: long-term results of RTOG 8610",
+            "pdf_link": "",
+            "pmid": "18172188",
+            "doi": "",
+            "nctid": ""
+        }
+    ],
+    "forest_plot_path": {
+        "./images/33586699/a.png": {
+            "subgroup": "NHT (neoadjuvant hormone therapy) + RP (radical prostatectomy)",
+            "outcome": "hazard ratio (HR) for overall survival (OS)"
+        },
+        "./images/33586699/b.png": {
+            "subgroup": "RP alone (radical prostatectomy)",
+            "outcome": "hazard ratio for biochemical progression-free survival"
+        },
+        "./images/33586699/c.png": {
+            "subgroup": "NHT (neoadjuvant hormone therapy) + RT (radio therapy)",
+            "outcome": "hazard ratio (HR) for overall survival (OS)"
+        },
+        "./images/33586699/d.png": {
+            "subgroup": "RT (radio therapy) alone",
+            "outcome": "hazard ratio (HR) for cancer-specific survival"
+        },
+        "./images/33586699/e.png": {
+            "subgroup": "NHT (neoadjuvant hormone therapy) + RT (radio therapy)",
+            "outcome": "hazard ratio (HR) for disease-free survival"
+        },
+        "./images/33586699/f.png": {
+            "subgroup": "RT (radio therapy) alone",
+            "outcome": "hazard ratio (HR) for biochemical progression-free survival"
+        }
+    }
+}

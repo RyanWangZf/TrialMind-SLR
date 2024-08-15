@@ -1,0 +1,87 @@
+{
+    "title": "Efficacy and Safety of CAR-T Therapy for ...",
+    "pmid": "33746596",
+    "date": "2021/02",
+    "text": {
+        "abstract": "ABSTRACT\nBackground: Multiple myeloma (MM) is incurable in spite of recent treatment improvements, highlighting the development of new therapies. Chimeric antigen receptor (CAR) T-cell therapy has dramatically changed the therapeutic effectiveness in high-risk B-cell malignancies. For relapsed/refractory multiple myeloma (RRMM), preclinical evaluations of CAR-T therapy have shown promising efficacy, thus various active clinical trials are under way. Herein, we conducted this review to summarize efficacy and safety of CAR-T therapy and provide more evidence to guide clinical treatments.\n\nMethod: We systematically searched literature based on databases (PubMed, EMBASE, Cochrane Central Register of Controlled Trials), and conference abstracts reported from American Society of Hematology (ASH), European Hematology Association (EHA) and American Society of Clinical Oncology (ASCO), in addition to other sources (www.clinicaltrials.gov, article citations). Data assessed efficacy and safety of CAR-T therapy in patients with RRMM were extracted and evaluated, and then systematically analyzed by Comprehensive Meta-analysis 3.0 (CMA 3.0).\n\nResults: A total of 23 studies including 350 participants from different countries, diagnosed as RRMM and treated with CAR-T therapy (containing 7 antigens targeted by CARs) were combined. In summary, we discovered the pooled overall response rate (77%), complete response rate (37%) and minimal residual disease (MRD) negativity rate within responders (78%). Furthermore, the pooled relapse rate of responders was 38% and median progression-free survival was 8 months. The pooled survival rate was 87% at last follow-up (median, 12 months). In addition, the pooled grade 3-4 rates of cytokine release syndrome (CRS) and neurologic toxicities (NT) were 14% and 13%, respectively.\n\nConclusion: Our study suggests that CAR-T therapy has demonstrated efficacy and safety in RRMM patients. BCMA-targeted CAR-T and anti-BCMA contained regimen have shown better efficacy.\n\nKeywords: RRMM, CARs, CAR-T therapy, antigens, BCMA, co-stimulatory domain, systematic review, meta-analysis",
+        "results": "A total of 23 studies including 350 participants from different countries, diagnosed as RRMM and treated with CAR-T therapy (containing 7 antigens targeted by CARs) were combined. In summary, we discovered the pooled overall response rate (77%), complete response rate (37%) and minimal residual disease (MRD) negativity rate within responders (78%). Furthermore, the pooled relapse rate of responders was 38% and median progression-free survival was 8 months. The pooled survival rate was 87% at last follow-up (median, 12 months). In addition, the pooled grade 3-4 rates of cytokine release syndrome (CRS) and neurologic toxicities (NT) were 14% and 13%, respectively.",
+        "conclusions": "Our study suggests that CAR-T therapy has demonstrated efficacy and safety in RRMM patients. BCMA-targeted CAR-T and anti-BCMA contained regimen have shown better efficacy."
+    },
+    "PICO": {
+        "P": "Patients with relapsed/refractory multiple myeloma (RRMM)",
+        "I": "CAR-T therapy",
+        "C": "N/A",
+        "O": "Efficacy outcomes such as overall response rate, complete response rate, minimal residual disease (MRD) negativity rate, relapse rate, and median progression-free survival; Safety outcomes such as rates of grade 3-4 cytokine release syndrome (CRS) and neurologic toxicities (NT)"
+    },
+    "PICO_terms": {
+        "P": [" relapsed/refractory multiple myeloma"],
+        "I": ["CAR-T therapy"],
+        "C": [],
+        "O": ["Efficacy outcomes", "overall response rate", "complete response rate", "minimal residual disease negativity rate", "relapse rate", "median progression-free survival", "Safety outcomes", "rates of grade 3-4 cytokine release syndrome", "neurologic toxicities"]
+    },
+    "trials": [
+        {
+            "title": "T Cells Genetically Modified to Express an Anti-B-Cell Maturation Antigen Chimeric Antigen Receptor Cause Remissions of Poor-Prognosis Relapsed Multiple Myeloma.",
+            "pdf_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6067798/pdf/JCO.2018.77.8084.pdf",
+            "pmid": "29812997",
+            "doi": "10.1200/JCO.2018.77.8084",
+            "nctid": "NCT02215967"
+        },
+        {
+            "title": "Anti-CD19 CAR T cells with high-dose melphalan and autologous stem cell transplantation for refractory multiple myeloma.",
+            "pdf_link": "",
+            "pmid": "29669947",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Clinical responses with T lymphocytes targeting malignancy-associated kappa light chains.",
+            "pdf_link": "",
+            "pmid": "27270177",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase I Trial of Autologous CAR T Cells Targeting NKG2D Ligands in Patients with AML/MDS and Multiple Myeloma.",
+            "pdf_link": "",
+            "pmid": "30396908",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "B cell maturation antigen-specific CAR T cells are clinically active in multiple myeloma.",
+            "pdf_link": "",
+            "pmid": "30896447",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Anti-BCMA CAR T-Cell Therapy bb2121 in Relapsed or Refractory Multiple Myeloma.",
+            "pdf_link": "",
+            "pmid": "31042825",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Exploratory trial of a biepitopic CAR T-targeting B cell maturation antigen in relapsed/refractory multiple myeloma.",
+            "pdf_link": "",
+            "pmid": "30988175",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Combined infusion of CD19 and Bcma-specific chimeric antigen receptor T cells for RRMM: initial safety and efficacy report from a clinical pilot study.",
+            "pdf_link": "",
+            "pmid": "31378662",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A phase 1, open-label study of LCAR-B38M, a chimeric antigen receptor T cell therapy directed against B cell maturation antigen, in patients with relapsed or refractory multiple myeloma.",
+            "pdf_link": "",
+            "pmid": "30572922",
+            "doi": "",
+            "nctid": ""
+        }
+    ]
+}

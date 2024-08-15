@@ -1,0 +1,72 @@
+{
+    "title": "Adjuvant endocrine therapy in HER2-positive breast cancer patients: systematic review and meta-analysis",
+    "pmid": "33735801",
+    "date": "2021/04",
+    "text": {
+        "abstract": "Background: Approximately 50% of human epidermal growth factor receptor 2 (HER2)-positive breast cancer lesions express hormone receptors. These tumors present a unique therapeutic challenge, and the optimal endocrine therapeutic approach remains controversial. We aimed to study the optimal adjuvant endocrine therapy in this setting, to better establish the basis for clinical recommendations in HER2-positive disease.\n\nMethods: We conducted a literature search up to May 2020, in which we identified randomized controlled trials (RCTs) that investigated the efficacy of various adjuvant hormonal therapies among premenopausal and postmenopausal patients with hormone receptor (HR)-positive, HER2-positive early breast cancer. Disease-free survival (DFS) was calculated with the random effect model and hazard ratios (HRs) with 95% confidence intervals (CI).\n\nResults: Six RCTs (N = 5390 patients) were included in the final analysis. There was no significant difference in DFS between adjuvant treatment with aromatase inhibitors and tamoxifen (HR 0.99, 95% CI 0.68-1.44, P = 0.96). Furthermore, after omitting the ALTTO trial, as it did not randomize patients to hormonal therapy, no significant difference was observed between the two protocols (HR 1.06, 95% CI 0.65-1.73, P = 0.81).\n\nConclusion: Our study demonstrates similar DFS with tamoxifen and aromatase inhibitors as adjuvant endocrine treatment in HER2-positive HR-positive early-stage breast cancer patients. Future larger prospective studies focusing on the various contemporary endocrine regimens are warranted to validate our findings.\n\nKeywords: HER2-positive; adjuvant treatment; breast cancer; endocrine therapy.",
+        "results": "Six RCTs (N = 5390 patients) were included in the final analysis. There was no significant difference in DFS between adjuvant treatment with aromatase inhibitors and tamoxifen (HR 0.99, 95% CI 0.68-1.44, P = 0.96). Furthermore, after omitting the ALTTO trial, as it did not randomize patients to hormonal therapy, no significant difference was observed between the two protocols (HR 1.06, 95% CI 0.65-1.73, P = 0.81).",
+        "conclusions": "Our study demonstrates similar DFS with tamoxifen and aromatase inhibitors as adjuvant endocrine treatment in HER2-positive HR-positive early-stage breast cancer patients. Future larger prospective studies focusing on the various contemporary endocrine regimens are warranted to validate our findings."
+    },
+    "PICO": {
+        "P": "HR-positive/HER2-positive early-stage breast cancer",
+        "I": "1. adjuvant endocrine therapy (tamoxifen); 2. aromatase inhibitors",
+        "C": "",
+        "O": "disease-free survival"
+    },
+    "PICO_terms": {
+        "P": ["HR-positive/HER2-positive", "early-stage breast cancer"],
+        "I": ["adjuvant endocrine therapy (tamoxifen)", "aromatase inhibitors"],
+        "C": [],
+        "O": ["disease-free survival"]
+    },
+    "trials": [
+        {
+            "title": "Adjuvant tamoxifen and exemestane in early breast cancer (TEAM): a randomised phase 3 trial",
+            "pdf_link": "",
+            "pmid": "21247627",
+            "doi": "",
+            "nctid": "NCT00279448,NCT00032136,NCT00036270"
+        },
+        {
+            "title": "Results of the ATAC (Arimidex, Tamoxifen, Alone or in Combination) trial after completion of 5 years' adjuvant treatment for breast cancer",
+            "pdf_link": "",
+            "pmid": "15639680",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Assessment of letrozole and tamoxifen alone and in sequence for postmenopausal women with steroid hormone receptor-positive breast cancer: the BIG 1-98 randomised clinical trial at 8\u00b71 years median follow-up",
+            "pdf_link": "",
+            "pmid": "22018631",
+            "doi": "",
+            "nctid": "NCT00004205"
+        },
+        {
+            "title": "Adjuvant Letrozole and Tamoxifen Alone or Sequentially for Postmenopausal Women With Hormone Receptor-Positive Breast Cancer: Long-Term Follow-Up of the BIG 1-98 Trial",
+            "pdf_link": "",
+            "pmid": "30475668",
+            "doi": "",
+            "nctid": "NCT00004205"
+        },
+        {
+            "title": "Tailoring Adjuvant Endocrine Therapy for Premenopausal Breast Cancer",
+            "pdf_link": "",
+            "pmid": "29863451",
+            "doi": "",
+            "nctid": "NCT00066690,NCT00066703"
+        },
+        {
+            "title": "Adjuvant Lapatinib and Trastuzumab for Early Human Epidermal Growth Factor Receptor 2-Positive Breast Cancer: Results From the Randomized Phase III Adjuvant Lapatinib and/or Trastuzumab Treatment Optimization Trial",
+            "pdf_link": "",
+            "pmid": "26598744",
+            "doi": "",
+            "nctid": ""
+        }
+    ],
+    "forest_plot_path": {
+        "./images/33735801/a.png": {
+            "subgroup": "tamoxifen versus aromatase inhibitors",
+            "outcome": "hazard ratio (HR) for disease-free survival (DFS)"
+        }
+    }
+}

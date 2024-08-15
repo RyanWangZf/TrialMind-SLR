@@ -1,0 +1,10 @@
+PMID,Year,Design,Chemotherapy regimen,The time of blood collected,Primary points,Follow-up
+31700918,2019,randomized control trial,Epirubicin + docetaxel; epirubicin + cyclophosphamide,"On days 1, 3, 5, 7, 8, 9, 10, 11, 13, 15, 17, and 21 during cycle 1 or until an absolute neutrophil count ≥ 2.0 × 109/L was reached",Duration of grade ≥ 3 neutropenia,Four cycles
+31205914,2019,randomized control trial,Epirubicin + docetaxel; epirubicin + cyclophosphamide,Daily from the first day of chemotherapy to next cycle,"≥ Grade III absolute neutrophil count neutropenia, adverse events",Two cycles
+30181755,2018,randomized control trial,Doxorubicin + cyclophosphamide,1 and 2 weeks after chemotherapy,"Blood cell counts, adverse events",Two cycles
+30043207,2018,randomized control trial,Adriamycin/epirubicin + cyclophosphamide,"Days 0, 3, 5, 7, 9, 11, 13, 17, the blood was collected after chemotherapy","Grade IV absolute neutrophil count neutropenia, adverse events",Two cycles
+29230663,2018,randomized control trial,Epirubicin + cyclophosphamide; epirubicin + docetaxel; docetaxel + cyclophosphamide,"Days 3, 5, 7–11, 13, 15, 17, and 21 of cycle 1, and on days 5, 7, 9, 11, 13, and 21 of subsequent cycles","Grade IV absolute neutrophil count neutropenia, adverse events",Four cycles
+27709313,2017,randomized control trial,Doxorubicin + cyclophosphamide + docetaxel,not applicable,"Grade IV absolute neutrophil count neutropenia, adverse events",Six cycles
+25820754,2015,randomized control trial,Doxorubicin + cyclophosphamide + docetaxel,"Days 3, 5, 7–11, 13, 15, 17, 21 of the chemotherapy cycle 1 for absolute neutrophil count determination, and if an ANC ≤ 1.0 × 109/L, blood samples were collected daily until absolute neutrophil count reached ≥ 2.0 × 109/L","≥ Grade III absolute neutrophil count neutropenia, adverse events",One cycle
+23677653,2013,randomized control trial,Doxorubicin + cyclophosphamide + docetaxel,not applicable,Grade IV absolute neutrophil count neutropenia,One cycle
+11821454,2002,randomized control trial,Doxorubicin + docetaxel,not applicable,Grade IV absolute neutrophil count neutropenia,Four cycles

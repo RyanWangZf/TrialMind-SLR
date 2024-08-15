@@ -1,0 +1,81 @@
+{
+    "title": "Efficacy and activity of PD-1 blockade in patients with advanced esophageal squamous cell carcinoma: a systematic review and meta-analysis with focus on the value of PD-L1 combined positive score",
+    "pmid": "35093742",
+    "date": "2022/02",
+    "text": {
+        "abstract": "Background: Recently, several randomized controlled trials (RCTs) investigated immunotherapy-based regimens versus chemotherapy alone in patients with advanced esophageal squamous cell carcinoma (ESCC). Here we conducted a systematic review and meta-analysis on the efficacy and activity of programmed cell death protein 1 blockade in these patients, with focus on the value of programmed death-ligand 1 combined positive score (CPS) for selecting patients who may benefit the most.\n\nMethods: RCTs investigating treatment with or without immune checkpoint inhibitors for advanced ESCC were selected. The hazard ratio (HR) and the odds ratio were used to compare the treatment effect on survival outcomes and tumor response, respectively, for immunotherapy-based regimens compared with standard chemotherapy, overall and according to geographic region or treatment line. We carried out a subgroup analysis comparing patients with CPS \u226510 or <10 and the evidence for treatment effect was evaluated by interaction test.\n\nResults: A total of 5257 patients and 10 RCTs were included. Overall, the HR for overall survival benefit with immunotherapy-based regimens was 0.71 [95% confidence interval (CI) 0.66-0.76] compared with chemotherapy alone; such effect was independent from geographical region (Asia versus rest of the world) and treatment line (upfront versus second/further lines). The HR for progression-free survival benefit and the odds ratio for overall response rate increase were 0.78 (95% CI 0.66-0.93) and 1.50 (95% CI 1.22-1.83), respectively. The HR for overall survival benefit with immunotherapy-based treatment was 0.60 (95% CI 0.51-0.70) for CPS \u226510 subgroup versus 0.83 (95% CI 0.69-1.00) for CPS <10 (P for interaction 0.009).\n\nConclusions: Immune checkpoint inhibitors have a consistent benefit in reducing the risk of death for ESCC patients which is dependent on programmed death-ligand 1 CPS status. Further investigations of biomarkers for immunotherapy in the subgroup of patients with CPS <10 are needed.\n\nKeywords: combined positive score; esophageal squamous cell carcinoma; immune checkpoint inhibitors; meta-analysis.",
+        "results": "A total of 5257 patients and 10 RCTs were included. Overall, the HR for overall survival benefit with immunotherapy-based regimens was 0.71 [95% confidence interval (CI) 0.66-0.76] compared with chemotherapy alone; such effect was independent from geographical region (Asia versus rest of the world) and treatment line (upfront versus second/further lines). The HR for progression-free survival benefit and the odds ratio for overall response rate increase were 0.78 (95% CI 0.66-0.93) and 1.50 (95% CI 1.22-1.83), respectively. The HR for overall survival benefit with immunotherapy-based treatment was 0.60 (95% CI 0.51-0.70) for CPS \u226510 subgroup versus 0.83 (95% CI 0.69-1.00) for CPS <10 (P for interaction 0.009).",
+        "conclusions": "Immune checkpoint inhibitors have a consistent benefit in reducing the risk of death for ESCC patients which is dependent on programmed death-ligand 1 CPS status. Further investigations of biomarkers for immunotherapy in the subgroup of patients with CPS <10 are needed."
+    },
+    "PICO": {
+        "P": "Patients with advanced esophageal squamous cell carcinoma (ESCC)",
+        "I": "Immunotherapy-based regimens (PD-1 blockade)",
+        "C": "Standard chemotherapy alone",
+        "O": "Survival outcomes (overall survival benefit, progression-free survival benefit, and overall response rate), with a particular focus on comparing these outcomes based on differences in the programmed death-ligand 1 combined positive score (CPS)"
+    },
+    "PICO_terms": {
+        "P": ["advanced esophageal squamous cell carcinoma"],
+        "I": ["Immunotherapy-based regimens", "PD-1 blockade"],
+        "C": ["Standard chemotherapy alone"],
+        "O": ["Survival outcomes", "overall survival benefit", "progression-free survival benefit", "overall response rate", "the programmed death-ligand 1 combined positive score"]
+    },
+    "trials": [
+        {
+            "title": "Pembrolizumab plus chemotherapy versus chemotherapy alone for first-line treatment of advanced oesophageal cancer (KEYNOTE-590): a randomised, placebo-controlled, phase 3 study",
+            "pdf_link": "",
+            "pmid": "34454674",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Randomized phase III KEYNOTE-181 study of pembrolizumab versus chemotherapy in advanced esophageal cancer",
+            "pdf_link": "",
+            "pmid": "33026938",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Nivolumab versus chemotherapy in patients with advanced oesophageal squamous cell carcinoma refractory or intolerant to previous chemotherapy (ATTRACTION-3): a multicentre, randomised, open-label, phase 3 trial",
+            "pdf_link": "",
+            "pmid": "31582355",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Camrelizumab versus investigator's choice of chemotherapy as second-line therapy for advanced or metastatic oesophageal squamous cell carcinoma (ESCORT): a multicentre, randomised, open-label, phase 3 study",
+            "pdf_link": "",
+            "pmid": "32416073",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Effect of camrelizumab vs placebo added to chemotherapy on survival and progression-free survival in patients with advanced or metastatic esophageal squamous cell carcinoma: the ESCORT-1st Randomized Clinical Trial",
+            "pdf_link": "",
+            "pmid": "34519801",
+            "doi": "",
+            "nctid": ""
+        }
+    ],
+    "forest_plot_path": {
+        "./images/35093742/e-CPS\uff1c10%-Overall Survival.png": {
+            "subgroup": "CPS\uff1c10%",
+            "outcome": "Overall Survival"
+        },
+        "./images/35093742/a-overall-Overall Survival.png": {
+            "subgroup": "overall",
+            "outcome": "Overall Survival"
+        },
+        "./images/35093742/d-CPS\u226510%-Overall Survival.png": {
+            "subgroup": "CPS\u226510%",
+            "outcome": "Overall Survival"
+        },
+        "./images/35093742/c-overall-ORR.png": {
+            "subgroup": "overall",
+            "outcome": "ORR"
+        },
+        "./images/35093742/b-overall-Overall PFS.png": {
+            "subgroup": "overall",
+            "outcome": "Overall PFS"
+        }
+    }
+}

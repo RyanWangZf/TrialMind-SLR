@@ -1,0 +1,1101 @@
+{
+    "title": "Meta-analysis of immune-related adverse events of immune checkpoint inhibitor therapy in cancer patients",
+    "pmid": "32643323",
+    "date": "2020/09",
+    "text": {
+        "abstract": "Abstract\nBackground: Immune checkpoint inhibitors (ICIs) have significant clinical efficacy in the treatment of non-small cell lung cancer (NSCLC); however, the incidence of immune-related adverse events (irAEs) of up to 50% has prevented their widespread use. With the increase in the use of ICIs alone or as combination therapy, clinicians are required to have a better understanding of irAEs and be able to manage them systematically. In this study, we aimed to assess the incidence of irAEs associated with ICIs.\n\nMethods: We searched PubMed, Embase, and the Web of Science databases, and also included relevant literature references to widen our search. The relevant data with inclusion criteria were performed using RevMan 3.6.0 for meta-analysis. We undertook a systematic literature search which included published data up to December 2019.\n\nResults: Overall, 147 articles and 23 761 cancer patients with 11 different ICI treatment-related (grade 1-5 and 3-5) irAEs were included in the study. There were 46 articles on pembrolizumab (6598 patients), 27 on nivolumab (3576 patients), 13 on atezolizumab (2787 patients), 12 on avelumab (3213 patients), 10 on durvalumab (1780 patients), 22 on ipilimumab (4067 patients), eight on tremelimumab (1158 patients), three on JS001 (223 patients), four on camrelizumab (SHR-1210) (178 patients), one on sintilimab (96 patients), and one on cemiplimab (85 patients). Grade 1-5 irAEs were: cytotoxic T lymphocyte antigen 4 (CTLA-4) (82.87%), programmed cell death 1 (PD-1) (71.89%), and programmed cell death ligand-1 (PD-L1) (58.95%). Subgroup analysis was: Avelumab (44.53%), durvalumab (66.63%), pembrolizumab (67.25%), atezolizumab (68.77%), nivolumab (76.25%), Ipilimumab (82.18%), and tremelimumab (86.78%). Grade 3-5 irAEs were: CTLA-4 (27.22%), PD-1(17.29%), and PD-L1(17.29%). Subgroup analysis was: Avelumab (5.86%), durvalumab (13.43%), atezolizumab (14.45%), nivolumab (15.72%), pembrolizumab (16.58%), tremelimumab (22.04%), and ipilimumab (28.27%).\n\nConclusions: This meta-analysis confirmed that anti-PD-1 and anti-PD-L1 inhibitors had a lower incidence of irAEs compared with anti-CTLA-4 inhibitors.\n\nKeywords: Cancer; immune checkpoint inhibitor (ICI); immune-related adverse events (irAEs).",
+        "results": "Overall, 147 articles and 23 761 cancer patients with 11 different ICI treatment-related (grade 1-5 and 3-5) irAEs were included in the study. There were 46 articles on pembrolizumab (6598 patients), 27 on nivolumab (3576 patients), 13 on atezolizumab (2787 patients), 12 on avelumab (3213 patients), 10 on durvalumab (1780 patients), 22 on ipilimumab (4067 patients), eight on tremelimumab (1158 patients), three on JS001 (223 patients), four on camrelizumab (SHR-1210) (178 patients), one on sintilimab (96 patients), and one on cemiplimab (85 patients). Grade 1-5 irAEs were: cytotoxic T lymphocyte antigen 4 (CTLA-4) (82.87%), programmed cell death 1 (PD-1) (71.89%), and programmed cell death ligand-1 (PD-L1) (58.95%). Subgroup analysis was: Avelumab (44.53%), durvalumab (66.63%), pembrolizumab (67.25%), atezolizumab (68.77%), nivolumab (76.25%), Ipilimumab (82.18%), and tremelimumab (86.78%). Grade 3-5 irAEs were: CTLA-4 (27.22%), PD-1(17.29%), and PD-L1(17.29%). Subgroup analysis was: Avelumab (5.86%), durvalumab (13.43%), atezolizumab (14.45%), nivolumab (15.72%), pembrolizumab (16.58%), tremelimumab (22.04%), and ipilimumab (28.27%).",
+        "conclusions": "This meta-analysis confirmed that anti-PD-1 and anti-PD-L1 inhibitors had a lower incidence of irAEs compared with anti-CTLA-4 inhibitors."
+    },
+    "PICO": {
+        "P": "Cancer patients receiving immune checkpoint inhibitor therapy",
+        "I": "Immune checkpoint inhibitor (ICI) therapy",
+        "C": "Different types of ICI therapies, including pembrolizumab, nivolumab, atezolizumab, avelumab, durvalumab, ipilimumab, tremelimumab, JS001 (toripalimab), camrelizumab (SHR-1210), sintilimab, and cemiplimab",
+        "O": "Incidence of immune-related adverse events (irAEs)"
+    },
+    "PICO_terms": {
+        "P": ["Cancer", "mmune checkpoint inhibitor therapy"],
+        "I": ["Immune checkpoint inhibitor"],
+        "C": ["pembrolizumab", "nivolumab", "atezolizumab", "avelumab", "durvalumab", "ipilimumab", "tremelimumab", "JS001 (toripalimab)", "camrelizumab (SHR-1210)", "sintilimab", "cemiplimab"],
+        "O": ["Incidence of immune-related adverse events"]
+    },
+    "trials": [
+        {
+            "title": "Pembrolizumab versus Ipilimumab in advanced melanoma",
+            "pdf_link": "",
+            "pmid": "25891173",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Pembrolizumab for the treatment of non\u2013small\u2010cell lung cancer",
+            "pdf_link": "",
+            "pmid": "25891174",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase 1 study of pembrolizumab (MK\u20103475; anti\u2010PD\u20101 monoclonal antibody) in patients with advanced solid tumors",
+            "pdf_link": "",
+            "pmid": "25977344",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "PD\u20101 blockade in tumors with mismatch\u2010repair deficiency",
+            "pdf_link": "",
+            "pmid": "26559583",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Pembrolizumab versus investigator\u2010choice chemotherapy for ipilimumab\u2010refractory melanoma (KEYNOTE\u2010002): A randomised, controlled, phase 2 trial",
+            "pdf_link": "",
+            "pmid": "26115796",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Pembrolizumab versus docetaxel for previously treated, PD\u2010L1\u2010positive, advanced non\u2010small\u2010cell lung cancer (KEYNOTE\u2010010): A randomised controlled trial",
+            "pdf_link": "",
+            "pmid": "26712084",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase 1 study of pembrolizumab (MK\u20103475; anti\u2010PD\u20101 monoclonal antibody) in Japanese patients with advanced solid tumors",
+            "pdf_link": "",
+            "pmid": "27000274",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Pembrolizumab for patients with PD\u2010L1\u2010positive advanced gastric cancer (KEYNOTE\u2010012): A multicentre, open\u2010label, phase 1b trial",
+            "pdf_link": "",
+            "pmid": "27157491",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Safety and clinical activity of pembrolizumab for treatment of recurrent or metastatic squamous cell carcinoma of the head and neck (KEYNOTE\u2010012): An open\u2010label, multicentre, phase 1b trial",
+            "pdf_link": "",
+            "pmid": "27247226",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A phase II trial of pembrolizumab for patients with melanoma or non\u2010small cell lung cancer and untreated brain metastases",
+            "pdf_link": "",
+            "pmid": "27267608",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Pembrolizumab versus chemotherapy for PD\u2010L1\u2013positive non\u2013small\u2010cell lung cancer",
+            "pdf_link": "",
+            "pmid": "27718847",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Safety and antitumor activity of the anti\u2010PD\u20101 antibody pembrolizumab in patients with recurrent carcinoma of the anal canal",
+            "pdf_link": "",
+            "pmid": "28453692",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Safety and activity of pembrolizumab in patients with locally advanced or metastatic urothelial cancer (KEYNOTE\u2010012): A non\u2010randomised, open\u2010label, phase 1b study",
+            "pdf_link": "",
+            "pmid": "28081914",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Pembrolizumab as first\u2010line therapy for patients with PD\u2010L1\u2010positive advanced non\u2010small cell lung cancer: A phase 1 trial",
+            "pdf_link": "",
+            "pmid": "28168303",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase II study of the efficacy and safety of Pembrolizumab for relapsed/refractory classic Hodgkin lymphoma",
+            "pdf_link": "",
+            "pmid": "28441111",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Mismatch\u2010repair deficiency predicts response of solid tumors to PD\u20101 blockade",
+            "pdf_link": "",
+            "pmid": "28596308",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Pembrolizumab versus ipilimumab for advanced melanoma: Final overall survival results of a multicentre, randomised, open\u2010label phase 3 study (KEYNOTE\u2010006)",
+            "pdf_link": "",
+            "pmid": "28822576",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "First\u2010line pembrolizumab in cisplatin\u2010ineligible patients with locally advanced and unresectable or metastatic urothelial cancer (KEYNOTE\u2010052): A multicentre, single\u2010arm, phase 2 study",
+            "pdf_link": "",
+            "pmid": "28967485",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase II trial of pembrolizumab in patients with platinum refractory germ\u2010cell tumors: A Hoosier cancer research network study GU14\u2010206",
+            "pdf_link": "",
+            "pmid": "29045540",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Pembrolizumab in patients with thymic carcinoma: A single\u2010arm, single\u2010centre, phase 2 study",
+            "pdf_link": "",
+            "pmid": "29395863",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Pembrolizumab for the treatment of advanced salivary gland carcinoma findings of the phase 1b KEYNOTE\u2010028 study",
+            "pdf_link": "",
+            "pmid": "29462123",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Safety and efficacy of pembrolizumab monotherapy in patients with previously treated advanced gastric and Gastroesophageal junction cancer phase 2 clinical KEYNOTE\u2010059 trial",
+            "pdf_link": "",
+            "pmid": "29543932",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Safety and antitumor activity of Pembrolizumab in patients with estrogen receptor\u2013positive/human epidermal growth factor receptor 2\u2013negative advanced breast cancer",
+            "pdf_link": "",
+            "pmid": "29559561",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Adjuvant Pembrolizumab versus placebo in resected stage III melanoma",
+            "pdf_link": "",
+            "pmid": "29658430",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Pembrolizumab in patients with advanced hepatocellular carcinoma previously treated with sorafenib (KEYNOTE\u2010224): A non\u2010randomised, open\u2010label phase 2 trial",
+            "pdf_link": "",
+            "pmid": "29875066",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Pembrolizumab versus paclitaxel for previously treated, advanced gastric or gastro\u2010oesophageal junction cancer (KEYNOTE\u2010061): A randomised, open\u2010label, controlled, phase 3 trial",
+            "pdf_link": "",
+            "pmid": "29880231",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Pembrolizumab for advanced prostate adenocarcinoma: Findings of the KEYNOTE\u2010028 study",
+            "pdf_link": "",
+            "pmid": "29992241",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Pembrolizumab versus methotrexate, docetaxel, or cetuximab for recurrent or metastatic head\u2010and\u2010neck squamous cell carcinoma (KEYNOTE\u2010040): A randomised, open\u2010label, phase 3 study",
+            "pdf_link": "",
+            "pmid": "30509740",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Pembrolizumab in patients with programmed death ligand 1\u2010positive advanced ovarian cancer: Analysis of KEYNOTE\u2010028",
+            "pdf_link": "",
+            "pmid": "30522700",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Efficacy and safety of Pembrolizumab for heavily pretreated patients with advanced, metastatic adenocarcinoma or squamous cell carcinoma of the esophagus the phase 2 KEYNOTE\u2010180 study",
+            "pdf_link": "",
+            "pmid": "30570649",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Randomised phase 2 study of pembrolizumab plus CC\u2010486 versus pembrolizumab plus placebo in patients with previously treated advanced non\u2010small cell lung cancer",
+            "pdf_link": "",
+            "pmid": "30654297",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Pembrolizumab versus chemotherapy for previously untreated, PD\u2010L1\u2010expressing, locally advanced or metastatic non\u2010small\u2010cell lung cancer (KEYNOTE\u2010042): A randomised, open\u2010label, controlled, phase 3 trial",
+            "pdf_link": "",
+            "pmid": "30955977",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Pembrolizumab alone or in combination with chemotheration as first\u2010line therapy for patients with advanced gastric or gastroesophageal junction adenocarcinoma: Results from the phase II nonrandomized KEYNOTE\u2010059 study",
+            "pdf_link": "",
+            "pmid": "30911859",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A phase Ib study of pembrolizumab as second\u2010line therapy for Chinese patients with advanced or metastatic melanoma (KEYNOTE\u2010151)",
+            "pdf_link": "",
+            "pmid": "30981094",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Efficacy and safety of Pembrolizumab in previously treated advanced cervical cancer: Results from the phase II KEYNOTE\u2010158 study",
+            "pdf_link": "",
+            "pmid": "30943124",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Randomized phase III KEYNOTE\u2010045 trial of pembrolizumab versus paclitaxel, docetaxel, or vinflunine in recurrent advanced urothelial cancer: Results of\u2009>\u20092\u2009years of follow\u2010up",
+            "pdf_link": "",
+            "pmid": "31050707",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Pembrolizumab in patients with advanced triple\u2010negative breast cancer: Phase Ib KEYNOTE\u2010012 study",
+            "pdf_link": "",
+            "pmid": "27138582",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Clinical safety and activity of pembrolizumab in patients with malignant pleural mesothelioma (KEYNOTE\u2010028): Preliminary results from a non\u2010randomised, open\u2010label, phase 1b trial",
+            "pdf_link": "",
+            "pmid": "28291584",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Pembrolizumab for platinum\u2010 and Cetuximab\u2010refractory head and neck cancer: Results from a single\u2010arm, phase II study",
+            "pdf_link": "",
+            "pmid": "28328302",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Safety and antitumor activity of Pembrolizumab in patients with programmed death\u2010ligand 1\u2010positive nasopharyngeal carcinoma: Results of the KEYNOTE\u2010028 study",
+            "pdf_link": "",
+            "pmid": "28837405",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Safety and efficacy of Pembrolizumab in advanced, programmed death ligand 1\u2010positive cervical cancer: Results from the phase Ib KEYNOTE\u2010028 trial",
+            "pdf_link": "",
+            "pmid": "29095678",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Safety and antitumor activity of the anti\u2010programmed death\u20101 antibody Pembrolizumab in patients with advanced esophageal carcinoma",
+            "pdf_link": "",
+            "pmid": "29116900",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Pembrolizumab monotherapy for previously untreated, PD\u2010L1\u2010positive, metastatic triple\u2010negative breast cancer: Cohort B of the phase II KEYNOTE\u2010086 study",
+            "pdf_link": "",
+            "pmid": "30475947",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Survival, durable tumor remission, and Long\u2010term safety in patients with advanced melanoma receiving Nivolumab",
+            "pdf_link": "",
+            "pmid": "36750016",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Tumor mutational burden and efficacy of nivolumab monotherapy and in combination with Ipilimumab in small\u2010cell lung cancer",
+            "pdf_link": "",
+            "pmid": "30753829",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A subanalysis of Japanese patients in a randomized, double\u2010blind, placebo\u2010controlled, phase 3 trial of nivolumab for patients with advanced gastric or gastro\u2010esophageal junction cancer refractory to, or intolerant of, at least two previous chemotherapy regimens (ONO\u20104538\u201012, ATTRACTION\u20102)",
+            "pdf_link": "",
+            "pmid": "30506519",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Nivolumab or nivolumab plus ipilimumab in patients with relapsed malignant pleural mesothelioma (IFCT\u20101501 MAPS2): A multicentre, open\u2010label, randomised, non\u2010comparative, phase 2 trial",
+            "pdf_link": "",
+            "pmid": "30660609",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Neoadjuvant nivolumab modifies the tumor immune microenvironment in resectable glioblastoma",
+            "pdf_link": "",
+            "pmid": "30742120",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase I study of Nivolumab, an anti\u2010PD\u20101 antibody, in patients with malignant solid tumors",
+            "pdf_link": "",
+            "pmid": "27928714",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Multicenter phase II study of nivolumab in Japanese patients with relapsed or refractory classical Hodgkin lymphoma",
+            "pdf_link": "",
+            "pmid": "28267244",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Nivolumab in patients with metastatic DNA mismatch repair deficient/microsatellite instability\u2013high colorectal cancer (CheckMate 142): Results of an open\u2010label, multicentre, phase 2 study",
+            "pdf_link": "",
+            "pmid": "28734759",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Combination nivolumab and ipilimumab or nivolumab alone in melanoma brain metastases: A multicentre randomised phase 2 study",
+            "pdf_link": "",
+            "pmid": "29602646",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Efficacy and safety of nivolumab in Japanese patients with previously untreated advanced melanoma: A phase II study",
+            "pdf_link": "",
+            "pmid": "28342215",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Multicentre phase II study of nivolumab in Japanese patients with advanced or recurrent non\u2010squamous non\u2010small cell lung cancer",
+            "pdf_link": "",
+            "pmid": "28861280",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Efficacy and safety of nivolumab in Japanese patients with advanced or recurrent squamous non\u2010small cell lung cancer",
+            "pdf_link": "",
+            "pmid": "28266091",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Nivolumab treatment for oesophageal squamous\u2010cell carcinoma: An open\u2010label, multicentre, phase 2 trial",
+            "pdf_link": "",
+            "pmid": "28314688",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Safety and antitumor activity of anti\u2010PD\u20101 antibody, Nivolumab, in patients with platinum\u2010resistant ovarian cancer",
+            "pdf_link": "",
+            "pmid": "26351349",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Activity and safety of nivolumab, an anti\u2010PD\u20101 immune checkpoint inhibitor, for patients with advanced, refractory squamous non\u2010small\u2010cell lung c ancer (CheckMate 063): A phase 2, single\u2010arm trial.",
+            "pdf_link": "",
+            "pmid": "25704439",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Nivolumab with or without ipilimumab treatment for metastatic sarcoma (Alliance A091401): Two open\u2010label, non\u2010comparative, randomised, phase 2 trials",
+            "pdf_link": "",
+            "pmid": "29370992",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "PD\u20101 blockade with Nivolumab in relapsed or refractory Hodgkin's lymphoma",
+            "pdf_link": "",
+            "pmid": "25482239",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Nivolumab versus Docetaxel in advanced nonsquamous non\u2010small\u2010cell lung cancer",
+            "pdf_link": "",
+            "pmid": "26412456",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Nivolumab versus Docetaxel in advanced squamous\u2010cell non\u2010small\u2010cell lung cancer",
+            "pdf_link": "",
+            "pmid": "26028407",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Nivolumab versus Everolimus in advanced renal\u2010cell carcinoma",
+            "pdf_link": "",
+            "pmid": "26406148",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Nivolumab versus chemotherapy in patients with advanced melanoma who progressed after anti\u2010CTLA\u20104 treatment (CheckMate 037): A randomised, controlled, open\u2010label, phase 3 trial",
+            "pdf_link": "",
+            "pmid": "25795410",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "First\u2010line Nivolumab in stage IV or recurrent non\u2013small\u2010cell lung cancer",
+            "pdf_link": "",
+            "pmid": "28636851",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Combined Nivolumab and Ipilimumab or monotherapy in untreated melanoma",
+            "pdf_link": "",
+            "pmid": "26398077",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Nivolumab in patients with advanced gastric or gastro\u2010oesophageal junction cancer refractory to, or intolerant of, at least two previous chemotherapy regimens (ONO\u20104538\u201012, ATTRACTION\u20102): A randomised, double\u2010blind, placebo\u2010controlled, phase 3 trial",
+            "pdf_link": "",
+            "pmid": "28993052",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Nivolumab for recurrent squamous\u2010cell carcinoma of the head and neck",
+            "pdf_link": "",
+            "pmid": "27857112",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Serious adverse events and fatal adverse events associated with nivolumab treatment in cancer patients: Nivolumab\u2010related serious/fatal adverse events",
+            "pdf_link": "",
+            "pmid": "30285872",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Predictive correlates of response to the anti\u2010PD\u2010L1 antibody MPDL3280A in cancer patients",
+            "pdf_link": "",
+            "pmid": "25428504",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Atezolizumab, an anti\u2010programmed death\u2010ligand 1 antibody, in metastatic renal cell carcinoma: Long\u2010term safety, clinical activity, and immune correlates from a phase Ia study",
+            "pdf_link": "",
+            "pmid": "26755520",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Atezolizumab as first\u2010line treatment in cisplatin\u2010ineligible patients with locally advanced and metastatic urothelial carcinoma: A single\u2010arm, multicentre, phase 2 trial",
+            "pdf_link": "",
+            "pmid": "27939400",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Atezolizumab versus docetaxel in patients with previously treated non\u2010small\u2010cell lung cancer (OAK): A phase 3, open\u2010label, multicentre randomised controlled trial",
+            "pdf_link": "",
+            "pmid": "27979383",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase II trial of Atezolizumab as first\u2010line or subsequent therapy for patients with programmed death\u2010ligand 1\u2010selected advanced non\u2010small\u2010cell lung cancer (BIRCH)",
+            "pdf_link": "",
+            "pmid": "28609226",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Atezolizumab versus chemotherapy in patients with platinum\u2010treated locally advanced or metastatic urothelial carcinoma (IMvigor211): A multicentre, open\u2010label, phase 3 randomised controlled trial",
+            "pdf_link": "",
+            "pmid": "29268948",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Atezolizumab (MPDL3280A) Monotherapy for patients with metastatic urothelial cancer: Long\u2010term outcomes from a phase 1 study",
+            "pdf_link": "",
+            "pmid": "29423515",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Efficacy, safety, and biomarker analysis of a phase II open\u2010label study of Atezolizumab in PD\u2010L1\u2010selected patients with NSCLC",
+            "pdf_link": "",
+            "pmid": "29775807",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Clinical activity and safety of atezolizumab in patients with recurrent glioblastoma",
+            "pdf_link": "",
+            "pmid": "30073642",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Safety and clinical activity of atezolizumab monotherapy in metastatic non\u2010small\u2010cell lung cancer: Final results from a phase I study",
+            "pdf_link": "",
+            "pmid": "30077125",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Safety and clinical activity of atezolizumab in head and neck cancer: Results from a phase I trial",
+            "pdf_link": "",
+            "pmid": "30219915",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Atezolizumab versus docetaxel for patients with previously treated non\u2010small\u2010cell lung cancer (POPLAR): A multicentre, open\u2010label, phase 2 randomised controlled trial",
+            "pdf_link": "",
+            "pmid": "26970723",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Atezolizumab with or without cobimetinib versus regorafenib in previously treated metastatic colorectal cancer (IMblaze370): A multicentre, open\u2010label, phase 3, randomised, controlled trial",
+            "pdf_link": "",
+            "pmid": "31003911",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Avelumab in patients with chemotherapy\u2010refractory metastatic Merkel cell carcinoma: A multicentre, single\u2010group, open\u2010label, phase 2 trial",
+            "pdf_link": "",
+            "pmid": "27592805",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Avelumab for patients with previously treated metastatic or recurrent non\u2010small\u2010cell lung cancer (JAVELIN solid tumor): Dose\u2010expansion cohort of a multicentre, open\u2010label, phase 1b trial",
+            "pdf_link": "",
+            "pmid": "28373005",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Avelumab for metastatic or locally advanced previously treated solid tumours (JAVELIN solid tumor): A phase 1a, multicohort, dose\u2010escalation trial",
+            "pdf_link": "",
+            "pmid": "28373007",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Avelumab, an anti\u2010programmed death\u2010ligand 1 antibody, in patients with refractory metastatic urothelial carcinoma: Results from a multicenter, phase Ib study",
+            "pdf_link": "",
+            "pmid": "28375787",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Avelumab, an anti\u2010PD\u2010L1 antibody, in patients with locally advanced or metastatic breast cancer: A phase 1b JAVELIN solid tumor study",
+            "pdf_link": "",
+            "pmid": "29063313",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Avelumab in metastatic urothelial carcinoma after platinum failure (JAVELIN solid tumor): Pooled results from two expansion cohorts of an open\u2010label, phase 1 trial",
+            "pdf_link": "",
+            "pmid": "29217288",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Safety profile of avelumab in patients with advanced solid tumors: A pooled analysis of data from the phase 1 JAVELIN solid tumor and phase 2 JAVELIN Merkel 200 clinical trials",
+            "pdf_link": "",
+            "pmid": "29469949",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase III, randomised trial of avelumab versus physician's choice of chemotherapy as third\u2010line treatment of patients with advanced gastric or gastro\u2010oesophageal junction cancer: Primary analysis of JAVELIN gastric 300",
+            "pdf_link": "",
+            "pmid": "30052729",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Avelumab versus docetaxel in patients with platinum\u2010treated advanced non\u2010small\u2010cell lung cancer (JAVELIN lung 200): An open\u2010label, randomised, phase 3 study",
+            "pdf_link": "",
+            "pmid": "30262187",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Avelumab in patients with previously treated metastatic adrenocortical carcinoma: Phase 1b results from the JAVELIN solid tumor trial",
+            "pdf_link": "",
+            "pmid": "30348224",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Efficacy and safety of Avelumab treatment in patients with advanced unresectable mesothelioma: Phase 1b results from the JAVELIN solid tumor trial",
+            "pdf_link": "",
+            "pmid": "30605211",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Avelumab in patients with previously treated metastatic melanoma: Phase 1b results from the JAVELIN solid tumor trial",
+            "pdf_link": "",
+            "pmid": "30651126",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Efficacy and safety of Avelumab for patients with recurrent or refractory ovarian cancer: Phase 1b results from the JAVELIN solid tumor trial",
+            "pdf_link": "",
+            "pmid": "30676622",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Avelumab (anti\u2010PD\u2010L1) as first\u2010line switch\u2010maintenance or second\u2010line therapy in patients with advanced gastric or gastroesophageal junction cancer: Phase 1b results from the JAVELIN solid tumor trial",
+            "pdf_link": "",
+            "pmid": "30717797",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Safety and efficacy of Durvalumab (MEDI4736), an anti\u2010programmed cell death ligand\u20101 immune checkpoint inhibitor, in patients with advanced urothelial bladder cancer",
+            "pdf_link": "",
+            "pmid": "27269937",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Durvalumab after chemoradiotherapy in stage III non\u2010small\u2010cell lung cancer",
+            "pdf_link": "",
+            "pmid": "29850182",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Durvalumab as third\u2010line or later treatment for advanced non\u2010small\u2010cell lung cancer (ATLANTIC): An open\u2010label, single\u2010arm, phase 2 study",
+            "pdf_link": "",
+            "pmid": "29545095",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Efficacy and safety of Durvalumab in locally advanced or metastatic urothelial carcinoma: Updated results from a phase 1/2 open\u2010label study",
+            "pdf_link": "",
+            "pmid": "28817753",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Safety and Efficacy of Durvalumab (MEDI4736) in Various Solid Tumors",
+            "pdf_link": "",
+            "pmid": "30013326",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "'DURVIT': A phase\u2010I trial of single low\u2010dose durvalumab (Medi4736) intratumourally injected in cervical cancer: Safety, toxicity and effect on the primary tumour\u2010 and lymph node microenvironment",
+            "pdf_link": "",
+            "pmid": "30208866",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Safety and efficacy of Durvalumab with or without Tremelimumab in patients with PD\u2010L1\u2010low/negative recurrent or metastatic HNSCC: The phase 2 CONDOR randomized clinical trial",
+            "pdf_link": "",
+            "pmid": "30383184",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Durvalumab for recurrent or metastatic head and neck squamous cell carcinoma: Results from a single\u2010arm, phase II study in patients with \u226525% tumour cell PD\u2010L1 expression who have progressed on platinum\u2010based chemotherapy",
+            "pdf_link": "",
+            "pmid": "30576970",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Safety and efficacy of durvalumab in patients with head and neck squamous cell carcinoma: Results from a phase I/II expansion cohort",
+            "pdf_link": "",
+            "pmid": "30731276",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A pilot trial of CTLA\u20104 blockade with human anti\u2010CTLA\u20104 in patients with hormone\u2010refractory prostate cancer",
+            "pdf_link": "",
+            "pmid": "17363537",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Ipilimumab alone or in combination with radiotherapy in metastatic castration\u2010resistant prostate cancer: Results from an open\u2010label, multicenter phase I/II study",
+            "pdf_link": "",
+            "pmid": "23535954",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase I/II study of Ipilimumab for patients with metastatic melanoma",
+            "pdf_link": "",
+            "pmid": "19018089",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase II study of ipilimumab monotherapy in Japanese patients with advanced melanoma",
+            "pdf_link": "",
+            "pmid": "26410424",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Prolonged survival in stage III melanoma with Ipilimumab adjuvant therapy",
+            "pdf_link": "",
+            "pmid": "27717298",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Ipilimumab 10 mg/kg versus ipilimumab 3 mg/kg in patients with unresectable or metastatic melanoma: A randomised, double\u2010blind, multicentre, phase 3 trial",
+            "pdf_link": "",
+            "pmid": "28359784",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Randomized, double\u2010blind, phase III trial of Ipilimumab versus placebo in asymptomatic or minimally symptomatic patients with metastatic chemotherapy\u2010na\u00efve castration\u2010resistant prostate cancer",
+            "pdf_link": "",
+            "pmid": "28034081",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Randomized, open\u2010label phase II study evaluating the efficacy and safety of Talimogene laherparepvec in combination with Ipilimumab versus Ipilimumab alone in patients with advanced, unresectable melanoma",
+            "pdf_link": "",
+            "pmid": "28981385",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Adjuvant Nivolumab versus Ipilimumab in resected stage III or IV melanoma",
+            "pdf_link": "",
+            "pmid": "28891423",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Efficacy of sequential Ipilimumab monotherapy versus best supportive care for unresectable locally advanced/metastatic gastric or gastroesophageal junction cancer",
+            "pdf_link": "",
+            "pmid": "28655793",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Open\u2010label, multicenter, single\u2010arm phase II DeCOG\u2010study of ipilimumab in pretreated patients with different subtypes of metastatic melanoma",
+            "pdf_link": "",
+            "pmid": "26541511",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Randomized phase I pharmacokinetic study of ipilimumab with or without one of two different chemotherapy regimens in patients with untreated advanced melanoma",
+            "pdf_link": "",
+            "pmid": "23833564",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase II study of ipilimumab in adolescents with unresectable stage III or IV malignant melanoma",
+            "pdf_link": "",
+            "pmid": "29100190",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A phase II multicenter study of ipilimumab with or without dacarbazine in chemotherapy\u2010na\u00efve patients with advanced melanoma",
+            "pdf_link": "",
+            "pmid": "20082117",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A prospective phase II trial exploring the association between tumor microenvironment biomarkers and clinical activity of ipilimumab in advanced melanoma",
+            "pdf_link": "",
+            "pmid": "22123319",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Nivolumab and Ipilimumab versus Ipilimumab in Untreated Melanoma",
+            "pdf_link": "",
+            "pmid": "25891304",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Combined Nivolumab and Ipilimumab or monotherapy in previously untreated melanoma",
+            "pdf_link": "",
+            "pmid": "26027431",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Sargramostim plus Ipilimumab vs Ipilimumab alone for treatment of metastatic melanoma: A randomized clinical trial",
+            "pdf_link": "",
+            "pmid": "25369488",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Improved survival with Ipilimumab in patients with metastatic melanoma",
+            "pdf_link": "",
+            "pmid": "20525992",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A Randomized, Double\u2010Blind, Placebo\u2010Controlled, Phase II Study Comparing the Tolerability and Efficacy of Ipilimumab Administered with or without Prophylactic Budesonide in Patients with Unresectable Stage III or IV Melanoma",
+            "pdf_link": "",
+            "pmid": "19671877",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Efficacy and safety of ipilimumab monotherapy in patients with pretreated advanced melanoma",
+            "pdf_link": "",
+            "pmid": "20147741",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Ipilimumab monotherapy in patients with pretreated advanced melanoma: a randomised, double\u2010blind, multicentre, phase 2, dose\u2010ranging study",
+            "pdf_link": "",
+            "pmid": "20004617",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase I/II trial of Tremelimumab in patients with metastatic melanoma",
+            "pdf_link": "",
+            "pmid": "19139427",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase II trial of Tremelimumab (CP\u2010675,206) in patients with advanced refractory or relapsed melanoma",
+            "pdf_link": "",
+            "pmid": "20086001",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase II study of the anti\u2010cytotoxic T\u2010lymphocyte\u2013associated antigen 4 monoclonal antibody, Tremelimumab, in patients with refractory metastatic colorectal cancer",
+            "pdf_link": "",
+            "pmid": "20498386",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase III randomized clinical trial comparing Tremelimumab with standard\u2010of\u2010care chemotherapy in patients with advanced melanoma",
+            "pdf_link": "",
+            "pmid": "23295794",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Tremelimumab for patients with chemotherapy\u2010resistant advanced malignant mesothelioma: An open\u2010label, single\u2010arm, phase 2 trial",
+            "pdf_link": "",
+            "pmid": "24035405",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A phase 2 study of tremelimumab in patients with advanced uveal melanoma",
+            "pdf_link": "",
+            "pmid": "26050146",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Tremelimumab as second\u2010line or third\u2010line treatment in relapsed malignant mesothelioma (DETERMINE): A multicentre, international, randomised, double\u2010blind, placebo\u2010controlled phase 2b trial",
+            "pdf_link": "",
+            "pmid": "28729154",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Safety and clinical activity with an anti\u2010PD\u20101 antibody JS001 in advanced melanoma or urologic cancer patients",
+            "pdf_link": "",
+            "pmid": "30642373",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Promising efficacy of SHR\u20101210, a novel anti\u2010programmed cell death 1 antibody, in patients with advanced gastric and gastroesophageal junction cancer in China",
+            "pdf_link": "",
+            "pmid": "30508306",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Addition of low\u2010dose Decitabine to anti\u2010PD\u20101 antibody Camrelizumab in relapsed/refractory classical Hodgkin lymphoma",
+            "pdf_link": "",
+            "pmid": "31039052",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Camrelizumab (SHR\u20101210) alone or in combination with gemcitabine plus cisplatin for nasopharyngeal carcinoma: Results from two single\u2010arm, phase 1 trials",
+            "pdf_link": "",
+            "pmid": "30213452",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Safety, anti\u2010tumour activity, and pharmacokinetics of fixed\u2010dose SHR\u20101210, an anti\u2010PD\u20101 antibody in advanced solid tumours: A dose\u2010escalation, phase 1 study",
+            "pdf_link": "",
+            "pmid": "29755117",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Safety and activity of sintilimab in patients with relapsed or refractory classical Hodgkin lymphoma (ORIENT\u20101): A multicentre, single\u2010arm, phase 2 trial",
+            "pdf_link": "",
+            "pmid": "30612710",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "PD\u20101 blockade with Cemiplimab in advanced cutaneous squamous\u2010cell carcinoma",
+            "pdf_link": "",
+            "pmid": "29863979",
+            "doi": "",
+            "nctid": ""
+        }
+    ],
+    "forest_plot_path": {
+        "./images/32643323/u-pembrolizumab-3-5-AEs.png": {
+            "subgroup": "pembrolizumab",
+            "outcome": "grade 3\u20135 adverse events (AEs)"
+        },
+        "./images/32643323/t-nivolumab-3-5-AEs.png": {
+            "subgroup": "nivolumab",
+            "outcome": "grade 3\u20135 adverse events (AEs)"
+        },
+        "./images/32643323/s-ipilimumab-3-5-AEs.png": {
+            "subgroup": "ipilimumab",
+            "outcome": "grade 3\u20135 adverse events (AEs)"
+        },
+        "./images/32643323/e-atezolizumab-AEs.png": {
+            "subgroup": "atezolizumab",
+            "outcome": "grade 1\u20135 adverse events (AEs)"
+        },
+        "./images/32643323/f-avelumab-AEs.png": {
+            "subgroup": "avelumab",
+            "outcome": "grade 1\u20135 adverse events (AEs)"
+        },
+        "./images/32643323/b-CLTA-4-reported-AEs.png": {
+            "subgroup": "CLTA-4-reported",
+            "outcome": "grade 1\u20135 adverse events (AEs)"
+        },
+        "./images/32643323/q-avelumab-3-5-AEs.png": {
+            "subgroup": "avelumab",
+            "outcome": "grade 3\u20135 adverse events (AEs)"
+        },
+        "./images/32643323/v-tremelimumab-3-5-AEs.png": {
+            "subgroup": "tremelimumab",
+            "outcome": "grade 3\u20135 adverse events (AEs)"
+        },
+        "./images/32643323/j-pembrolizumab-AEs.png": {
+            "subgroup": "pembrolizumab",
+            "outcome": "grade 1\u20135 adverse events (AEs)"
+        },
+        "./images/32643323/d-PD-L1-AEs.png": {
+            "subgroup": "PD-L1",
+            "outcome": "grade 1\u20135 adverse events (AEs)"
+        },
+        "./images/32643323/k-tremelimumab-AEs.png": {
+            "subgroup": "tremelimumab",
+            "outcome": "grade 1\u20135 adverse events (AEs)"
+        },
+        "./images/32643323/a-conventional-therapy-AEs.png": {
+            "subgroup": "conventional-therapy",
+            "outcome": "grade 1\u20135 adverse events (AEs)"
+        },
+        "./images/32643323/o-PD-L1-3-5-AEs.png": {
+            "subgroup": "PD-L1",
+            "outcome": "grade 3\u20135 adverse events (AEs)"
+        },
+        "./images/32643323/i-nivolumab-AEs.png": {
+            "subgroup": "nivolumab",
+            "outcome": "grade 1\u20135 adverse events (AEs)"
+        },
+        "./images/32643323/p-atezolizumab-3-5-AEs.png": {
+            "subgroup": "atezolizumab",
+            "outcome": "grade 3\u20135 adverse events (AEs)"
+        },
+        "./images/32643323/c-PD-1-AEs.png": {
+            "subgroup": "PD-1",
+            "outcome": "grade 1\u20135 adverse events (AEs)"
+        },
+        "./images/32643323/l-conventional-therapy-3-5-AEs.png": {
+            "subgroup": "conventional-therapy",
+            "outcome": "grade 3\u20135 adverse events (AEs)"
+        },
+        "./images/32643323/h-ipilimumab-AEs.png": {
+            "subgroup": "ipilimumab",
+            "outcome": "grade 1\u20135 adverse events (AEs)"
+        },
+        "./images/32643323/g-durvalumab-AEs.png": {
+            "subgroup": "durvalumab",
+            "outcome": "grade 1\u20135 adverse events (AEs)"
+        },
+        "./images/32643323/n-PD-1-3-5-AEs.png": {
+            "subgroup": "PD-1",
+            "outcome": "grade 3\u20135 adverse events (AEs)"
+        },
+        "./images/32643323/m-CTLA-4-reported-3-5-AEs.png": {
+            "subgroup": "CTLA-4-reported",
+            "outcome": "grade 3\u20135 adverse events (AEs)"
+        },
+        "./images/32643323/r-durvalumab-3-5-AEs.png": {
+            "subgroup": "durvalumab",
+            "outcome": "grade 3\u20135 adverse events (AEs)"
+        }
+    }
+}

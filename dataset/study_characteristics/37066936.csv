@@ -1,0 +1,16 @@
+Study/year,Country,Study design,Time,ref_id,Treatment group,Sample size,Toxicity evaluation,End-points,PMID,pmc
+"Taniguchi et al. [16], 2020",Japan,RCS,2004-2016,ref016,Low-dose-rate brachytherapy; 2-dimensional conformal radiation therapy,298,Common Terminology Criteria for Adverse Events,GI toxicity,32500469,10200168
+"Moll et al. [17], 2020",Austria,RCS,2000-2019,ref017,Low-dose-rate brachytherapy; 3-dimensional conformal radiation therapy; Volumemodulated arc therapy,477,Radiation Therapy Oncology Group grading,GI/GU toxicity,32642874,10200168
+"Tanaka et al. [18], 2019",Japan,PCS,2005-2010,ref018,Low-dose-rate brachytherapy,2339,Common Terminology Criteria for Adverse Events,GU toxicity,31072729,10200168
+"Tomoki et al. [19], 2018",Japan,RCS,2003-2013,ref019,Low-dose-rate brachytherapy; 3-dimensional conformal radiation therapy,2216,Common Terminology Criteria for Adverse Events,GI toxicity,29936128,10200168
+"Yamazaki et al. [20], 2018",Japan,RCS,2005-2013,ref020,Low-dose-rate brachytherapy; High-dose-rate brachytherapy,838,Common Terminology Criteria for Adverse Events,GI/GU toxicity,30416045,10200168
+"Maki et al. [21], 2017",Japan,RCS,2005-2011,ref021,Low-dose-rate brachytherapy; 3-dimensional conformal radiation therapy,300,Common Terminology Criteria for Adverse Events,GI toxicity,28992050,10200168
+"Katayama et al. [22], 2016",Japan,PCS,2005-2010,ref022,Low-dose-rate brachytherapy; 3-dimensional conformal radiation therapy,2338,Common Terminology Criteria for Adverse Events,GI toxicity,27720311,10200168
+"Mukai et al. [23], 2018",Japan,RCS,2014-2017,ref023,Low-dose-rate brachytherapy; 3-dimensional conformal radiation therapy,105,Common Terminology Criteria for Adverse Events,GI/GU toxicity,30479615,10200168
+"Ohashi et al. [24], 2015",Japan,PCS,2005-2007,ref024,Low-dose-rate brachytherapy; 3-dimensional conformal radiation therapy,2339,Common Terminology Criteria for Adverse Events,GI/GU toxicity,26279031,10200168
+"Sutani et al. [25], 2015",Japan,RCS,2006-2013,ref025,Low-dose-rate brachytherapy; 3-dimensional conformal radiation therapy,1084,Radiation Therapy Oncology Group grading,GI/GU toxicity,26318662,10200168
+"Tanaka et al. [26], 2013",Japan,PCS,2004-2008,ref026,Low-dose-rate brachytherapy,218,Common Terminology Criteria for Adverse Events,GI/GU toxicity,23363647,10200168
+"Kalakota et al. [27], 2010",USA,RCS,1997-2006,ref027,Low-dose-rate brachytherapy; 3-dimensional conformal radiation therapy,110,Radiation Therapy Oncology Group grading,GI toxicity,19853533,10200168
+"Morimoto et al. [28], 2014",Japan,RCS,2008-2010,ref028,Low-dose-rate brachytherapy; 3-dimensional conformal radiation therapy; High-dose-rate brachytherapy,156,Common Terminology Criteria for Adverse Events,GI/GU toxicity,25076236,10200168
+"Zelefsky et al. [29], 2008",USA,RCS,2002-2005,ref029,Low-dose-rate brachytherapy,343,Common Terminology Criteria for Adverse Events,GI/GU toxicity,18299108,10200168
+"Eade et al. [30], 2008",USA,RCS,1998-2004,ref030,Low-dose-rate brachytherapy,374,Radiation Therapy Oncology Group grading,GI/GU toxicity,18207665,10200168

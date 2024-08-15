@@ -1,0 +1,10 @@
+First author,Published year,Country,Study type,Number of patients,Clinical stage,Chemotherapy regimen,Pathological complete response rate,Follow-up period (median) (year),Hazard Ratio Estimation Method,Outcomes,PMID
+Clifton,2018,USA,Prospective,319,I-II,Anthracycline/Taxane,0.538,6.33,Survival curve,"OS, DFS",29470805
+Fisher,2012,USA,Retrospective,385,I-III,NA,0.17,2.5,Survival curve,OS,21725686
+Kennedy,2010,USA,Retrospective,405,I-III,NA,NR,4.3,Survival curve,OS,20599225
+Sharma,2015,USA,Retrospective,146,I-II,Anthracycline/Taxane,NR,3.08,Given by author,DFS,
+Cheng,2017,NR,Retrospective,"15,483",I-III,NA,NR,2,Given by author,OS,
+Yang,2018,China,Prospective,67,II-III,Anthracycline/Taxane,0.194,6.5,Given by author,OS,30290661
+Biswas,2017,USA,Retrospective,420,I-III,Anthracycline/Taxane,0.33,3.9,Survival curve,OS,29348858
+Bagegni,2019,USA,Retrospective,"19,151",II-III,NA,0.474,2.5,Survival curve,OS,31536530
+Philipovskiy,2019,USA,Retrospective,104,I-III,Anthracycline/Taxane,0.4,6,Given by author,"OS,DFS",31280213

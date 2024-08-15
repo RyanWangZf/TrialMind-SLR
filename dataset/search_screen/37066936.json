@@ -1,0 +1,171 @@
+{
+    "title": "Comparison of chronic gastrointestinal and genitourinary toxicities between brachytherapy and external beam radiotherapy for patients with prostate cancer: A systematic review and meta-analysis",
+    "pmid": "37066936",
+    "date": "2023/12",
+    "text": {
+        "abstract": "Background: 125I BT is an effective radiotherapy for prostate cancer. However, comparison data of GI and GU toxicities between BT, BT + EBRT, and EBRT-alone patient groups is limited.\n\nObjective: To define the GI and GU toxicities in prostate cancer to prevent adverse events after treatment.\n\nMethods: We searched published studies in PubMed, Cochrane, and Embase databases up to December 31, 2022. The endpoints were the RRs of GI and GU toxicities. Pooled data were assessed using a random-effects model.\n\nResults: Fifteen eligible studies were included into this analysis. LDR-BT had significantly lower RRs than LDR-BT + EBRT for acute GI (2.13; 95% CI, 1.22-3.69; P= 0.007) and late GI toxicities (3.96; 95% CI, 1.23-12.70; P= 0.02). Moreover, EBRT had significantly higher RRs than LDR-BT for acute GU (2.32; 95% CI, 1.29-4.15; P= 0.005) and late GU toxicities (2.38; 95% CI, 1.27-4.44; P= 0.007). HDR-BT had significantly higher RRs for acute GU toxicities than LDR-BT alone (0.30; 95% CI, 0.23-0.40; P< 0.00001).\n\nConclusion: The results implied that BT with and without EBRT can result in both GI and GU toxicities in patients with prostate cancer, with LDR-BT leading to a poorer urinary function than EBRT.\n\nKeywords: Prostate cancer; brachytherapy; external beam radiotherapy; gastrointestinal;",
+        "results": "Fifteen eligible studies were included into this analysis. LDR-BT had significantly lower RRs than LDR-BT + EBRT for acute GI (2.13; 95% CI, 1.22-3.69; P= 0.007) and late GI toxicities (3.96; 95% CI, 1.23-12.70; P= 0.02). Moreover, EBRT had significantly higher RRs than LDR-BT for acute GU (2.32; 95% CI, 1.29-4.15; P= 0.005) and late GU toxicities (2.38; 95% CI, 1.27-4.44; P= 0.007). HDR-BT had significantly higher RRs for acute GU toxicities than LDR-BT alone (0.30; 95% CI, 0.23-0.40; P< 0.00001).",
+        "conclusions": "The results implied that BT with and without EBRT can result in both GI and GU toxicities in patients with prostate cancer, with LDR-BT leading to a poorer urinary function than EBRT."
+    },
+    "PICO": {
+        "P": "Patients with prostate cancer",
+        "I": "Brachytherapy (BT), specifically 125I BT, Low Dose Rate Brachytherapy (LDR-BT), and High Dose Rate Brachytherapy (HDR-BT)",
+        "C": "External Beam Radiotherapy (EBRT) alone, and the combination of Brachytherapy (BT) + External Beam Radiotherapy (EBRT)",
+        "O": "Chronic gastrointestinal (GI) and genitourinary (GU) toxicities"
+    },
+    "PICO_terms": {
+        "P": ["prostate cancer"],
+        "I": ["Brachytherapy", "125I BT", "Low Dose Rate Brachytherapy", "High Dose Rate Brachytherapy"],
+        "C": ["External Beam Radiotherapy (EBRT) alone", "Brachytherapy", "External Beam Radiotherapy"],
+        "O": ["Chronic gastrointestinal", "genitourinary toxicities"]
+    },
+    "trials": [
+        {
+            "title": "Predictive factors of rectal hemorrhage in patients with localized prostate cancer who underwent low-dose-rate brachytherapy",
+            "pdf_link": "",
+            "pmid": "32500469",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Treatment of low-risk prostate cancer: A retrospective study with 477 patients comparing external beam radiotherapy and I-125 seeds brachytherapy in terms of biochemical control and late side effects",
+            "pdf_link": "",
+            "pmid": "32642874",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Genitourinary toxicity after permanent iodine-125 seed implantation: The nationwide Japanese prostate cancer outcome study of permanent iodine-125 seed implantation (J-POPS)",
+            "pdf_link": "",
+            "pmid": "31072729",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Predictive factors of long-term rectal toxicity following permanent iodine-125 prostate brachytherapy with or without supplemental external beam radiation therapy in 2216 patients",
+            "pdf_link": "",
+            "pmid": "29936128",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "High-dose-rate brachytherapy monotherapy versus low-dose-rate brachytherapy with or without external beam radiotherapy for clinically localized prostate cancer",
+            "pdf_link": "",
+            "pmid": "30416045",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Clinical outcomes of 125I brachytherapy with and without external-beam radiation therapy for localized prostate cancer: Results from 300 patients at a single institution in Japan",
+            "pdf_link": "",
+            "pmid": "28992050",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Predictive factors of rectal toxicity after permanent iodine-125 seed implantation: Prospective cohort study in 2339 patients",
+            "pdf_link": "",
+            "pmid": "27720311",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Acute and late toxicities in localized prostate cancer patients treated with low-dose I brachytherapy (110 Gy) in combination with external beam radiation therapy versus brachytherapy alone (160 Gy)",
+            "pdf_link": "",
+            "pmid": "30479615",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Urinary and Rectal Toxicity Profiles After Permanent Iodine-125 Implant Brachytherapy in Japanese Men: Nationwide J-POPS Multi-institutional Prospective Cohort Study",
+            "pdf_link": "",
+            "pmid": "26279031",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Comparison of genitourinary and gastrointestinal toxicity among four radiotherapy modalities for prostate cancer: Conventional radiotherapy, intensity-modulated radiotherapy, and permanent iodine-125 implantation with or without external beam radiotherapy",
+            "pdf_link": "",
+            "pmid": "26318662",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Periodical assessment of genitourinary and gastrointestinal toxicity in patients who underwent prostate low-dose-rate brachytherapy",
+            "pdf_link": "",
+            "pmid": "23363647",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Late rectal toxicity after prostate brachytherapy: Influence of supplemental external beam radiation on dose-volume histogram analysis",
+            "pdf_link": "",
+            "pmid": "19853533",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Comparison of acute and subacute genitourinary and gastrointestinal adverse events of radiotherapy for prostate cancer using intensity-modulated radiation therapy, three-dimensional conformal radiation therapy, permanent implant brachytherapy and high-dose-rate brachytherapy",
+            "pdf_link": "",
+            "pmid": "25076236",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Combined brachytherapy with external beam radiotherapy for localized prostate cancer: Reduced morbidity with an intraoperative brachytherapy planning technique and supplemental intensity-modulated radiation therapy",
+            "pdf_link": "",
+            "pmid": "18299108",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A comparison of acute and chronic toxicity for men with low-risk prostate cancer treated with intensity-modulated radiation therapy or (125)I permanent implant",
+            "pdf_link": "",
+            "pmid": "18207665",
+            "doi": "",
+            "nctid": ""
+        }
+    ],
+    "forest_plot_path": {
+        "./images/37066936/e-acute GI toxicity reported(LDR-BT&EBRT)-acute GI toxicity.png": {
+            "subgroup": "acute GI toxicity reported(LDR-BT&EBRT)",
+            "outcome": "acute GI toxicity"
+        },
+        "./images/37066936/j-acute GU toxicity reported(HDR-BT&LDR-B)-acute GU toxicity.png": {
+            "subgroup": "acute GU toxicity reported(HDR-BT&LDR-B)",
+            "outcome": "acute GU toxicity"
+        },
+        "./images/37066936/d-late GU toxicity reported(LDR-BT+EBRT&LDR-BT)-late GU toxicity.png": {
+            "subgroup": "late GU toxicity reported(LDR-BT+EBRT&LDR-BT)",
+            "outcome": "late GU toxicity"
+        },
+        "./images/37066936/a-acute GI toxicity reported(LDR-BT+EBRT&LDR-BT)-acute GI toxicity.png": {
+            "subgroup": "acute GI toxicity reported(LDR-BT+EBRT&LDR-BT)",
+            "outcome": "acute GI toxicity"
+        },
+        "./images/37066936/g-acute GU toxicity reported(LDR-BT&EBRT)-acute GU toxicity.png": {
+            "subgroup": "acute GU toxicity reported(LDR-BT&EBRT)",
+            "outcome": "acute GU toxicity"
+        },
+        "./images/37066936/h-late GU toxicity reported(LDR-BT&EBRT)-late GU toxicity.png": {
+            "subgroup": "late GU toxicity reported(LDR-BT&EBRT)",
+            "outcome": "late GU toxicity"
+        },
+        "./images/37066936/c-acute GU toxicity reported(LDR-BT+EBRT&LDR-BT)-acute GU toxicity.png": {
+            "subgroup": "acute GU toxicity reported(LDR-BT+EBRT&LDR-BT)",
+            "outcome": "acute GU toxicity"
+        },
+        "./images/37066936/i-acute GI toxicity reported(HDR-BT&LDR-BT)-acute GI toxicity.png": {
+            "subgroup": "acute GI toxicity reported(HDR-BT&LDR-BT)",
+            "outcome": "acute GI toxicity"
+        },
+        "./images/37066936/b-late GI toxicity reported(LDR-BT+EBRT&LDR-BT)-late GI toxicity.png": {
+            "subgroup": "late GI toxicity reported(LDR-BT+EBRT&LDR-BT)",
+            "outcome": "late GI toxicity"
+        },
+        "./images/37066936/f-late GI toxicity reported(LDR-BT&EBRT)-late GI toxicity.png": {
+            "subgroup": "late GI toxicity reported(LDR-BT&EBRT)",
+            "outcome": "late GI toxicity"
+        }
+    }
+}

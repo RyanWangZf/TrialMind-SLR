@@ -1,0 +1,121 @@
+{
+    "title": "Safety and efficacy of ultrasound-guided thermal ablation in treating T1aN0M0 and T1bN0M0 papillary thyroid carcinoma: A meta-analysis",
+    "pmid": "35966062",
+    "date": "2022/07",
+    "text": {
+        "abstract": "Background: Papillary thyroid cancer (PTC) is the most common thyroid tumor, and early diagnosis and treatment can effectively improve prognosis. Many controversies surround the treatment method of T1N0M0 PTC. Recently, thermal ablation (TA) has shown some benefits in the treatment of PTC patients, but the safety and efficacy of its treatment remain controversial. This article performs a meta-analysis of TA in patients with T1aN0M0 and T1bN0M0 PTC.\n\nMethods: The PubMed, Embase, Web of Science, and Cochrane Library databases were systematically searched for retrospective or prospective studies of TA for treating patients with T1N0M0 PTC from the database establishment to May 1, 2022. Data on volume reduction rate (VRR), disease progress, and complication rate were collected. In addition, a meta-analysis was performed using the Stata 12.0 and Review Manager 5.3.\n\nResults: A total of 9 eligible studies were included. Our study demonstrated the effectiveness of VRR and disease progress. The VRR was reduced after 3 months (-75.90%; 95% CI [-118.46-33.34%]), 6 months (34.33%; 95% CI [15.01-53.65%]), 12 months (78.69%; 95% CI [71.69-85.68%]), and 24 months (89.97%; 95% CI [84.00-95.94%]). The disease progress was 1.9% (95% CI [1.1-3.0]). Safety is justified by the complication rate, which was 6.5% (95% CI [3.5-10.2]). Pain and hoarseness were the most common complications, and no life-threatening complications were reported. Egger's test demonstrated that publication bias was acceptable.\n\nConclusions: TA is an effective and safe method for managing T1aN0M0 and T1bN0M0 papillary thyroid nodules.\n\nKeywords: laser ablation; meta\u2010analysis; microwave ablation; papillary thyroid carcinoma; radiofrequency ablation; thermal ablation; thyroid nodule.",
+        "results": "A total of 9 eligible studies were included. Our study demonstrated the effectiveness of VRR and disease progress. The VRR was reduced after 3 months (-75.90%; 95% CI [-118.46-33.34%]), 6 months (34.33%; 95% CI [15.01-53.65%]), 12 months (78.69%; 95% CI [71.69-85.68%]), and 24 months (89.97%; 95% CI [84.00-95.94%]). The disease progress was 1.9% (95% CI [1.1-3.0]). Safety is justified by the complication rate, which was 6.5% (95% CI [3.5-10.2]). Pain and hoarseness were the most common complications, and no life-threatening complications were reported. Egger's test demonstrated that publication bias was acceptable.",
+        "conclusions": "TA is an effective and safe method for managing T1aN0M0 and T1bN0M0 papillary thyroid nodules."
+    },
+    "PICO": {
+        "P": "T1aN0M0 and T1bN0M0 papillary thyroid carcinoma",
+        "I": "ultrasound-guided thermal ablation (LA, RFA, or MWA)",
+        "C": "",
+        "O": "1. volume reduction rate; 2. overall diseasee progress rate; 3. complication rate"
+    },
+    "PICO_terms": {
+        "P": ["T1aN0M0", "T1bN0M0 papillary thyroid carcinoma"],
+        "I": ["ultrasound-guided thermal ablation", "LA", "RFA", "MWA"],
+        "C": [],
+        "O": ["volume reduction ratel", "overall diseasee progress rate", "complication rate"]
+    },
+    "trials": [
+        {
+            "title": "Efficacy and Safety of Thermal Ablation for Solitary T1bN0M0 Papillary Thyroid Carcinoma: A Multicenter Study",
+            "pdf_link": "",
+            "pmid": "33107573",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Ultrasound-Guided Laser Ablation Versus Microwave Ablation for Patients With Unifocal Papillary Thyroid Microcarcinoma: A Retrospective Study",
+            "pdf_link": "",
+            "pmid": "32216112",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Long-Term Efficacy of Ultrasound-Guided Percutaneous Laser Ablation for Low-Risk Papillary Thyroid Microcarcinoma: A 5-Year Follow-Up Study",
+            "pdf_link": "",
+            "pmid": "34337037",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Analysis and evaluation of the efficacy of ultrasound-guided microwave ablation for papillary thyroid microcarcinoma",
+            "pdf_link": "",
+            "pmid": "34645358",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Effects of Microwave Ablation on Papillary Thyroid Microcarcinoma: A Five-Year Follow-Up Report",
+            "pdf_link": "",
+            "pmid": "32458748",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A cohort study of microwave ablation and surgery for low-risk papillary thyroid microcarcinoma",
+            "pdf_link": "",
+            "pmid": "34719323",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "US-guided Microwave Ablation of Low-Risk Papillary Thyroid Microcarcinoma: Longer-Term Results of a Prospective Study",
+            "pdf_link": "",
+            "pmid": "32198508",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Comparison of thermal ablation and routine surgery for the treatment of papillary thyroid microcarcinoma: a systematic review and Meta-analysis",
+            "pdf_link": "",
+            "pmid": "32722973",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Treatment of Benign Thyroid Nodules: Comparison of Surgery with Radiofrequency Ablation",
+            "pdf_link": "",
+            "pmid": "25814656",
+            "doi": "",
+            "nctid": ""
+        }
+    ],
+    "forest_plot_path": {
+        "./images/35966062/a1.png": {
+            "subgroup": "thermal ablations for patients with T1aN0M0 tumor",
+            "outcome": "mean difference (MD) of VRR (volume reduction rate): 3 months"
+        },
+        "./images/35966062/a2.png": {
+            "subgroup": "thermal ablations for patients with T1bN0M0 tumor",
+            "outcome": "mean difference (MD) of VRR (volume reduction rate): 3 months"
+        },
+        "./images/35966062/b1.png": {
+            "subgroup": "thermal ablations for patients with T1aN0M0 tumor",
+            "outcome": "mean difference (MD) of VRR (volume reduction rate): 6 months"
+        },
+        "./images/35966062/b2.png": {
+            "subgroup": "thermal ablations for patients with T1bN0M0 tumor",
+            "outcome": "mean difference (MD) of VRR (volume reduction rate): 6 months"
+        },
+        "./images/35966062/c1.png": {
+            "subgroup": "thermal ablations for patients with T1aN0M0 tumor",
+            "outcome": "mean difference (MD) of VRR (volume reduction rate): 12 months"
+        },
+        "./images/35966062/c2.png": {
+            "subgroup": "thermal ablations for patients with T1bN0M0 tumor",
+            "outcome": "mean difference (MD) of VRR (volume reduction rate): 12 months"
+        },
+        "./images/35966062/d1.png": {
+            "subgroup": "thermal ablations for patients with T1aN0M0 tumor",
+            "outcome": "mean difference (MD) of VRR (volume reduction rate): 24 months"
+        },
+        "./images/35966062/d2.png": {
+            "subgroup": "thermal ablations for patients with T1bN0M0 tumor",
+            "outcome": "mean difference (MD) of VRR (volume reduction rate): 24 months"
+        }
+    }
+}

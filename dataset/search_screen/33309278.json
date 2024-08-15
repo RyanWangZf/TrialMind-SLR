@@ -1,0 +1,1168 @@
+{
+    "title": "A Systematic Review and Meta-analysis of Local Salvage Therapies After Radiotherapy for Prostate Cancer (MASTER)",
+    "pmid": "33309278",
+    "date": "2021/09",
+    "text": {
+        "abstract": "Abstract\nContext: Management of locally recurrent prostate cancer after definitive radiotherapy remains controversial due to the perceived high rates of severe genitourinary (GU) and gastrointestinal (GI) toxicity associated with any local salvage modality.\n\nObjective: To quantitatively compare the efficacy and toxicity of salvage radical prostatectomy (RP), high-intensity focused ultrasound (HIFU), cryotherapy, stereotactic body radiotherapy (SBRT), low-dose-rate (LDR) brachytherapy, and high-dose-rate (HDR) brachytherapy.\n\nEvidence acquisition: We performed a systematic review of PubMed, EMBASE, and MEDLINE. Two- and 5-yr recurrence-free survival (RFS) rates and crude incidences of severe GU and GI toxicity were extracted as endpoints of interest. Random-effect meta-analyses were conducted to characterize summary effect sizes and quantify heterogeneity. Estimates for each modality were then compared with RP after adjusting for individual study-level covariates using mixed-effect regression models, while allowing for differences in between-study variance across treatment modalities.\n\nEvidence synthesis: A total of 150 studies were included for analysis. There was significant heterogeneity between studies within each modality, and covariates differed between modalities, necessitating adjustment. Adjusted 5-yr RFS ranged from 50% after cryotherapy to 60% after HDR brachytherapy and SBRT, with no significant differences between any modality and RP. Severe GU toxicity was significantly lower with all three forms of radiotherapeutic salvage than with RP (adjusted rates of 20% after RP vs 5.6%, 9.6%, and 9.1% after SBRT, HDR brachytherapy, and LDR brachytherapy, respectively; p \u2264 0.001 for all). Severe GI toxicity was significantly lower with HDR salvage than with RP (adjusted rates 1.8% vs 0.0%, p < 0.01), with no other differences identified.\n\nConclusions: Large differences in 5-yr outcomes were not uncovered when comparing all salvage treatment modalities against RP. Reirradiation with SBRT, HDR brachytherapy, or LDR brachytherapy appears to result in less severe GU toxicity than RP, and reirradiation with HDR brachytherapy yields less severe GI toxicity than RP. Prospective studies of local salvage for radiorecurrent disease are warranted.\n\nPatient summary: In a large study-level meta-analysis, we looked at treatment outcomes and toxicity for men treated with a number of salvage treatments for radiorecurrent prostate cancer. We conclude that relapse-free survival at 5 years is equivalent among salvage modalities, but reirradiation may lead to lower toxicity.\n\nKeywords: Cryotherapy; High-dose-rate brachytherapy; High-intensity focused ultrasound; Low\u2013dose-rate brachytherapy; Meta-analysis; Prostate cancer; Radiation therapy; Radical prostatectomy; Radiorecurrent prostate cancer; Salvage therapy; Stereotactic body radiotherapy.",
+        "results": "A total of 150 studies were included for analysis. There was significant heterogeneity between studies within each modality, and covariates differed between modalities, necessitating adjustment. Adjusted 5-yr RFS ranged from 50% after cryotherapy to 60% after HDR brachytherapy and SBRT, with no significant differences between any modality and RP. Severe GU toxicity was significantly lower with all three forms of radiotherapeutic salvage than with RP (adjusted rates of 20% after RP vs 5.6%, 9.6%, and 9.1% after SBRT, HDR brachytherapy, and LDR brachytherapy, respectively; p \u2264 0.001 for all). Severe GI toxicity was significantly lower with HDR salvage than with RP (adjusted rates 1.8% vs 0.0%, p < 0.01), with no other differences identified.",
+        "conclusions": "Large differences in 5-yr outcomes were not uncovered when comparing all salvage treatment modalities against RP. Reirradiation with SBRT, HDR brachytherapy, or LDR brachytherapy appears to result in less severe GU toxicity than RP, and reirradiation with HDR brachytherapy yields less severe GI toxicity than RP. Prospective studies of local salvage for radiorecurrent disease are warranted."
+    },
+    "PICO": {
+        "P": "Patients with locally recurrent prostate cancer after definitive radiotherapy",
+        "I": "Salvage radical prostatectomy (RP), high-intensity focused ultrasound (HIFU), cryotherapy, stereotactic body radiotherapy (SBRT), low-dose-rate (LDR) brachytherapy, high-dose-rate (HDR) brachytherapy",
+        "C": "Comparative efficacy and toxicity of each salvage treatment modality against salvage RP",
+        "O": "Two- and 5-year recurrence-free survival (RFS) rates and crude incidences of severe genitourinary (GU) and gastrointestinal (GI) toxicity"
+    },
+    "PICO_terms": {
+        "P": ["locally recurrent prostate cancer", "definitive radiotherapy"],
+        "I": ["Salvage radical prostatectomy", "high-intensity focused ultrasound", "cryotherapy", "stereotactic body radiotherapy", "low-dose-rate brachytherapy", "high-dose-rate brachytherapy"],
+        "C": ["efficacy", "toxicity", "salvage RP"],
+        "O": ["Two- and 5-year recurrence-free survival rates", "crude incidences of severe genitourinary", "gastrointestinal toxicity"]
+    },
+    "trials": [
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "16140090",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "20078235",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "19913249",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "17081323",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "17070244",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "15890586",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "27637505",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "7850294",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "7526002",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "19076132",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "3917295",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "1523739",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "3411670",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "19453762",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "9827721",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "9697786",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "24008772",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "15758726",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "9474190",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "28761588",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "27347619",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "19653872",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "11061900",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "30385835",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "31075058",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "16815663",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "30006908",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "21420229",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "30126045",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "19303197",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "30790014",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "1873780",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "14532787",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "28396223",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "24314031",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "18639970",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "25711672",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "19254397",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "23000849",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "24578882",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "21166755",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "2000672",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "1538492",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "8428347",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "7543608",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "16949728",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "24012205",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "15538239",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "30666400",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "19524984",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "27157372",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "25799176",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "23826840",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "17698104",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "18554664",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "17138127",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "15983627",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "15040872",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "10654899",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "8608536",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "22285952",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "21251474",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "27300004",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "26915721",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "23950886",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "23469778",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "23179729",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "11547068",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "11371885",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "8976261",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "9072600",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "18163941",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "21185115",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "24355453",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "28856702",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "19922545",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "25283814",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "17662081",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "18597824",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "28652121",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "28063191",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "22071795",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "25443920",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "29211405",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "27431499",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "27422297",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "24578803",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "20350272",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "18564135",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "18508188",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "15072864",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "21771102",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "21265984",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "23068708",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "23485154",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "28258616",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "24930692",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "22907704",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "28274241",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "24373762",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "23474112",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "28050174",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "27165612",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "24317192",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "18579446",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "17197119",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "31570236",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "27795720",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "30244878",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "29333958",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "28341011",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "21933327",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "30312717",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "17701957",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "7379005",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "7299922",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "2388332",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "8259342",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "9886580",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "10565751",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "9358587",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "28838648",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "20138442",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "17070243",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "29151782",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "19245439",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "18201939",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "28139422",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "27092279",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "17685384",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "26897512",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "24295965",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "23467122",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "12892517",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "19850536",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "25727178",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "23824103",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "28951757",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "24998704",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "25337135",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "24372730",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "27504124",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "22672747",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "31629838",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "20437861",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "28599663",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "29983098",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "31344433",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "27342944",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "",
+            "pdf_link": "",
+            "pmid": "21277113",
+            "doi": "",
+            "nctid": ""
+        }
+    ],
+    "forest_plot_path": {
+        "./images/33309278/15-b-Cryo-5-yr-RFS.png": {
+            "subgroup": "cryotherapy",
+            "outcome": "5-Year recurrence-free survival(RFS)(%)"
+        },
+        "./images/33309278/17-a-RP-SGI.png": {
+            "subgroup": "radical prostatectomy",
+            "outcome": "Severe gastrointestinal(GI) toxicity(%)"
+        },
+        "./images/33309278/15-e-LDRBT-5-yr-RFS.png": {
+            "subgroup": "low-dose-rate brachytherapy",
+            "outcome": "5-Year recurrence-free survival(RFS)(%)"
+        },
+        "./images/33309278/17-e-LDRBT-SGI.png": {
+            "subgroup": "low-dose-rate brachytherapy",
+            "outcome": "Severe gastrointestinal(GI) toxicity(%)"
+        },
+        "./images/33309278/14-d-HDRBT-2yr-RFS.png": {
+            "subgroup": "high-doserate brachytherapy",
+            "outcome": "2-Year recurrence-free survival(RFS)(%)"
+        },
+        "./images/33309278/15-a-RP-5-yr-RFS.png": {
+            "subgroup": "radical prostatectomy",
+            "outcome": "5-Year recurrence-free survival(RFS)(%)"
+        },
+        "./images/33309278/16-e-LDRBT-SGU.png": {
+            "subgroup": "low-dose-rate brachytherapy",
+            "outcome": "Severe genitourinary(GU) toxicity(%)"
+        },
+        "./images/33309278/15-c-HIFU-5-yr-RFS.png": {
+            "subgroup": "high-intensity focused ultrasound",
+            "outcome": "5-Year recurrence-free survival(RFS)(%)"
+        },
+        "./images/33309278/14-a-RP-2yr-RFS.png": {
+            "subgroup": "radical prostatectomy",
+            "outcome": "2-Year recurrence-free survival(RFS)(%)"
+        },
+        "./images/33309278/17-d-HDRBT-SGI.png": {
+            "subgroup": "high-doserate brachytherapy",
+            "outcome": "Severe gastrointestinal(GI) toxicity(%)"
+        },
+        "./images/33309278/16-b-Cryo-SGU.png": {
+            "subgroup": "cryotherapy",
+            "outcome": "Severe genitourinary(GU) toxicity(%)"
+        },
+        "./images/33309278/16-d-HDRBT-SGU.png": {
+            "subgroup": "high-doserate brachytherapy",
+            "outcome": "Severe genitourinary(GU) toxicity(%)"
+        },
+        "./images/33309278/15-d-HDRBT-5-yr-RFS.png": {
+            "subgroup": "high-doserate brachytherapy",
+            "outcome": "5-Year recurrence-free survival(RFS)(%)"
+        },
+        "./images/33309278/16-f-SBRT-SGU.png": {
+            "subgroup": "stereotactic body radiotherapy",
+            "outcome": "Severe genitourinary(GU) toxicity(%)"
+        },
+        "./images/33309278/16-a-RP-SGU.png": {
+            "subgroup": "radical prostatectomy",
+            "outcome": "Severe genitourinary(GU) toxicity(%)"
+        },
+        "./images/33309278/14-f-SBRT-2yr-RFS.png": {
+            "subgroup": "stereotactic body radiotherapy",
+            "outcome": "2-Year recurrence-free survival(RFS)(%)"
+        },
+        "./images/33309278/14-e-LDRBT-2yr-RFS.png": {
+            "subgroup": "low-dose-rate brachytherapy",
+            "outcome": "2-Year recurrence-free survival(RFS)(%)"
+        },
+        "./images/33309278/14-c-HIFU-2yr-RFS.png": {
+            "subgroup": "high-intensity focused ultrasound",
+            "outcome": "2-Year recurrence-free survival(RFS)(%)"
+        },
+        "./images/33309278/16-c-HIFU-SGU.png": {
+            "subgroup": "high-intensity focused ultrasound",
+            "outcome": "Severe genitourinary(GU) toxicity(%)"
+        },
+        "./images/33309278/17-c-HIFU-SGI.png": {
+            "subgroup": "high-intensity focused ultrasound",
+            "outcome": "Severe gastrointestinal(GI) toxicity(%)"
+        },
+        "./images/33309278/14-b-Cryo-2yr-RFS.png": {
+            "subgroup": "cryotherapy",
+            "outcome": "2-Year recurrence-free survival(RFS)(%)"
+        },
+        "./images/33309278/17-f-SBRT-SGI.png": {
+            "subgroup": "stereotactic body radiotherapy",
+            "outcome": "Severe gastrointestinal(GI) toxicity(%)"
+        },
+        "./images/33309278/17-b-Cryo-SGI.png": {
+            "subgroup": "cryotherapy",
+            "outcome": "Severe gastrointestinal(GI) toxicity(%)"
+        }
+    }
+}

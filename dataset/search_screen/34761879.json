@@ -1,0 +1,140 @@
+{
+    "title": "Comparison of allogeneic hematopoietic stem cell transplantation and TKI combined with chemotherapy for adult philadelphia chromosome positive acute lymphoblastic leukemia: a systematic review and meta-analysis",
+    "pmid": "34761879",
+    "date": "2021/12",
+    "text": {
+        "abstract": "Objective: This study seeks to clarify whether allogeneic hematopoietic stem cell transplantation (allo-HSCT) is necessary for adult patients with Philadelphia chromosome-positive acute lymphoblastic leukemia (Ph+ ALL) in post-remission based on a comparison with tyrosine kinase inhibitor (TKI) combined with chemotherapy. Methods: We searched the Pubmed, Embase, and Web of Science databases and limited the date range for the studies from January 2010 to August 2020. A hazard ratio (HR) with a 95% confidence interval (CI) was employed to assess overall survival (OS) and relapse-free survival (RFS), and an odds ratio (OR) with a 95% CI was used to evaluate the ratio of non-relapsed mortality (NRM) and non-relapsed survival (NRS). All analyses were conducted with Stata software 16.0 and Revman 5.3. Results: Fifteen studies, totaling 959 patients, were included in our analysis. Among those patients, 473 underwent allo-HSCT, and 486 received TKI plus chemotherapy. The pooled results showed no difference in OS between outcomes for patients receiving TKI plus chemotherapy and those treated with allo-HSCT (HR = 0.76, 95% CI [0.51-1.12], p = 0.16). Patients undergoing allo-HSCT did better than those receiving TKI plus chemotherapy regarding RFS (HR = 0.48, 95% CI [0.37-0.63], p = 0.00), and NRS (OR = 2.64, 95% CI [1.25-5.57], p = 0.00). The NRM rate of the TKI plus chemotherapy group was significantly lower than the allo-HSCT group (OR = 2.33, 95% CI [1.51-3.59], p = 0.00). Conclusion: TKI combined with chemotherapy can be considered a post-remission treatment option for adult Ph+ ALL patients who are ineligible for allo-HSCT. However, more prospective studies with large sample sizes should be carried out in the future. Keywords: Philadelphia chromosome positive acute lymphoblastic leukemia; allogeneic hematopoietic stem cell transplantation; meta-analysis; tyrosine kinase inhibitor.",
+        "results": "Fifteen studies, totaling 959 patients, were included in our analysis. Among those patients, 473 underwent allo-HSCT, and 486 received TKI plus chemotherapy. The pooled results showed no difference in OS between outcomes for patients receiving TKI plus chemotherapy and those treated with allo-HSCT (HR = 0.76, 95% CI [0.51-1.12], p = 0.16). Patients undergoing allo-HSCT did better than those receiving TKI plus chemotherapy regarding RFS (HR = 0.48, 95% CI [0.37-0.63], p = 0.00), and NRS (OR = 2.64, 95% CI [1.25-5.57], p = 0.00). The NRM rate of the TKI plus chemotherapy group was significantly lower than the allo-HSCT group (OR = 2.33, 95% CI [1.51-3.59], p = 0.00).",
+        "conclusions": "TKI combined with chemotherapy can be considered a post-remission treatment option for adult Ph+ ALL patients who are ineligible for allo-HSCT. However, more prospective studies with large sample sizes should be carried out in the future."
+    },
+    "PICO": {
+        "P": "Adult patients with Philadelphia chromosome-positive acute lymphoblastic leukemia (Ph+ ALL) in post-remission",
+        "I": "Allogeneic hematopoietic stem cell transplantation (allo-HSCT)",
+        "C": "Tyrosine kinase inhibitor (TKI) combined with chemotherapy",
+        "O": "Overall survival (OS), relapse-free survival (RFS), non-relapsed mortality (NRM), and non-relapsed survival (NRS)"
+    },
+    "PICO_terms": {
+        "P": ["Philadelphia chromosome-positive acute lymphoblastic leukemia", "post-remission"],
+        "I": ["Allogeneic hematopoietic stem cell transplantation"],
+        "C": ["Tyrosine kinase inhibitor", "chemotherapy"],
+        "O": ["Overall survival", "relapse-free survival", "non-relapsed mortality", "non-relapsed survival"]
+    },
+    "trials": [
+        {
+            "title": "Outcome of Philadelphia positive acute lymphoblastic leukemia with or without allogeneic stem cell transplantation in a retrospective study",
+            "pdf_link": "",
+            "pmid": "30988558",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Final report of a phase II study of imatinib mesylate with hyper-CVAD for the front-line treatment of adult patients with Philadelphia chromosomepositive acute lymphoblastic leukemia",
+            "pdf_link": "",
+            "pmid": "25682595",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase II study of imatinib-based chemotherapy for newly diagnosed BCRABL-positive acute lymphoblastic leukemia",
+            "pdf_link": "",
+            "pmid": "28103625",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Final analysis of the JALSG Ph+ ALL202 study: tyrosine kinase inhibitor-combined chemotherapy for Ph+ ALL",
+            "pdf_link": "",
+            "pmid": "29694642",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Long-term follow-up of the imatinib GRAAPH-2003 study in newly diagnosed patients with de novo Philadelphia chromosome-positive acute lymphoblastic leukemia: a GRAALL study",
+            "pdf_link": "",
+            "pmid": "22960387",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Treatment of Philadelphia chromosome-positive acute lymphoblastic leukaemia with imatinib combined with a paediatric-based protocol",
+            "pdf_link": "",
+            "pmid": "22650180",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Retrospective analysis of Philadelphia chromosome-positive acute lymphoblastic leukemia treated with allogeneic hematopoietic stem cell transplant versus chemotherapy combined with tyrosine kinase inhibitor",
+            "pdf_link": "",
+            "pmid": "24730539",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Allogeneic stem cell transplantation versus tyrosine kinase inhibitors combined with chemotherapy in patients with Philadelphia chromosome-positive acute lymphoblastic leukemia",
+            "pdf_link": "",
+            "pmid": "29247779",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Combination chemotherapy plus dasatinib leads to comparable overall survival and relapse-free survival rates as allogeneic hematopoietic stem cell transplantation in Philadelphia positive acute lymphoblastic leukemia",
+            "pdf_link": "",
+            "pmid": "31016870",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Long-term follow-up of a phase 2 study of chemotherapy plus dasatinib for the initial treatment of patients with Philadelphia chromosome-positive acute lymphoblastic leukemia",
+            "pdf_link": "",
+            "pmid": "26308885",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "US intergroup study of chemotherapy plus dasatinib and allogeneic stem cell transplant in Philadelphia chromosome positive ALL",
+            "pdf_link": "",
+            "pmid": "29046900",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Nilotinib combined with multiagent chemotherapy for newly diagnosed Philadelphia-positive acute lymphoblastic leukemia",
+            "pdf_link": "",
+            "pmid": "26065651",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Nilotinib combined with multi-agent chemotherapy in newly diagnosed Philadelphia chromosome-positive acute lymphoblastic leukemia: a singlecenter prospective study with long-term follow-up",
+            "pdf_link": "",
+            "pmid": "30635765",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Combination of hyperCVAD with ponatinib as first-line therapy for patients with Philadelphia chromosome-positive acute lymphoblastic leukaemia: long-term follow-up of a single-centre, phase 2 study",
+            "pdf_link": "",
+            "pmid": "30501869",
+            "doi": "",
+            "nctid": ""
+        }
+    ],
+    "forest_plot_path": {
+        "./images/a.png": {
+            "subgroup": "Allo-HSCT and TKI+chemotherapy in adult patients with Ph+ ALL",
+            "outcome": "hazard ratio (HR) for overall surviva (OS)"
+        },
+        "./images/b.png": {
+            "subgroup": "Allo-HSCT and TKI+chemotherapy in adult patients with Ph+ ALL",
+            "outcome": "hazard ratio (HR) for disease-free survival (DFS)"
+        },
+        "./images/c.png": {
+            "subgroup": "Allo-HSCT With TKI+chemotherapy",
+            "outcome": "hazard ratio (HR) for non-relapse mortality (NRM)"
+        },
+        "./images/d.png": {
+            "subgroup": "Allo-HSCT With TKI+chemotherapy",
+            "outcome": "hazard ratio (HR) for non-relapsed survival (NRS)"
+        }
+    }
+}

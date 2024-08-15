@@ -1,0 +1,13 @@
+"Author, year",Type of Study and Phase,Number of Patients,Patients Characteristic: average age and GBM KPS scores,"Length of Follow-Up (Range, months)",Type of Intervention (n),Overall Survival (Range),Progression-Free Survival (Range),Number of Adverse Events,KPS Post Treatment,PMID
+"Kong, 2017
+","RCT, Phase III",180,53.3 +- 10.8 y.o for intervention 52.8 +- 10.5 y.o for control ND GBM KPS>=60,10.26 (2.48-41.7),Standard + CIK (91),22.47 (17.2-23.85),8.1 (5.8-8.5),43,n/a,27690294
+"Cho, 2012
+","RCT, Phase II",34,53.8 +- 12.0 y.o for intervention 55.8 +- 11.1 y.o for control ND GBM KPS >70,26 (17-56),Standard + WLDCV (18),31.9 (20-56),8.5 (3-56),0,70 (50-100),22120301
+"Yao, 2018
+","RCT, Phase II",43,48 +- n/a y.o for intervention 50 +- n/a y.o for control ND or rGBM KPS >=60,14 (9-23),Standard + DCV (22),13.7 (n/a),7.7 (n/a),0,n/a,30159779
+"Wen, 2019
+","RCT, Phase II",124,57.4 +- n/a y.o for intervention 57.4 +- n/a y.o for control ND GBM KPS>=70,11.4 (1.4-28.4),Standard + ICT-107 (81),17 (13.68-20.61),11.2 (8.22 - 13.05),47,n/a,31320597
+"Buchroitner, 2018
+",RCT phase II,76,Median 54.6 (n/a) for intervention Median 54 (n/a) for control ND GBM KPS n/a,18.73 (1.4-53.3),DCV + standard (34),18.8 (14.53-22.37),6.8 (4.6 - 9.3),18,n/a,24321210
+"Weller, 2017
+","RCT, Phase III",745,Median age 59 (51-64) for intervention Median age 58 (52--64) for control ND GBM KPS n/a,17.12 (.5-48),Standard therapy - rindopepimut + TMZ (371),17.4 (16.1-19.4),7.1 (5.4 - 7.9),337,n/a,28844499

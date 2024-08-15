@@ -1,0 +1,120 @@
+{
+    "title": "Adjuvant Chemotherapy for Muscle-invasive Bladder Cancer: A Systematic Review and Meta-analysis of Individual Participant Data from Randomised Controlled Trials",
+    "pmid": "34802798",
+    "date": "2022/01",
+    "text": {
+        "abstract": "Context: Our prior systematic review and meta-analysis of individual participant data (IPD) suggesting a benefit of adjuvant chemotherapy for muscle-invasive bladder cancer was limited by the number and size of included randomised trials. We have updated results to include additional trials, providing the most up-to-date and reliable evidence of the effects of this treatment.\n\nObjective: To investigate the role of adjuvant cisplatin-based chemotherapy in the treatment of muscle-invasive bladder cancer.\n\nEvidence acquisition: Published and unpublished trials were sought via searches of bibliographic databases, trials registers, conference proceedings, and hand searching. Updated IPD were centrally collected, checked, and analysed. Results from individual randomised controlled trials (RCTs) were combined using a two-stage fixed-effect model. Prespecified analyses explored any variation in effect by trial and participant characteristics.\n\nEvidence synthesis: Analyses of ten RCTs (1183 participants) demonstrated a benefit of cisplatin-based adjuvant chemotherapy on overall survival (hazard ratio [HR] = 0.82, 95% confidence interval [CI] = 0.70-0.96, p = 0.02). This represents an absolute improvement in survival of 6% at 5 yr, from 50% to 56%, and a 9% absolute benefit when adjusted for age, sex, pT stage, and pN category (HR = 0.77, 95% CI = 0.65-0.92, p = 0.004). There was no clear evidence that the effect varied by trial or participant characteristics. Adjuvant chemotherapy was also shown to improve recurrence-free survival (HR = 0.71, 95% CI = 0.60-0.83, p < 0.001), locoregional recurrence-free survival (HR = 0.68, 95% CI = 0.55-0.85, p < 0.001), and metastasis-free survival (HR = 0.79, 95% CI = 0.65-0.95, p = 0.01), with absolute benefits of 11%, 11%, and 8%, respectively.\n\nConclusions: This systematic review and meta-analysis demonstrates that cisplatin-based adjuvant chemotherapy is a valid option for improving outcomes for muscle-invasive bladder cancer.\n\nPatient summary: We looked at the effect of cisplatin-based chemotherapy on outcomes in participants with muscle-invasive bladder cancer. We gathered this information from eligible randomised controlled trials. We demonstrated that cisplatin-based chemotherapy is a valid option for improving outcomes of muscle-invasive bladder cancer.\n\nKeywords: Bladder cancer; Chemotherapy; Individual participant data; Meta-analysis; Systematic review.",
+        "results": "Analyses of ten RCTs (1183 participants) demonstrated a benefit of cisplatin-based adjuvant chemotherapy on overall survival (hazard ratio [HR] = 0.82, 95% confidence interval [CI] = 0.70-0.96, p = 0.02). This represents an absolute improvement in survival of 6% at 5 yr, from 50% to 56%, and a 9% absolute benefit when adjusted for age, sex, pT stage, and pN category (HR = 0.77, 95% CI = 0.65-0.92, p = 0.004). There was no clear evidence that the effect varied by trial or participant characteristics. Adjuvant chemotherapy was also shown to improve recurrence-free survival (HR = 0.71, 95% CI = 0.60-0.83, p < 0.001), locoregional recurrence-free survival (HR = 0.68, 95% CI = 0.55-0.85, p < 0.001), and metastasis-free survival (HR = 0.79, 95% CI = 0.65-0.95, p = 0.01), with absolute benefits of 11%, 11%, and 8%, respectively.",
+        "conclusions": "This systematic review and meta-analysis demonstrates that cisplatin-based adjuvant chemotherapy is a valid option for improving outcomes for muscle-invasive bladder cancer."
+    },
+    "PICO": {
+        "P": "Patients with muscle-invasive bladder cancer",
+        "I": "Cisplatin-based adjuvant chemotherapy",
+        "C": "",
+        "O": "Overall survival, recurrence-free survival, locoregional recurrence-free survival, and metastasis-free survival"
+    },
+    "PICO_terms": {
+        "P": ["muscle-invasive bladder cancer"],
+        "I": ["Cisplatin-based adjuvant chemotherapy"],
+        "C": [],
+        "O": ["Overall survival", "recurrence-free survival", "locoregional recurrence-free survival", "metastasis-free survival"]
+    },
+    "trials": [
+        {
+            "title": "Phase III study of molecularly targeted adjuvant therapy in locally advanced urothelial cancer of the bladder based on p53 status",
+            "pdf_link": "",
+            "pmid": "21810677",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Adjuvant chemotherapy with cisplatin and gemcitabine versus chemotherapy at relapse in patients with muscle-invasive bladder cancer submitted to radical cystectomy: an Italian, multicenter, randomized phase III trial",
+            "pdf_link": "",
+            "pmid": "21859900",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Immediate versus deferred chemotherapy after radical cystectomy in patients with pT3-pT4 or N+ M0 urothelial carcinoma of the bladder (EORTC 30994): an intergroup, open label, randomised phase 3 trial",
+            "pdf_link": "",
+            "pmid": "25498218",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Long-term results of a single-center prospective randomized trial assessing efficacy of a shortened course of adjuvant chemotherapy after radical cystectomy in patients with locally advanced bladder cancer",
+            "pdf_link": "",
+            "pmid": "32395319",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Adjuvant chemotherapy following cystectomy benefits patients with deeply invasive bladder cancer",
+            "pdf_link": "",
+            "pmid": "2284533",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Adjuvant cisplatin chemotherapy following cystectomy for bladder cancer: results of a prospective randomised trial",
+            "pdf_link": "",
+            "pmid": "8201695",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A randomised trial of radical cystectomy versus radical cystectomy plus cisplatin, vinblastine and methotrexate chemotherapy for muscle invasive bladder cancer",
+            "pdf_link": "",
+            "pmid": "8558644",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Adjuvant polychemotherapy of non-organ confined bladder cancer after radical cystectomy revisited: long term results of a controlled prospective study and further clinical experience",
+            "pdf_link": "",
+            "pmid": "7966789",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Complete long-term survival data from a trial of adjuvant chemotherapy vs control after radical cystectomy for locally advanced bladder cancer",
+            "pdf_link": "",
+            "pmid": "16686740",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Cisplatin as adjunctive treatment for invasive bladder carcinoma: tolerance and toxicities",
+            "pdf_link": "",
+            "pmid": "6538712",
+            "doi": "",
+            "nctid": ""
+        }
+    ],
+    "forest_plot_path": {
+        "./images/34802798/c-overall-Age(decades).png": {
+            "subgroup": "overall",
+            "outcome": "Age(decades)"
+        },
+        "./images/34802798/a-overall-Overall Survival.png": {
+            "subgroup": "overall",
+            "outcome": "Overall Survival"
+        },
+        "./images/34802798/d-overall-Age(intervals).png": {
+            "subgroup": "overall",
+            "outcome": "Age(intervals)"
+        },
+        "./images/34802798/e-overall-Pathological T stage.png": {
+            "subgroup": "overall",
+            "outcome": "Pathological T stage"
+        },
+        "./images/34802798/f-overall-pathological N stage.png": {
+            "subgroup": "overall",
+            "outcome": "pathological N stage"
+        },
+        "./images/34802798/b-overall-Overall Survival(adjusted).png": {
+            "subgroup": "overall",
+            "outcome": "Overall Survival(adjusted)"
+        }
+    }
+}

@@ -1,0 +1,260 @@
+{
+    "title": "Are immune-related adverse events associated with the efficacy of immune checkpoint inhibitors in patients with cancer? A systematic review and meta-analysis",
+    "pmid": "32306958",
+    "date": "2020/04",
+    "text": {
+        "abstract": "Background: A number of studies have reported an association between the occurrence of immune-related adverse events (irAEs) and clinical efficacy in patients undergoing treatment with immune checkpoint inhibitors (ICIs), but the results remain controversial.\n\nMethods: Under the guidance of a predefined protocol and Preferred Reporting Items for Systematic Reviews and Meta-analyses statement, this meta-analysis included cohort studies investigating the association of irAEs and efficacy of ICIs in patients with cancer. The primary outcome was overall survival (OS), and the secondary outcome was progression-free survival (PFS). Subgroup analyses involving the cancer type, class of ICIs, combination therapy, sample size, model, landmark analysis, and approach used to extract the data were performed. Specific analyses of the type and grade of irAEs were also performed.\n\nResults: This meta-analysis included 30 studies including 4971 individuals. Patients with cancer who developed irAEs experienced both an OS benefit and a PFS benefit from ICI therapy compared to patients who did not develop irAEs (OS: hazard ratio (HR), 0.54, 95% confidence interval (CI), 0.45-0.65; p < 0.001; PFS: HR, 0.52, 95% CI, 0.44-0.61, p < 0.001). Subgroup analyses of the study quality characteristics and cancer types recapitulated these findings. Specific analyses of endocrine irAEs (OS: HR, 0.52, 95% CI, 0.44-0.62, p < 0.001), dermatological irAEs (OS: HR, 0.45, 95% CI, 0.35-0.59, p < 0.001), and low-grade irAEs (OS: HR, 0.57, 95% CI, 0.43-0.75; p < 0.001) yielded similar results. The association between irAE development and a favorable benefit on survival was significant in patients with cancer who were undergoing treatment with programmed cell death-1 inhibitors (OS: HR, 0.51, 95% CI, 0.42-0.62; p < 0.001), but not cytotoxic T-lymphocyte antigen-4 inhibitors (OS: HR, 0.89, 95% CI, 0.49-1.61; p = 0.706). Additionally, the association was significant in patients with cancer who were treated with ICIs as a monotherapy (OS: HR, 0.53, 95% CI, 0.43-0.65; p < 0.001), but not as a combination therapy (OS: HR, 0.62, 95% CI, 0.36-1.05; p = 0.073).\n\nConclusions: The occurrence of irAEs was significantly associated with a better ICI efficacy in patients with cancer, particularly endocrine, dermatological, and low-grade irAEs. Further large-scale prospective studies are warranted to validate our findings.\n\nSystematic review registration: PROSPERO CRD42019129310.\n\nKeywords: Cancer; Efficacy; Immune checkpoint inhibitors; Immune-related adverse events.",
+        "results": "This meta-analysis included 30 studies including 4971 individuals. Patients with cancer who developed irAEs experienced both an OS benefit and a PFS benefit from ICI therapy compared to patients who did not develop irAEs (OS: hazard ratio (HR), 0.54, 95% confidence interval (CI), 0.45-0.65; p < 0.001; PFS: HR, 0.52, 95% CI, 0.44-0.61, p < 0.001). Subgroup analyses of the study quality characteristics and cancer types recapitulated these findings. Specific analyses of endocrine irAEs (OS: HR, 0.52, 95% CI, 0.44-0.62, p < 0.001), dermatological irAEs (OS: HR, 0.45, 95% CI, 0.35-0.59, p < 0.001), and low-grade irAEs (OS: HR, 0.57, 95% CI, 0.43-0.75; p < 0.001) yielded similar results. The association between irAE development and a favorable benefit on survival was significant in patients with cancer who were undergoing treatment with programmed cell death-1 inhibitors (OS: HR, 0.51, 95% CI, 0.42-0.62; p < 0.001), but not cytotoxic T-lymphocyte antigen-4 inhibitors (OS: HR, 0.89, 95% CI, 0.49-1.61; p = 0.706). Additionally, the association was significant in patients with cancer who were treated with ICIs as a monotherapy (OS: HR, 0.53, 95% CI, 0.43-0.65; p < 0.001), but not as a combination therapy (OS: HR, 0.62, 95% CI, 0.36-1.05; p = 0.073).",
+        "conclusions": "The occurrence of irAEs was significantly associated with a better ICI efficacy in patients with cancer, particularly endocrine, dermatological, and low-grade irAEs. Further large-scale prospective studies are warranted to validate our findings."
+    },
+    "PICO": {
+        "P": "Patients with cancer undergoing treatment with immune checkpoint inhibitors (ICIs)",
+        "I": "The occurrence of immune-related adverse events (irAEs)",
+        "C": "Patients who did not develop irAEs",
+        "O": "Overall survival (OS) and progression-free survival (PFS)"
+    },
+    "PICO_terms": {
+        "P": ["cancer", "immune checkpoint inhibitors"],
+        "I": ["immune-related adverse events"],
+        "C": ["irAEs"],
+        "O": ["Overall survival", "progression-free survival"]
+    },
+    "trials": [
+        {
+            "title": "Immune-related adverse events correlate with improved survival in patients undergoing anti-PD1 immunotherapy for metastatic melanoma",
+            "pdf_link": "",
+            "pmid": "30539281",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Incidence, risk factors, and effect on survival of immune-related adverse events in patients with non\u2013small-cell lung cancer",
+            "pdf_link": "",
+            "pmid": "30197259",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Association between immune-related adverse events and clinical efficacy in patients with melanoma treated with nivolumab: a multicenter retrospective study",
+            "pdf_link": "",
+            "pmid": "30528047",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Real-world efficacy and safety of nivolumab in previously-treated metastatic renal cell carcinoma, and association between immune-related adverse events and survival: the Italian expanded access program",
+            "pdf_link": "",
+            "pmid": "30944023",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "High-dose glucocorticoids for the treatment of ipilimumab-induced hypophysitis is associated with reduced survival in patients with melanoma",
+            "pdf_link": "",
+            "pmid": "29975414",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Nivolumab in resected and unresectable metastatic melanoma: characteristics of immune-related adverse events and association with outcomes",
+            "pdf_link": "",
+            "pmid": "26446948",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Association of immune-related adverse events with nivolumab efficacy in non-small cell lung cancer",
+            "pdf_link": "",
+            "pmid": "28975219",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Development of thyroid dysfunction is associated with clinical response to PD-1 blockade treatment in patients with advanced non-small cell lung cancer",
+            "pdf_link": "",
+            "pmid": "29296533",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Antibody-mediated thyroid dysfunction during T-cell checkpoint blockade in patients with non-small-cell lung cancer",
+            "pdf_link": "",
+            "pmid": "27998967",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Incidence, features, and prognosis of immune-related adverse events involving the thyroid gland induced by nivolumab",
+            "pdf_link": "",
+            "pmid": "31086392",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Association Between Immune-related Adverse Events and Efficacy of Immune Checkpoint Inhibitors in Non\u2013small-cell Lung Cancer",
+            "pdf_link": "",
+            "pmid": "30442524",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Impact of immune-related adverse events on survival in patients with advanced non-small cell lung cancer treated with nivolumab: long-term outcomes from a multi-institutional analysis",
+            "pdf_link": "",
+            "pmid": "30506406",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Evaluation of the impact of thyroiditis development in patients receiving immunotherapy with programmed cell death-1 inhibitors",
+            "pdf_link": "",
+            "pmid": "30782080",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Association between immune-related adverse events and prognosis in patients with metastatic renal cell carcinoma treated with nivolumab",
+            "pdf_link": "",
+            "pmid": "30935847",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Profiling Preexisting Antibodies in Patients Treated With Anti\u2013PD-1 Therapy for Advanced Non\u2013Small Cell Lung Cancer",
+            "pdf_link": "",
+            "pmid": "30589930",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Correlations Between the Immune-related Adverse Events Spectrum and Efficacy of Anti-PD1 Immunotherapy in NSCLC Patients",
+            "pdf_link": "",
+            "pmid": "30885550",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Association of Checkpoint Inhibitor\u2013Induced Toxic Effects With Shared Cancer and Tissue Antigens in Non\u2013Small Cell Lung Cancer",
+            "pdf_link": "",
+            "pmid": "31021392",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Comprehensive analysis of the characteristics and treatment outcomes of patients with non-small cell lung cancer treated with anti-PD-1 therapy in real-world practice",
+            "pdf_link": "",
+            "pmid": "30911841",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Correlation between vitiligo occurrence and clinical benefit in advanced melanoma patients treated with nivolumab: a multi-institutional retrospective study",
+            "pdf_link": "",
+            "pmid": "27510892",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Immune-related adverse events as a biomarker in non-melanoma patients treated with programmed cell death 1 inhibitors",
+            "pdf_link": "",
+            "pmid": "28652280",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Efficacy of nivolumab and pembrolizumab in patients with advanced non\u2013small-cell lung cancer needing treatment interruption because of adverse events: a retrospective multicenter analysis",
+            "pdf_link": "",
+            "pmid": "30337270",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Immune-related adverse events predict the therapeutic efficacy of anti\u2013PD-1 antibodies in cancer patients",
+            "pdf_link": "",
+            "pmid": "30682533",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Safety of combined PD-1 pathway inhibition and radiation therapy for non-small-cell lung cancer: a multicentric retrospective study from the GFPC",
+            "pdf_link": "",
+            "pmid": "30311424",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Treatment-related adverse events predict improved clinical outcome in NSCLC patients on KEYNOTE-001 at a single center",
+            "pdf_link": "",
+            "pmid": "29382669",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Efficacy and safety of immune checkpoint inhibitors in a Danish real life non-small cell lung cancer population: a retrospective cohort study",
+            "pdf_link": "",
+            "pmid": "31081424",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Clinical significance of signs of autoimmune colitis in (18)F-fluorodeoxyglucose positron emission tomography-computed tomography of 100 stage-IV melanoma patients",
+            "pdf_link": "",
+            "pmid": "31088239",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Efficacy and safety of nivolumab in previously treated patients with non-small cell lung cancer: a multicenter retrospective cohort study",
+            "pdf_link": "",
+            "pmid": "29656747",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Correlation between immune-related adverse events and efficacy in non-small cell lung cancer treated with nivolumab",
+            "pdf_link": "",
+            "pmid": "29290265",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Pembrolizumab cutaneous adverse events and their association with disease progression",
+            "pdf_link": "",
+            "pmid": "26222619",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Autoantibody development under treatment with immune-checkpoint inhibitors",
+            "pdf_link": "",
+            "pmid": "30425107",
+            "doi": "",
+            "nctid": ""
+        }
+    ],
+    "forest_plot_path": {
+        "./images/32306958/overall.png": {
+            "subgroup": "Overall",
+            "outcome": "overall survival(OS)"
+        },
+        "./images/32306958/irAE-type.png": {
+            "subgroup": "irAE-type",
+            "outcome": "rogression-Free Survival(PFS)(Blue) & overall survival(OS)(Red)"
+        },
+        "./images/32306958/class-of-ICIs.png": {
+            "subgroup": "Patient Characteristics - class of ICIs",
+            "outcome": "overall survival(OS)"
+        },
+        "./images/32306958/irAE-grade.png": {
+            "subgroup": "irAE-grade",
+            "outcome": "rogression-Free Survival(PFS)(Blue) & overall survival(OS)(Red)"
+        },
+        "./images/32306958/cancer-type.png": {
+            "subgroup": "Patient Characteristics - cancer type",
+            "outcome": "overall survival(OS)"
+        },
+        "./images/32306958/combination-therapy.png": {
+            "subgroup": "Patient Characteristics - combination therapy",
+            "outcome": "overall survival(OS)"
+        }
+    }
+}

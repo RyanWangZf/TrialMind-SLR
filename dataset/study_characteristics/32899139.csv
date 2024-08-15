@@ -1,0 +1,9 @@
+"First Author, Year (Study Name)",Phase,Population,Experimental Arm (n),Control Arm (n),Endocrine Status,Median PFS Exp Arm,Median PFS Ctrl Arm,HR (95% CI),PMID
+"Hortobagyi GN, 2018 (MONALEESA-2)",III,Post-menopausalAI-sensitive,Ribociclib + Letrozole (334),Letrozole + Placebo (334),Sensitive,25.3 (23.0-30.3),16 (13.4-18.2),0.568 (0.457-0.704),29718092
+"Slamon DJ, 2018 (MONALEESA-3)",III,Post-menopausalAI-sensitive/resistant,Ribociclib + Fulvestrant (484),Fulvestrant + Placebo (242),Mixed,20.5 (18.5-23.5),12.8 (10.9-16.3),0.593 (0.480-0.732),29860922
+"Tripathy D, 2018 (MONALEESA-7)",III,Pre-menopausalAI-sensitive,Ribociclib + Tamoxifene or NSAI (335),Placebo + Tamoxifene or NSAI (337),Mixed,23.8 (19.2-NR *),13.3 (11.0-16.4),0.553 (0.441-0.694),29804902
+"Sledge GW, 2019 (MONARCH-2)",III,Pre/Post-menopausalAI-resistant,Abemaciclib + Fulvestrant (446),Fulvestrant + Placebo (223),Resistant,16.4 (not reported),9.3 (not reported),0.553 (0.449-0.681),31563959
+"Johnston S, 2019 (MONARCH-3)",III,Pre/Post-menopausalAI-sensitive,Abemaciclib + NSAI (328),Placebo + NSAI (165),Sensitive,28.1 (not reported),14.7 (not reported),0.540 (0.418-0.698),30675515
+"Finn RS, 2015 (PALOMA-1)",II,Pre/Post-menopausalAI-sensitive,Palbociclib + Letrozole (84),Letrozole (81),Sensitive,20.2 (13.8-27.5),10.2 (5.7-12.6),0.488 (0.319-0.748),25524798
+"Rugo HS, 2019 (PALOMA-2)",III,Pre/Post-menopausalAI-sensitive,Palbociclib + Letrozole (444),Letrozole (222),Sensitive,27.6 (22.4-30.3),14.5 (12.3-17-1),0.563 (0.461-0.687),30632023
+"Cristofanilli M, 2016 (PALOMA-3)",III,Pre/Post-menopausalAI-resistant,Palbociclib + Fulvestrant (521),Fulvestrant + Placebo (347),Resistant,9.5 (9.2-11.0),4.6 (3.5-5.6),0.46 (0.36-0.59),26947331

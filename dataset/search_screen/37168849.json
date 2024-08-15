@@ -1,0 +1,115 @@
+{
+    "title": "Outcomes with chimeric antigen receptor t-cell therapy in relapsed or refractory acute myeloid leukemia: a systematic review and meta-analysis",
+    "pmid": "37168849",
+    "date": "2023/04",
+    "text": {
+        "abstract": "Background: We conducted a systematic review and meta-analysis to evaluate outcomes following chimeric antigen receptor T cell (CAR-T) therapy in relapsed/refractory acute myeloid leukemia (RR-AML). Methods: We performed a literature search on PubMed, Cochrane Library, and Clinicaltrials.gov. After screening 677 manuscripts, 13 studies were included. Data was extracted following PRISMA guidelines. Pooled analysis was done using the meta-package by Schwarzer et al. Proportions with 95% confidence intervals (CI) were computed. Results: We analyzed 57 patients from 10 clinical trials and 3 case reports. The pooled complete and overall response rates were 49.5% (95% CI 0.18-0.81, I2 =65%) and 65.2% (95% CI 0.36-0.91, I2 =57%). The pooled incidence of cytokine release syndrome, immune-effector cell associated neurotoxicity syndrome, and graft-versus-host disease was estimated as 54.4% (95% CI 0.17-0.90, I2 =77%), 3.9% (95% CI 0.00-0.19, I2 =22%), and 1.6% (95%CI 0.00-0.21, I2 =33%), respectively. Conclusion: CAR-T therapy has demonstrated modest efficacy in RR-AML. Major challenges include heterogeneous disease biology, lack of a unique targetable antigen, and immune exhaustion.",
+        "results": "We analyzed 57 patients from 10 clinical trials and 3 case reports. The pooled complete and overall response rates were 49.5% (95% CI 0.18-0.81, I2 =65%) and 65.2% (95% CI 0.36-0.91, I2 =57%). The pooled incidence of cytokine release syndrome, immune-effector cell associated neurotoxicity syndrome, and graft-versus-host disease was estimated as 54.4% (95% CI 0.17-0.90, I2 =77%), 3.9% (95% CI 0.00-0.19, I2 =22%), and 1.6% (95%CI 0.00-0.21, I2 =33%), respectively.",
+        "conclusions": "CAR-T therapy has demonstrated modest efficacy in RR-AML. Major challenges include heterogeneous disease biology, lack of a unique targetable antigen, and immune exhaustion."
+    },
+    "PICO": {
+        "P": "Patients with relapsed/refractory acute myeloid leukemia (RR-AML)",
+        "I": "Chimeric antigen receptor T cell (CAR-T) therapy",
+        "C": "N/A",
+        "O": "Outcomes following CAR-T therapy in RR-AML such as complete and overall response rates, and the incidence of cytokine release syndrome, immune-effector cell associated neurotoxicity syndrome, and graft-versus-host disease"
+    },
+    "PICO_terms": {
+        "P": ["relapsed/refractory acute myeloid leukemia"],
+        "I": ["Chimeric antigen receptor T cell therapy"],
+        "C": [],
+        "O": ["Outcomes following CAR-T therapy in RR-AMLl", "complete and overall response rates", "the incidence of cytokine release syndrome", "immune-effector cell associated neurotoxicity syndrome", "graft-versus-host disease"]
+    },
+    "trials": [
+        {
+            "title": "Cytotoxic effect of CLL-1 CAR-T cell immunotherapy with PD-1 silencing on relapsed/refractory acute myeloid leukemia",
+            "pdf_link": "",
+            "pmid": "33495835",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase I trial of autologous CAR T cells targeting NKG2D ligands in patients with AML/MDS and multiple myeloma",
+            "pdf_link": "",
+            "pmid": "30396908",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "First-in-man clinical trial of CAR NK-92 cells: safety test of CD33-CAR NK-92 cells in patients with relapsed and refractory acute myeloid leukemia",
+            "pdf_link": "",
+            "pmid": "30034945",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Treatment of CD33-directed chimeric antigen receptor-modified T cells in one patient with relapsed and refractory acute myeloid leukemia",
+            "pdf_link": "",
+            "pmid": "25174587",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Anti-CLL1 chimeric antigen receptor T-cell therapy in children with Relapsed/Refractory acute myeloid leukemia",
+            "pdf_link": "",
+            "pmid": "33832948",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase 1 clinical trial of adoptive immunotherapy using \u201coff-the-shelf\u201d activated natural killer cells in patients with refractory and relapsed acute myeloid leukemia",
+            "pdf_link": "",
+            "pmid": "28864289",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "NKG2D-based chimeric antigen receptor therapy induced remission in a relapsed/refractory acute myeloid leukemia patient",
+            "pdf_link": "",
+            "pmid": "29703727",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Proof of concept for a rapidly switchable universal CAR-T platform with UniCAR-T-CD123 in relapsed/refractory AML",
+            "pdf_link": "",
+            "pmid": "33624009",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Donor-derived CD123-targeted CAR T cell serves as a RIC regimen for haploidentical transplantation in a patient with FUS-ERG+ AML",
+            "pdf_link": "",
+            "pmid": "31850234",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "CD38-directed CAR-T cell therapy: a novel immunotherapy strategy for relapsed acute myeloid leukemia after allogeneic hematopoietic stem cell transplantation",
+            "pdf_link": "",
+            "pmid": "34034795",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Successful treatment of two relapsed/refractory t(8;21) acute myeloid leukemia patients by CD19-directed chimeric antigen receptor T cells.",
+            "pdf_link": "",
+            "pmid": "30631098",
+            "doi": "",
+            "nctid": ""
+        }
+    ],
+    "forest_plot_path": {
+        "./images/37168849/a.png": {
+            "subgroup": "post CAR-T therapy for relapsed refractory acute myeloid leukemia",
+            "outcome": "complete response rate (CR)"
+        },
+        "./images/37168849/b.png": {
+            "subgroup": "post CAR-T therapy for relapsed refractory acute myeloid leukemia",
+            "outcome": "overall response rate (ORR)"
+        },
+        "./images/37168849/c.png": {
+            "subgroup": "post CAR-T therapy for relapsed refractory acute myeloid leukemia",
+            "outcome": "cytokine release syndrome (CRS)"
+        }
+    }
+}

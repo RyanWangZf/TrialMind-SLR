@@ -1,0 +1,87 @@
+{
+    "title": "Survival outcomes of neoadjuvant versus adjuvant chemotherapy in triple-negative breast cancer: a meta-analysis of 36,480 cases",
+    "pmid": "32539858",
+    "date": "2020/06",
+    "text": {
+        "abstract": "Background: The survival outcomes of neoadjuvant chemotherapy (NACT) versus adjuvant chemotherapy (ACT) for patients with triple-negative breast cancer (TNBC) remain unclear. Therefore, in this study, a meta-analysis was conducted to analyze current evidence on the survival outcomes of NACT versus ACT in TNBC.\n\nMethods: A systematic search was performed on the PubMed and Embase databases to identify relevant articles investigating the survival outcomes of NACT versus ACT in TNBC.\n\nResults: A total of nine studies involving 36,480 patients met the selection criteria. Among them, 10,728 (29.41%) received NACT, and 25,752 (70.59%) received ACT. The pathological complete response (pCR) rate was 35% (95% CI = 0.23-0.48). Compared with ACT, the overall survival (OS) of NACT was poor (HR = 1.59; 95% CI = 1.25-2.02; P = 0.0001), and there was no significant difference in disease-free survival (DFS) between the two treatments (HR = 0.85; 95% CI = 0.54-1.34; P = 0.49). NACT with pCR significantly improved the OS (HR = 0.53; 95% CI = 0.29-0.98; P = 0.04) and DFS (HR = 0.52; 95% CI = 0.29-0.94; P = 0.03), while the OS (HR = 1.18; 95% CI = 1.09-1.28; P < 0.0001) and DFS (HR = 2.36; 95% CI = 1.42-3.89; P = 0.0008) of patients with residual disease (RD) following NACT were worse compared to those receiving ACT.\n\nConclusion: These findings suggest that, for TNBC, NACT with pCR is superior to ACT in improving OS and DFS, and it turns to be opposite when patients are receiving NACT with RD.\n\nKeywords: Adjuvant chemotherapy; Meta-analysis; Neoadjuvant; Survival outcomes; Triple-negative breast cancer.",
+        "results": "A total of nine studies involving 36,480 patients met the selection criteria. Among them, 10,728 (29.41%) received NACT, and 25,752 (70.59%) received ACT. The pathological complete response (pCR) rate was 35% (95% CI = 0.23-0.48). Compared with ACT, the overall survival (OS) of NACT was poor (HR = 1.59; 95% CI = 1.25-2.02; P = 0.0001), and there was no significant difference in disease-free survival (DFS) between the two treatments (HR = 0.85; 95% CI = 0.54-1.34; P = 0.49). NACT with pCR significantly improved the OS (HR = 0.53; 95% CI = 0.29-0.98; P = 0.04) and DFS (HR = 0.52; 95% CI = 0.29-0.94; P = 0.03), while the OS (HR = 1.18; 95% CI = 1.09-1.28; P < 0.0001) and DFS (HR = 2.36; 95% CI = 1.42-3.89; P = 0.0008) of patients with residual disease (RD) following NACT were worse compared to those receiving ACT.",
+        "conclusions": "These findings suggest that, for TNBC, NACT with pCR is superior to ACT in improving OS and DFS, and it turns to be opposite when patients are receiving NACT with RD."
+    },
+    "PICO": {
+        "P": "triple-negative breast cancer (TNBC)",
+        "I": "1. neoadjuvant chemotherapy (NACT); 2. adjuvant chemotherapy (ACT)",
+        "C": "",
+        "O": "1. overall survival; 2. disease-free survival (DFS)"
+    },
+    "PICO_terms": {
+        "P": ["triple-negative breast cancer"],
+        "I": ["neoadjuvant chemotherapy", "adjuvant chemotherapy"],
+        "C": [],
+        "O": ["overall survival", "disease-free survival"]
+    },
+    "trials": [
+        {
+            "title": "Adjuvant versus neoadjuvant chemotherapy in triple-negative breast cancer patients with BRCA mutations",
+            "pdf_link": "",
+            "pmid": "29470805",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Neoadjuvant chemotherapy is associated with improved survival compared with adjuvant chemotherapy in patients with triple-negative breast cancer only after complete pathologic response",
+            "pdf_link": "",
+            "pmid": "21725686",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Neoadjuvant versus adjuvant chemotherapy for triple negative breast cancer",
+            "pdf_link": "",
+            "pmid": "20599225",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Retrospective analysis of concurrent docetaxel and epirubicin neoadjuvant versus adjuvant chemotherapy: which leads to better outcomes for different subtype breast cancer patients?",
+            "pdf_link": "",
+            "pmid": "30290661",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "the survival benefit of neoadjuvant chemotherapy and pCR among patients with advanced stage triple negative breast cancer",
+            "pdf_link": "",
+            "pmid": "29348858",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Clinical outcomes with neoadjuvant versus adjuvant chemotherapy for triple negative breast cancer: a report from the National Cancer Database",
+            "pdf_link": "",
+            "pmid": "31536530",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Efficacy of neoadjuvant versus adjuvant chemotherapy in Hispanic/Latino H/L women with local or locally advanced triple-negative breast cancer(TNBC) In Vivo",
+            "pdf_link": "",
+            "pmid": "31280213",
+            "doi": "",
+            "nctid": ""
+        }
+    ],
+    "forest_plot_path": {
+        "./images/32539858/a.png": {
+            "subgroup": "NACT vs. ACT",
+            "outcome": "hazard ratio (HR) for overall survival (OS)"
+        },
+        "./images/32539858/b.png": {
+            "subgroup": "NACT with pCR vs. ACT",
+            "outcome": "hazard ratio (HR) for overall survival (OS)"
+        },
+        "./images/32539858/c.png": {
+            "subgroup": "NACT with RD vs. ACT",
+            "outcome": "hazard ratio (HR) for overall survival (OS)"
+        }
+    }
+}

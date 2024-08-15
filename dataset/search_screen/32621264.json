@@ -1,0 +1,109 @@
+{
+    "title": "Is PEGylated G-CSF superior to G-CSF in patients with breast cancer receiving chemotherapy? A systematic review and meta-analysis",
+    "pmid": "32621264",
+    "date": "2020/11",
+    "text": {
+        "abstract": "Background: PEGylated granulocyte colony-stimulating factor (G-CSF) is a safe alternative to G-CSF to improve chemotherapy-induced neutropenia (CIN). This superiority has resulted in its increased use by physicians; however, the superiority of PEGylated G-CSF for CIN in breast cancer has not been conclusively determined.\n\nObjectives: To assess the superiority of PEGylated G-CSF for CIN in breast cancer in terms of effectiveness and safety via a systematic review and meta-analysis.\n\nMethods: A literature search in PubMed, Embase, Cochrane Library, and Web of Science was performed for eligible studies published from database inception to December 2019. All studies comparing PEGylated G-CSF and G-CSF for CIN of breast cancer were reviewed. After literature selection, data extraction and quality assessment were performed by two reviewers independently. Meta-analysis was conducted using Revman, version 5.2.\n\nResults: Nine randomized controlled trials were finally identified. The publication bias of these studies was acceptable. For the endpoint of effectiveness, analysis of the incidence/duration of grade \u2265 3 neutropenia, the duration of grade 4 neutropenia, the incidence of febrile neutropenia (FN), and the time to absolute neutrophil count recovery showed no advantage of PEGylated G-CSF over G-CSF for CIN of breast cancer (P > 0.05), with the premise of a sufficient dose of G-CSF according to the guidelines. No significant differences in grade 4 adverse events were observed between the groups (P = 0.29), and PEGylated G-CSF did not increase the incidence of skeletal and/or muscle pain compared with G-CSF (P = 0.32).\n\nConclusion: PEGylated G-CSF was as effective and safe as G-CSF to reduce CIN in breast cancer but did not show an obvious superiority. However, in clinical practice, PEGylated G-CSF has an obvious advantage in terms of convenience, which could improve patient's quality of life.\n\nKeywords: Breast cancer; Chemotherapy; G-CSF; PEGylated G-CSF.\n",
+        "results": "Nine randomized controlled trials were finally identified. The publication bias of these studies was acceptable. For the endpoint of effectiveness, analysis of the incidence/duration of grade \u2265 3 neutropenia, the duration of grade 4 neutropenia, the incidence of febrile neutropenia (FN), and the time to absolute neutrophil count recovery showed no advantage of PEGylated G-CSF over G-CSF for CIN of breast cancer (P > 0.05), with the premise of a sufficient dose of G-CSF according to the guidelines. No significant differences in grade 4 adverse events were observed between the groups (P = 0.29), and PEGylated G-CSF did not increase the incidence of skeletal and/or muscle pain compared with G-CSF (P = 0.32).",
+        "conclusions": "PEGylated G-CSF was as effective and safe as G-CSF to reduce CIN in breast cancer but did not show an obvious superiority. However, in clinical practice, PEGylated G-CSF has an obvious advantage in terms of convenience, which could improve patient's quality of life."
+    },
+    "PICO": {
+        "P": "breast cancer receiving chemotherapy",
+        "I": "1. PEGylated granulocyte colony-stimulating factor (G-CSF); 2. G-CSF",
+        "C": "",
+        "O": "1. risk ratios (RRs) of grade >= 3 / 4 neutropenia; 2. RRs of febrile neutropenia (FN); 3. time to absolute neutrophil count recovery; 4. grade 4 AEs; 5. RRs of skeletal and/or muscle pain"
+    },
+    "PICO_terms": {
+        "P": ["breast cancer", "chemotherapy"],
+        "I": ["PEGylated granulocyte colony-stimulating factor", "G-CSF"],
+        "C": [],
+        "O": ["risk ratios (RRs) of grade >= 3 / 4 neutropenia", "RRs of febrile neutropenia", "time to absolute neutrophil count recovery", "grade 4 AEs", "RRs of skeletal and/or muscle pain"]
+    },
+    "trials": [
+        {
+            "title": "Efficacy and safety of mecapegfilgrastim for prophylaxis of chemotherapy-induced neutropenia in patients with breast cancer: a randomized, multicenter, active-controlled phase III trial",
+            "pdf_link": "",
+            "pmid": "31700918",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A randomized multicenter phase II trial of mecapegfilgrastim single administration versus granulocyte colony-stimulating growth factor on treating chemotherapy-induced neutropenia in breast cancer patients",
+            "pdf_link": "",
+            "pmid": "31205914",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Comparison of the effects of pegylated granulocyte-colony stimulating factor and granulocyte-colony stimulating factor on cytopenia induced by dose-dense chemotherapy in breast cancer patients",
+            "pdf_link": "",
+            "pmid": "30181755",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Randomized controlled clinical trial of polyethylene glycol recombinant human granulocyte colony-stimulating factor in the treatment of neutropenia after chemotherapy for breast cancer",
+            "pdf_link": "",
+            "pmid": "30043207",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Advantages with prophylactic PEG-rhG-CSF versus rhG-CSF in breast cancer patients receiving multiple cycles of myelosuppressive chemotherapy: an open-label, randomized, multicenter phase III study",
+            "pdf_link": "",
+            "pmid": "29230663",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A randomized, multi-center, open-label, phase III study of once-per-cycle DA-3031, a pegylated G-CSF, in comparison with daily filgrastim in patients receiving TAC chemotherapy for breast cancer",
+            "pdf_link": "",
+            "pmid": "27709313",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "An open-label, randomized, multicenter dose-finding study of once-per-cycle pegfilgrastim versus daily filgrastim in Chinese breast cancer patients receiving TAC chemotherapy",
+            "pdf_link": "",
+            "pmid": "25820754",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A randomized, multi-center, open-label, phase II study of once-per-cycle DA-3031, a biosimilar pegylated G-CSF, compared with daily filgrastim in patients receiving TAC chemotherapy for early-stage breast cancer",
+            "pdf_link": "",
+            "pmid": "23677653",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Blinded, randomized, multicenter study to evaluate single administration pegfilgrastim once per cycle versus daily filgrastim as an adjunct to chemotherapy in patients with high-risk stage II or stage III/IV breast cancer",
+            "pdf_link": "",
+            "pmid": "11821454",
+            "doi": "",
+            "nctid": ""
+        }
+    ],
+    "forest_plot_path": {
+        "./images/32621264/a.png": {
+            "subgroup": "PEG-G-CSF v.s. G-CSF",
+            "outcome": "Risk Ratios (RRs): Incidence of grade \u2265 3 neutropenia"
+        },
+        "./images/32621264/b.png": {
+            "subgroup": "PEG-G-CSF v.s. G-CSF",
+            "outcome": "Mean Diddference (MD): duration of grade \u2265 3 neutropenia"
+        },
+        "./images/32621264/c.png": {
+            "subgroup": "PEG-G-CSF v.s. G-CSF",
+            "outcome": "Mean Diddference (MD): duration of grade 4 neutropenia"
+        },
+        "./images/32621264/d.png": {
+            "subgroup": "PEG-G-CSF v.s. G-CSF",
+            "outcome": "Risk Ratios (RRs): incidence of febrile neutropenia (FN)"
+        },
+        "./images/32621264/e.png": {
+            "subgroup": "PEG-G-CSF v.s. G-CSF",
+            "outcome": "Mean Difference (MD): the time to ANC (absolute neutrophil count) recovery"
+        }
+    }
+}

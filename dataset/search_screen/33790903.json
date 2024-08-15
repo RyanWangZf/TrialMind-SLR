@@ -1,0 +1,112 @@
+{
+    "title": "TKI Maintenance After Stem-Cell Transplantation for FLT3-ITD Positive Acute Myeloid Leukemia: A Systematic Review and Meta-Analysis",
+    "pmid": "33790903",
+    "date": "2021/03",
+    "text": {
+        "abstract": "This analysis aimed to systematically review and synthesize the existing evidence regarding the outcome of tyrosine kinase inhibitor (TKI) maintenance therapy after allogeneic stem-cell transplantation for patients with FLT3-ITD-mutated acute myeloid leukemia (AML). We searched publicly available databases, references lists of relevant reviews, registered trials, and relevant conference proceedings. A total of 7 studies comprising 680 patients were included. Five studies evaluated sorafenib and 2 studies evaluated midostaurin, compared with control. The incidence of relapse was significantly reduced after TKI therapy, showing an overall pooled risk ratio (RR) of 0.35 (95% confidence interval [CI], 0.23-0.51; P < 0.001), with a marked 65% reduced risk for relapse. The overall pooled RR for relapse-free survival and overall survival showed significantly improved outcome after TKI maintenance therapy, being 0.48 (95% CI, 0.37-0.61; P < 0.001) and 0.48 (95% CI, 0.36-0.64; P < 0.001). The risk for relapse or death from any cause was reduced by 52% using TKI. No difference in outcome was seen for non-relapse mortality, and the risk for chronic or acute graft-vs. -host disease appeared to be increased, at least for sorafenib. In conclusion, post-transplant maintenance therapy with TKI was associated with significantly improved outcome in relapse and survival in patients with FLT3-ITD positive AML.",
+        "results": "The incidence of relapse was significantly reduced after TKI therapy, showing an overall pooled risk ratio (RR) of 0.35 (95% confidence interval [CI], 0.23-0.51; P < 0.001), with a marked 65% reduced risk for relapse. The overall pooled RR for relapse-free survival and overall survival showed significantly improved outcome after TKI maintenance therapy, being 0.48 (95% CI, 0.37-0.61; P < 0.001) and 0.48 (95% CI, 0.36-0.64; P < 0.001). The risk for relapse or death from any cause was reduced by 52% using TKI. No difference in outcome was seen for non-relapse mortality, and the risk for chronic or acute graft-vs. -host disease appeared to be increased, at least for sorafenib.",
+        "conclusions": "Post-transplant maintenance therapy with TKI was associated with significantly improved outcome in relapse and survival in patients with FLT3-ITD positive AML."
+    },
+    "PICO": {
+        "P": "Patients with FLT3-ITD-mutated acute myeloid leukemia (AML) who have undergone allogeneic stem-cell transplantation",
+        "I": "Tyrosine kinase inhibitor (TKI) maintenance therapy",
+        "C": "Control (no TKI maintenance therapy or standard of care post transplantation)",
+        "O": "Incidence of relapse, relapse-free survival, overall survival, risk of death from any cause, and increased risk for chronic or acute graft-vs.-host disease"
+    },
+    "PICO_terms": {
+        "P": ["FLT3-ITD-mutated acute myeloid leukemia", "allogeneic stem-cell transplantation"],
+        "I": ["Tyrosine kinase inhibitor maintenance therapy"],
+        "C": ["no TKI maintenance therapy", "standard of care post transplantation"],
+        "O": ["Incidence of relapse", "relapse-free survival", "overall survival", "risk of death from any cause", "increased risk for chronic", "acute graft-vs.-host disease"]
+    },
+    "trials": [
+        {
+            "title": "Effect of sorafenib on the outcomes of patients with FLT3-ITD acute myeloid leukemia undergoing allogeneic hematopoietic stem cell transplantation",
+            "pdf_link": "",
+            "pmid": "29509276",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Sorafenib maintenance in patients with FLT3-ITD acute myeloid leukaemia undergoing allogeneic haematopoietic stem-cell transplantation: an open-label, multicentre, randomised phase 3 trial",
+            "pdf_link": "",
+            "pmid": "32791048",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Midostaurin added to chemotherapy and continued single-agent maintenance therapy in acute myeloid leukemia with FLT3-ITD",
+            "pdf_link": "",
+            "pmid": "30563875",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Haematopoietic cell transplantation with and without sorafenib maintenance for patients with FLT3-ITD acute myeloid leukaemia in first complete remission",
+            "pdf_link": "",
+            "pmid": "27434660",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Sorafenib maintenance after allogeneic hematopoietic stem cell transplantation for acute myeloid leukemia with FLT3-internal tandem duplication mutation (SORMAIN)",
+            "pdf_link": "",
+            "pmid": "32673171",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Maintenance sorafenib is superior to prophylactic donor lymphocyte infusion at improving the prognosis of acute myeloid leukemia with FMS-like tyrosine kinase 3 internal tandem duplication after allogeneic hematopoietic stem cell transplantation",
+            "pdf_link": "",
+            "pmid": "32753705",
+            "doi": "",
+            "nctid": ""
+        }
+    ],
+    "forest_plot_path": {
+        "./images/33790903/a.png": {
+            "subgroup": "midostaurin",
+            "outcome": "risk ratio (RR) for relapse-free survival"
+        },
+        "./images/33790903/b.png": {
+            "subgroup": "sorafenib",
+            "outcome": "risk ratio (RR) for relapse-free survival"
+        },
+        "./images/33790903/c.png": {
+            "subgroup": "midostaurin",
+            "outcome": "risk ratio (RR) for incidence of relapse"
+        },
+        "./images/33790903/d.png": {
+            "subgroup": "sorafenib",
+            "outcome": "risk ratio (RR) for incidence of relapse"
+        },
+        "./images/33790903/e.png": {
+            "subgroup": "midostaurin",
+            "outcome": "risk ratio (RR) for overall surviva (OS)"
+        },
+        "./images/33790903/f.png": {
+            "subgroup": "sorafenib",
+            "outcome": "risk ratio (RR) for overall surviva (OS)"
+        },
+        "./images/33790903/g.png": {
+            "subgroup": "sorafenib",
+            "outcome": "risk ratio (RR) for non-relapse mortality"
+        },
+        "./images/33790903/h.png": {
+            "subgroup": "midostaurin",
+            "outcome": "risk ratio (RR) for chronic GVHD"
+        },
+        "./images/33790903/i.png": {
+            "subgroup": "sorafenib",
+            "outcome": "risk ratio (RR) for chronic GVHD"
+        },
+        "./images/33790903/j.png": {
+            "subgroup": "midostaurin",
+            "outcome": "risk ratio (RR) for acute GVHD "
+        },
+        "./images/33790903/k.png": {
+            "subgroup": "sorafenib",
+            "outcome": "risk ratio (RR) for acute GVHD "
+        }
+    }
+}

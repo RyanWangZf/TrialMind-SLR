@@ -1,0 +1,80 @@
+{
+    "title": "Active Immunotherapy for Glioblastoma Treatment: A Systematic Review and Meta-Analysis",
+    "pmid": "36748348",
+    "date": "2022/01",
+    "text": {
+        "abstract": "Introduction: Glioblastoma multiforme (GBM) makes 60-70% of gliomas and 15% of primary brain tumors. Despite the availability of standard multimodal therapy, 2 years, 3 years, and 5 years survival rate of GBM are still low. Active immunotherapy is a relatively new treatment option for GBM that seems promising.\n\nMethods: An electronic database search on PubMed, Cochrane, Scopus, and clinicaltrials.gov was performed to include all relevant studies. This study was conducted according to the Preferred Reporting Items for Systematic Reviews and Meta-Analysis (PRISMA). Reported parameters are OS, PFS, AEs, post treatment KPS, and 2 year mortality.\n\nResults: Active immunotherapy provided better OS (HR = .85; 95% CI = .71-1.01; P = .06) and PFS (HS = .83; 95% CI= .66 - 1.03; P = .11) side albeit not statistically significant. Active immunotherapy reduces the risk of 2 year mortality as much as 2.5% compared to control group (NNT and RRR was 56.7078 and 0,0258, respectively).\n\nConclusion: Active immunotherapy might be beneficial in terms of survival rate in patients with GBM although not statistically significant. It could be a treatment option for GBM in the future.\n\nKeywords: active immunotherapy; glioblastoma; glioblastoma multiforme; high-grade glioma; vaccine.",
+        "results": "Active immunotherapy provided better OS (HR = .85; 95% CI = .71-1.01; P = .06) and PFS (HS = .83; 95% CI= .66 - 1.03; P = .11) side albeit not statistically significant. Active immunotherapy reduces the risk of 2 year mortality as much as 2.5% compared to control group (NNT and RRR was 56.7078 and 0,0258, respectively).",
+        "conclusions": "Active immunotherapy might be beneficial in terms of survival rate in patients with GBM although not statistically significant. It could be a treatment option for GBM in the future."
+    },
+    "PICO": {
+        "P": "Patients with Glioblastoma multiforme (GBM)",
+        "I": "Active immunotherapy",
+        "C": "",
+        "O": "Overall Survival (OS), Progression-Free Survival (PFS), Adverse Events (AEs), post treatment Karnofsky Performance Scale (KPS), and 2 year mortality"
+    },
+    "PICO_terms": {
+        "P": ["Glioblastoma multiforme"],
+        "I": ["Active immunotherapy"],
+        "C": [],
+        "O": ["Overall Survival", "Progression-Free Survival", "Adverse Events", "post treatment Karnofsky Performance Scale", "2 year mortality"]
+    },
+    "trials": [
+        {
+            "title": "Phase III randomized trial of autologous cytokine-induced killer cell immunotherapy for newly diagnosed glioblastoma in korea",
+            "pdf_link": "",
+            "pmid": "27690294",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Adjuvant immunotherapy with whole-cell lysate dendritic cells vaccine for glioblastoma multiforme: A phase II clinical trial",
+            "pdf_link": "",
+            "pmid": "22120301",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Molecular subgroups and B7-H4 expression levels predict responses to dendritic cell vaccines in glioblastoma: An exploratory randomized phase II clinical trial",
+            "pdf_link": "",
+            "pmid": "30159779",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A randomized double-blind placebo-controlled phase II trial of dendritic cell vaccine ICT-107 in newly diagnosed patients with glioblastoma",
+            "pdf_link": "",
+            "pmid": "31320597",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Audencel immunotherapy based on dendritic cells has no effect on overall and progression-free survival in newly diagnosed glioblastoma: A phase II randomized trial",
+            "pdf_link": "",
+            "pmid": "30301187",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Rindopepimut with temozolomide for patients with newly diagnosed, EGFRvIII-expressing glioblastoma (ACT IV): A randomised, double-blind, international phase 3 trial",
+            "pdf_link": "",
+            "pmid": "28844499",
+            "doi": "",
+            "nctid": ""
+        }
+    ],
+    "forest_plot_path": {
+        "./images/36748348/a-overall-Overall Survival.png": {
+            "subgroup": "overall",
+            "outcome": "Overall Survival"
+        },
+        "./images/36748348/c-overall-Adverse Events(AEs).png": {
+            "subgroup": "overall",
+            "outcome": "Adverse Events(AEs)"
+        },
+        "./images/36748348/b-overall-PFS.png": {
+            "subgroup": "overall",
+            "outcome": "PFS"
+        }
+    }
+}

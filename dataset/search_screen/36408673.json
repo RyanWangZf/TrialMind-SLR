@@ -1,0 +1,976 @@
+{
+    "title": "Treatment-related adverse events of antibody-drug conjugates in clinical trials: A systematic review and meta-analysis",
+    "pmid": "36408673",
+    "date": "2023/01",
+    "text": {
+        "abstract": "Background: Antibody-drug conjugates (ADCs) have complex molecular structures and have been tested in numerous clinical trials. Therefore, understanding the mechanisms of their toxicity when applied in medical practice is of high importance. Methods: In a systematic review and meta-analysis of data gathered from different scientific databases (PubMed, Embase, Cochrane, and Web of Science) between January 1, 2000, and June 7, 2022, the authors applied a random-effects model with logit transformation and evaluated the heterogeneity between studies using I2 statistics. The primary outcome was the incidence and 95% confidence interval (CI) for all-grade and grade \u22653 treatment-related adverse events and differences between different drugs, molecular structures, and cancer types. Results: In total, 2511 records were identified that included 169 clinical trials involving 22,492 patients. The overall incidence of treatment-related adverse events was 91.2% (95% CI, 90.7%-91.7%; I2 = 95.9%) for all-grade adverse events and 46.1% (95% CI, 45.2%-47.0%; I2 = 96.3%) for grade \u22653 adverse events. The most common all-grade adverse events were lymphopenia (53.0%; 95% CI, 48.7%-57.3%), nausea (44.1%; 95% CI, 43.2%-44.9%), neutropenia (43.7%; 95% CI, 42.6%-44.9%), blurred vision (40.5%; 95% CI, 37.4%-43.6%), and peripheral neuropathy (39.6%; 95% CI, 38.2%-41.1%); and the most common grade \u22653 adverse events were neutropenia (31.2%; 95% CI, 30.2%-32.3%), hypoesthesia (23.3%; 95% CI, 10.6%-35.9%), thrombocytopenia (22.6%; 95% CI, 21.3%-23.9%), febrile neutropenia (21.2%; 95% CI, 19.3%-23.1%), and lymphopenia (21.0%; 95% CI, 18.2%-23.7%). Conclusions: Different ADCs appear to affect various treatment-related adverse events and provide comprehensive data on treatment-related adverse events for ADCs. The current results provide an important reference for clinicians and patients on how to care for toxicities from ADCs in clinical practice. Lay summary: Unique anticancer drugs called antibody-drug conjugates (ADCs) have made significant progress in oncology in recent years because of their great success, and they are rapidly being used in the clinic as well as in hundreds of ongoing trials exploring their further use. The occurrence of serious side effects (adverse events) related to the receipt of ADCs was studied using data from 169 clinical trials involving 22,492 patients to determine the treatment-related causes of higher toxicity and adverse events in patients who receive ADCs, because these data are crucial for informing physicians how to safely treat patients using ADCs. The results indicate that different ADCs appear to affect various adverse events related to their use, providing comprehensive data on these ADCs that provide an important reference for clinicians and patients on how to care for toxicities from ADCs in clinical practice.",
+        "results": "In total, 2511 records were identified that included 169 clinical trials involving 22,492 patients. The overall incidence of treatment-related adverse events was 91.2% (95% CI, 90.7%-91.7%; I2 = 95.9%) for all-grade adverse events and 46.1% (95% CI, 45.2%-47.0%; I2 = 96.3%) for grade \u22653 adverse events. The most common all-grade adverse events were lymphopenia (53.0%; 95% CI, 48.7%-57.3%), nausea (44.1%; 95% CI, 43.2%-44.9%), neutropenia (43.7%; 95% CI, 42.6%-44.9%), blurred vision (40.5%; 95% CI, 37.4%-43.6%), and peripheral neuropathy (39.6%; 95% CI, 38.2%-41.1%); and the most common grade \u22653 adverse events were neutropenia (31.2%; 95% CI, 30.2%-32.3%), hypoesthesia (23.3%; 95% CI, 10.6%-35.9%), thrombocytopenia (22.6%; 95% CI, 21.3%-23.9%), febrile neutropenia (21.2%; 95% CI, 19.3%-23.1%), and lymphopenia (21.0%; 95% CI, 18.2%-23.7%).",
+        "conclusions": "Different ADCs appear to affect various treatment-related adverse events and provide comprehensive data on treatment-related adverse events for ADCs. The current results provide an important reference for clinicians and patients on how to care for toxicities from ADCs in clinical practice."
+    },
+    "PICO": {
+        "P": "Patients in clinical trials undergoing treatment with antibody-drug conjugates (ADCs)",
+        "I": "Treatment with antibody-drug conjugates",
+        "C": "N/A",
+        "O": "Incidence and 95% confidence interval for all-grade and grade \u22653 treatment-related adverse events; differences between different drugs, molecular structures, and cancer types"
+    },
+    "PICO_terms": {
+        "P": ["antibody-drug conjugates"],
+        "I": ["antibody-drug conjugates"],
+        "C": ["Chemotherapy alone"],
+        "O": ["Incidence and 95% confidence interval for all-grade and grade \u22653 treatment-related adverse events", "differences between different drugs, molecular structures, and cancer types"]
+    },
+    "trials": [
+        {
+            "title": "Safety and Efficacy of T-DM1 Plus Neratinib in Patients With Metastatic HER2-Positive Breast Cancer: NSABP Foundation Trial FB-10",
+            "pdf_link": "",
+            "pmid": "31442103",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase I Study of the Anti-CD22 Antibody-Drug Conjugate Pinatuzumab Vedotin with/without Rituximab in Patients with Relapsed/Refractory B-cell Non-Hodgkin Lymphoma",
+            "pdf_link": "",
+            "pmid": "27601593",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A Phase I Study to Assess the Safety and Pharmacokinetics of Single-agent Lorvotuzumab Mertansine (IMGN901) in Patients with Relapsed and/or Refractory CD-56-positive Multiple Myeloma",
+            "pdf_link": "",
+            "pmid": "30340993",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase I Study of the Investigational Anti-Guanylyl Cyclase Antibody-Drug Conjugate TAK-264 (MLN0264) in Adult Patients with Advanced Gastrointestinal Malignancies",
+            "pdf_link": "",
+            "pmid": "27178743",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase II study of the antibody-drug conjugate TAK-264 (MLN0264) in patients with metastatic or recurrent adenocarcinoma of the stomach or gastroesophageal junction expressing guanylyl cyclase C",
+            "pdf_link": "",
+            "pmid": "38333765",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A phase II study of antibody-drug conjugate TAK-264 (MLN0264) in previously treated patients with advanced or metastatic pancreatic adenocarcinoma expressing guanylyl cyclase C",
+            "pdf_link": "",
+            "pmid": "28527133",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase II trial of brentuximab vedotin in relapsed/refractory germ cell tumors",
+            "pdf_link": "",
+            "pmid": "34031784",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Anti-NaPi2b antibody-drug conjugate lifastuzumab vedotin (DNIB0600A) compared with pegylated liposomal doxorubicin in patients with platinum-resistant ovarian cancer in a randomized open-label phase II study",
+            "pdf_link": "",
+            "pmid": "29401246",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Trastuzumab duocarmazine in locally advanced and metastatic solid tumours and HER2-expressing breast cancer: a phase 1 dose-escalation and dose-expansion study",
+            "pdf_link": "",
+            "pmid": "31257177",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Efficacy and Safety of Anti-Trop-2 Antibody Drug Conjugate Sacituzumab Govitecan (IMMU-132) in Heavily Pretreated Patients With Metastatic Triple-Negative Breast Cancer",
+            "pdf_link": "",
+            "pmid": "28291390",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Sacituzumab Govitecan-hziy in Refractory Metastatic Triple-Negative Breast Cancer",
+            "pdf_link": "",
+            "pmid": "30786188",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Sacituzumab govitecan, a Trop-2-directed antibody-drug conjugate for patients with epithelial cancer: final safety and efficacy results from the phase I/II IMMU-132-01 basket trial",
+            "pdf_link": "",
+            "pmid": "33741442",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Sacituzumab Govitecan in Metastatic Triple-Negative Breast Cancer",
+            "pdf_link": "",
+            "pmid": "33882206",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase I/II study of the antibody-drug conjugate glembatumumab vedotin in patients with locally advanced or metastatic breast cancer",
+            "pdf_link": "",
+            "pmid": "25267761",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Efficacy and Safety of Rovalpituzumab Tesirine Compared With Topotecan as Second-Line Therapy in DLL3-High SCLC: Results From the Phase 3 TAHOE Study",
+            "pdf_link": "",
+            "pmid": "33607312",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Praluzatamab Ravtansine, a CD166-Targeting Antibody-Drug Conjugate in Patients with Advanced Solid Tumors: An Open-Label Phase I/II Trial",
+            "pdf_link": "",
+            "pmid": "35165101",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A phase 1 study of inotuzumab ozogamicin in pediatric relapsed/refractory acute lymphoblastic leukemia (ITCC-059 study)",
+            "pdf_link": "",
+            "pmid": "33067614",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase II study of the antibody drug conjugate trastuzumab-DM1 for the treatment of human epidermal growth factor receptor 2 (HER2)-positive breast cancer after prior HER2-directed therapy",
+            "pdf_link": "",
+            "pmid": "21172893",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Loncastuximab tesirine in relapsed or refractory diffuse large B-cell lymphoma (LOTIS-2):  a multicentre open-label single-arm phase 2 trial",
+            "pdf_link": "",
+            "pmid": "33989558",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Safety, pharmacokinetics, and efficacy of budigalimab with rovalpituzumab tesirine in patients with small cell lung cancer",
+            "pdf_link": "",
+            "pmid": "34329846",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase I Study of 2- or 3-Week Dosing of Telisotuzumab Vedotin an Antibody-Drug Conjugate Targeting c-Met Monotherapy in Patients with Advanced Non-Small Cell Lung Carcinoma",
+            "pdf_link": "",
+            "pmid": "34426443",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A phase 1 study evaluating safety and pharmacokinetics of losatuxizumab vedotin (ABBV-221) an anti-EGFR antibody-drug conjugate carrying monomethyl auristatin E in patients with solid tumors likely to overexpress EGFR",
+            "pdf_link": "",
+            "pmid": "32189093",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A phase II single-arm multicentre study of coltuximab ravtansine (SAR3419) and rituximab in patients with relapsed or refractory diffuse large B-cell lymphoma",
+            "pdf_link": "",
+            "pmid": "27010483",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Efficacy and safety of tisotumab vedotin in previously treated recurrent or metastatic cervical cancer (innovaTV 204/GOG-3023/ENGOT-cx6): a multicentre open-label single-arm phase 2 study",
+            "pdf_link": "",
+            "pmid": "33845034",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Trastuzumab Deruxtecan versus Trastuzumab Emtansine for Breast Cancer",
+            "pdf_link": "",
+            "pmid": "35320644",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A phase 1 clinical trial of ASG-5ME a novel drug-antibody conjugate targeting SLC44A4 in patients with advanced pancreatic and gastric cancers",
+            "pdf_link": "",
+            "pmid": "26994014",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Randomized phase 3 trial of inotuzumab ozogamicin plus rituximab versus chemotherapy plus rituximab for relapsed/refractory aggressive B-cell non-Hodgkin lymphoma",
+            "pdf_link": "",
+            "pmid": "28677896",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase I Study of DSTP3086S an Antibody-Drug Conjugate Targeting Six-Transmembrane Epithelial Antigen of Prostate 1 in Metastatic Castration-Resistant Prostate Cancer",
+            "pdf_link": "",
+            "pmid": "31689155",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A Phase I dose-escalation study of DCLL9718S an antibody-drug conjugate targeting C-type lectin-like molecule-1 (CLL-1) in patients with acute myeloid leukemia",
+            "pdf_link": "",
+            "pmid": "33617672",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Tisotumab vedotin in patients with advanced or metastatic solid tumours (InnovaTV 201): a first-in-human multicentre phase 1-2 trial",
+            "pdf_link": "",
+            "pmid": "30745090",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Safety and Antitumor Activity of Depatuxizumab Mafodotin (ABT-414) in Patients with Advanced Solid Tumors Likely to Overexpress Epidermal Growth Factor Receptor",
+            "pdf_link": "",
+            "pmid": "29533458",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Efficacy and Safety of Polatuzumab Vedotin in Combination with Bendamustine and Rituximab in Relapsed/Refractory Follicular Lymphoma: A Phase Ib/II Study",
+            "pdf_link": "",
+            "pmid": "37767550",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase Ia Study of Anti-NaPi2b Antibody-Drug Conjugate Lifastuzumab Vedotin DNIB0600A in Patients with Non-Small Cell Lung Cancer and Platinum-Resistant Ovarian Cancer",
+            "pdf_link": "",
+            "pmid": "31540980",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Camidanlumab tesirine, an antibody-drug conjugate in relapsed/refractory CD25-positive acute myeloid leukemia or acute lymphoblastic leukemia: A phase I study",
+            "pdf_link": "",
+            "pmid": "32521310",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Therapy of Small Cell Lung Cancer (SCLC) with a Topoisomerase-I-inhibiting Antibody-Drug Conjugate (ADC) Targeting Trop-2 Sacituzumab Govitecan",
+            "pdf_link": "",
+            "pmid": "28679770",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Final results of a phase 1 study of loncastuximab tesirine in relapsed/refractory B-cell non-Hodgkin lymphoma",
+            "pdf_link": "",
+            "pmid": "33211842",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Camidanlumab tesirine in patients with relapsed or refractory lymphoma: a phase 1 open-label multicentre dose-escalation dose-expansion study",
+            "pdf_link": "",
+            "pmid": "34048682",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Tamrintamab pamozirine (SC-003) in patients with platinum-resistant/refractory ovarian cancer: Findings of a phase 1 study",
+            "pdf_link": "",
+            "pmid": "32513564",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A Phase 1 Study Evaluating Rovalpituzumab Tesirine in Frontline Treatment of Patients With Extensive-Stage SCLC",
+            "pdf_link": "",
+            "pmid": "34242790",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "First-in-Human Multicenter Phase I Dose-Escalation and Expansion Study of Anti-Mesothelin Antibody-Drug Conjugate Anetumab Ravtansine in Advanced or Metastatic Solid Tumors",
+            "pdf_link": "",
+            "pmid": "32213105",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Therapy of Advanced Non-Small-Cell Lung Cancer With an SN-38-Anti-Trop-2 Drug Conjugate Sacituzumab Govitecan",
+            "pdf_link": "",
+            "pmid": "28548889",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Anti-CD79B Antibody-Drug Conjugate DCDS0780A in Patients with B-Cell Non-Hodgkin Lymphoma: Phase 1 Dose-Escalation Study",
+            "pdf_link": "",
+            "pmid": "34980599",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Safety tolerability and pharmacokinetics of BAT8001 in patients with HER2-positive breast cancer: An open-label dose-escalation phase I  study",
+            "pdf_link": "",
+            "pmid": "33528890",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Objective responses in relapsed T-cell lymphomas with single-agent brentuximab vedotin",
+            "pdf_link": "",
+            "pmid": "24652992",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Brentuximab vedotin with chemotherapy for CD30-positive peripheral T-cell lymphoma (ECHELON-2): a global double-blind randomised phase 3 trial",
+            "pdf_link": "",
+            "pmid": "30522922",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A Phase II Study of Trastuzumab Emtansine in HER2-Positive Non-Small Cell Lung Cancer",
+            "pdf_link": "",
+            "pmid": "29313813",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase II randomized study of trastuzumab emtansine versus trastuzumab plus docetaxel in patients with human epidermal growth factor receptor 2-positive metastatic breast cancer",
+            "pdf_link": "",
+            "pmid": "23382472",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Brentuximab vedotin demonstrates objective responses in a phase 2 study of relapsed/refractory DLBCL with variable CD30 expression",
+            "pdf_link": "",
+            "pmid": "25573987",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Loncastuximab tesirine an anti-CD19 antibody-drug conjugate in relapsed/refractory B-cell acute lymphoblastic leukemia",
+            "pdf_link": "",
+            "pmid": "32012214",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Efficacy and Safety of Patritumab Deruxtecan (HER3-DXd) in EGFR Inhibitor-Resistant EGFR-Mutated Non-Small Cell Lung Cancer",
+            "pdf_link": "",
+            "pmid": "34548309",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A phase I study of pharmacokinetics of trastuzumab emtansine in Chinese patients with locally advanced inoperable or metastatic human epidermal growth factor receptor 2-positive breast cancer who have received prior trastuzumab-based therapy",
+            "pdf_link": "",
+            "pmid": "33126339",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase I First-in-Human Study of the Probody Therapeutic CX-2029 in Adults with Advanced Solid Tumor Malignancies",
+            "pdf_link": "",
+            "pmid": "34083236",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Rovalpituzumab Tesirine as a Maintenance Therapy After First-Line Platinum-Based Chemotherapy in Patients With Extensive-Stage-SCLC: results From the Phase 3 MERU Study",
+            "pdf_link": "",
+            "pmid": "33823285",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Sacituzumab govitecan in previously treated hormone receptor-positive/HER2-negative metastatic breast cancer: final results from a phase I/II single-arm basket trial",
+            "pdf_link": "",
+            "pmid": "32946924",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A Phase II Study of Coltuximab Ravtansine (SAR3419) Monotherapy in Patients With Relapsed or Refractory Acute Lymphoblastic Leukemia",
+            "pdf_link": "",
+            "pmid": "26775883",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Inotuzumab ozogamicin versus standard of care in relapsed or refractory acute lymphoblastic leukemia: final report and long-term survival follow-up from the randomized phase 3 INO-VATE study",
+            "pdf_link": "",
+            "pmid": "30920645",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A multicenter Phase II study evaluating the efficacy safety and pharmacokinetics of trastuzumab emtansine in Japanese patients with heavily pretreated HER2-positive locally recurrent or metastatic breast cancer",
+            "pdf_link": "",
+            "pmid": "26917603",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Indatuximab ravtansine plus dexamethasone with lenalidomide or pomalidomide in relapsed or refractory multiple myeloma: a multicentre phase 1/2a study",
+            "pdf_link": "",
+            "pmid": "34529955",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Efficacy and Safety of Glembatumumab Vedotin in Patients With Advanced or Metastatic Squamous Cell Carcinoma of the Lung (PrECOG 0504)",
+            "pdf_link": "",
+            "pmid": "34590018",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase II Investigator-Initiated Study of Brentuximab Vedotin in Mycosis Fungoides and S\u00e9zary Syndrome With Variable CD30 Expression Level: A Multi-Institution Collaborative Project",
+            "pdf_link": "",
+            "pmid": "26195720",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "First-in-Human Phase I Study of ABBV-085, an Antibody-Drug Conjugate Targeting LRRC15 in Sarcomas and Other Advanced Solid Tumors",
+            "pdf_link": "",
+            "pmid": "33820780",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Safety, pharmacokinetics, and antitumour activity of trastuzumab deruxtecan (DS-8201), a HER2-targeting antibody-drug conjugate, in patients with advanced breast and gastric or gastro-oesophageal tumours: a phase 1 dose-escalation study",
+            "pdf_link": "",
+            "pmid": "29037983",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase I/II Trial of Labetuzumab Govitecan (Anti-CEACAM5/SN-38 Antibody-Drug Conjugate) in Patients With Refractory or Relapsing Metastatic Colorectal Cancer",
+            "pdf_link": "",
+            "pmid": "28817371",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Incorporation of brentuximab vedotin into first-line treatment of advanced classical Hodgkin's lymphoma: final analysis of a phase 2 randomised trial by the German Hodgkin Study Group",
+            "pdf_link": "",
+            "pmid": "29133014",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A phase I weekly dosing study of brentuximab vedotin in patients with relapsed/refractory CD30-positive hematologic malignancies",
+            "pdf_link": "",
+            "pmid": "22080439",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase 2 study of frontline brentuximab vedotin monotherapy in Hodgkin lymphoma patients aged 60 years and older",
+            "pdf_link": "",
+            "pmid": "26377597",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "First-in-human phase I study of PF-06647263, an anti-EFNA4 calicheamicin antibody-drug conjugate, in patients with advanced solid tumors",
+            "pdf_link": "",
+            "pmid": "30680712",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "ADVL1522: A phase 2 study of lorvotuzumab mertansine (IMGN901) in children with relapsed or refractory Wilms tumor, rhabdomyosarcoma, neuroblastoma, pleuropulmonary blastoma, malignant peripheral nerve sheath tumor, or synovial sarcoma - A Children's Oncology Group study",
+            "pdf_link": "",
+            "pmid": "32914879",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A Phase 1-2 Study of Rovalpituzumab Tesirine in Combination With Nivolumab Plus or Minus Ipilimumab in Patients With Previously Treated Extensive-Stage SCLC",
+            "pdf_link": "",
+            "pmid": "33652156",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A phase I/II study of rovalpituzumab tesirine in delta-like 3-expressing advanced solid tumors",
+            "pdf_link": "",
+            "pmid": "34354225",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A Phase I/II Trial of the Combination of Azacitidine and Gemtuzumab Ozogamicin for Treatment of Relapsed Acute Myeloid Leukemia",
+            "pdf_link": "",
+            "pmid": "29572158",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Antitumor activity and safety of trastuzumab deruxtecan in patients with HER2-low\u2013expressing advanced breast cancer: Results from a phase Ib study",
+            "pdf_link": "",
+            "pmid": "32058843",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Trastuzumab Deruxtecan in Previously Treated HER2-Positive Breast Cancer",
+            "pdf_link": "",
+            "pmid": "31825192",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Trastuzumab Deruxtecan in Previously Treated HER2-Low Advanced Breast Cancer",
+            "pdf_link": "",
+            "pmid": "35665782",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Safety and activity findings from a phase 1b escalation study of mirvetuximab soravtansine, a folate receptor alpha (FR\u03b1)-targeting antibody-drug conjugate (ADC) in combination with carboplatin in patients with platinum-sensitive ovarian cancer",
+            "pdf_link": "",
+            "pmid": "30093227",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase 1b study of anti-NaPi2b antibody-drug conjugate lifastuzumab vedotin (DNIB0600A) in patients with platinum-sensitive recurrent ovarian cancer",
+            "pdf_link": "",
+            "pmid": "32534811",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase III randomized trial of mirvetuximab soravtansine versus chemotherapy in patients with platinum-resistant ovarian cancer: primary analysis of FORWARD I",
+            "pdf_link": "",
+            "pmid": "33667670",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Efficacy and Safety of Rovalpituzumab Tesirine in Third-Line and Beyond Patients with DLL3-Expressing Relapsed/Refractory Small-Cell Lung Cancer: Results From the Phase II TRINITY Study",
+            "pdf_link": "",
+            "pmid": "31506387",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A phase 1 trial of SGN-CD70A in patients with CD70-positive metastatic renal cell carcinoma",
+            "pdf_link": "",
+            "pmid": "30624766",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Safety and activity of the anti-CD79B antibody-drug conjugate polatuzumab vedotin in relapsed or refractory B-cell non-Hodgkin lymphoma and chronic lymphocytic leukaemia: a phase 1 study",
+            "pdf_link": "",
+            "pmid": "25925619",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "First-in-Human Phase 1 Dose-Escalation Study of Biparatopic Anti-HER2 Antibody-Drug Conjugate MEDI4276 in Patients with HER2-positive Advanced Breast or Gastric Cancer",
+            "pdf_link": "",
+            "pmid": "34045233",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Efficacy and safety of a novel anti-HER2 therapeutic antibody RC48 in patients with HER2-overexpressing locally advanced or metastatic gastric or gastroesophageal junction cancer: a single-arm phase II study",
+            "pdf_link": "",
+            "pmid": "34665942",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Trastuzumab Emtansine With or Without Pertuzumab Versus Trastuzumab Plus Taxane for Human Epidermal Growth Factor Receptor 2-Positive Advanced Breast Cancer: Primary Results From the Phase III MARIANNE Study",
+            "pdf_link": "",
+            "pmid": "28056202",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Trastuzumab Emtansine (T-DM1) in Patients with Previously Treated HER2-Overexpressing Metastatic Non-Small Cell Lung Cancer: Efficacy, Safety, and Biomarkers",
+            "pdf_link": "",
+            "pmid": "30206164",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase 1 study of PSMA ADC, an antibody-drug conjugate targeting prostate-specific membrane antigen in chemotherapy-refractory prostate cancer",
+            "pdf_link": "",
+            "pmid": "30663074",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A dose-escalation study of SAR3419, an anti-CD19 antibody maytansinoid conjugate, administered by intravenous infusion once weekly in patients with relapsed/refractory B-cell non-Hodgkin lymphoma",
+            "pdf_link": "",
+            "pmid": "24132920",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A phase I dose-escalation study of PF-06650808, an anti-Notch3 antibody-drug conjugate, in patients with breast cancer and other advanced solid tumors",
+            "pdf_link": "",
+            "pmid": "30887250",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Pivotal Trial of Enfortumab Vedotin in Urothelial Carcinoma After Platinum and Anti-Programmed Death 1/Programmed Death Ligand 1 Therapy",
+            "pdf_link": "",
+            "pmid": "31356140",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "EV-101: A Phase I Study of Single-Agent Enfortumab Vedotin in Patients With Nectin-4-Positive Solid Tumors Including Metastatic Urothelial Carcinoma",
+            "pdf_link": "",
+            "pmid": "32031899",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Safety, tolerability, and pharmacokinetics of anti-EGFRvIII antibody-drug conjugate AMG 595 in patients with recurrent malignant glioma expressing EGFRvIII",
+            "pdf_link": "",
+            "pmid": "31154523",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A randomized multicenter study to determine the safety and efficacy of the immunoconjugate SGN-15 plus docetaxel for the treatment of non-small cell lung carcinoma",
+            "pdf_link": "",
+            "pmid": "16934909",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase I/IIa Trial of BMS-986148, an Anti-mesothelin Antibody-drug Conjugate Alone or in Combination with Nivolumab in Patients with Advanced Solid Tumors",
+            "pdf_link": "",
+            "pmid": "34615718",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Rovalpituzumab tesirine, a DLL3-targeted antibody-drug conjugate in recurrent small-cell lung cancer: a first-in-human, first-in-class, open-label, phase 1 study",
+            "pdf_link": "",
+            "pmid": "27932068",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase I study of the anti-endothelin B receptor antibody-drug conjugate DEDN6526A in patients with metastatic or unresectable cutaneous, mucosal, or uveal melanoma",
+            "pdf_link": "",
+            "pmid": "31385109",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Polatuzumab Vedotin in Relapsed or Refractory Diffuse Large B-Cell Lymphoma",
+            "pdf_link": "",
+            "pmid": "31693429",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase I study of IMGN901, a CD56-targeting antibody-drug conjugate in patients with CD56-positive solid tumors",
+            "pdf_link": "",
+            "pmid": "26961907",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "First-in-human trial of an anti-5T4 antibody-monomethylauristatin conjugate PF-06263507 in patients with advanced solid tumors",
+            "pdf_link": "",
+            "pmid": "28070718",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A phase 2 open-label study of brentuximab vedotin in patients with CD30-expressing solid tumors",
+            "pdf_link": "",
+            "pmid": "30993587",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Open-label multicenter phase II study of RC48-ADC, a HER2-targeting antibody-drug conjugate, in patients with locally advanced or metastatic urothelial carcinoma",
+            "pdf_link": "",
+            "pmid": "33109737",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "First-in-Human Phase 1 Study of MORAb-202, an Antibody-Drug Conjugate Comprising Farletuzumab Linked to Eribulin Mesylate in Patients with Folate Receptor-alpha-Positive Advanced Solid Tumors",
+            "pdf_link": "",
+            "pmid": "33926914",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Trastuzumab deruxtecan (DS-8201a) in patients with advanced HER2-positive gastric cancer: a dose-expansion phase 1 study",
+            "pdf_link": "",
+            "pmid": "31047804",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Trastuzumab Deruxtecan in Previously Treated HER2-Positive Gastric Cancer",
+            "pdf_link": "",
+            "pmid": "32469182",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Trastuzumab deruxtecan (DS-8201) in patients with HER2-expressing metastatic colorectal cancer (DESTINY-CRC01): a multicentre, open-label, phase 2 trial",
+            "pdf_link": "",
+            "pmid": "33961795",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase 1/2 Study of the CD56-Targeting Antibody-Drug Conjugate Lorvotuzumab Mertansine (IMGN901) in Combination With Carboplatin/Etoposide in Small-Cell Lung Cancer Patients With Extensive-Stage Disease",
+            "pdf_link": "",
+            "pmid": "28341109",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "First-in-Human Trial of a Novel Anti-Trop-2 Antibody-SN-38 Conjugate Sacituzumab Govitecan for the Treatment of Diverse Metastatic Solid Tumors",
+            "pdf_link": "",
+            "pmid": "25944802",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Safety, tolerability, and preliminary activity of IMGN529, a CD37-targeted antibody-drug conjugate in patients with relapsed or refractory B-cell non-Hodgkin lymphoma: a dose-escalation, phase I study",
+            "pdf_link": "",
+            "pmid": "29453628",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A phase 1 trial of vadastuximab talirine as monotherapy in patients with CD33-positive acute myeloid leukemia",
+            "pdf_link": "",
+            "pmid": "29196412",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase I study of the anti-FcRH5 antibody-drug conjugate DFRF4539A in relapsed or refractory multiple myeloma",
+            "pdf_link": "",
+            "pmid": "30718503",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Brentuximab vedotin with chemotherapy for stage III or IV classical Hodgkin lymphoma (ECHELON-1): 5-year update of an international open-label randomised phase 3 trial",
+            "pdf_link": "",
+            "pmid": "34048680",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "First-in-Human Phase I Dose-Escalation and -Expansion Study of Telisotuzumab Vedotin an Antibody-Drug Conjugate Targeting c-Met in Patients With Advanced Solid Tumors",
+            "pdf_link": "",
+            "pmid": "30285518",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A phase I study of enfortumab vedotin in Japanese patients with locally advanced or metastatic urothelial carcinoma",
+            "pdf_link": "",
+            "pmid": "31444589",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Pharmacokinetics Safety and Efficacy of Trastuzumab Deruxtecan with Concomitant Ritonavir or Itraconazole in Patients with HER2-Expressing Advanced Solid Tumors",
+            "pdf_link": "",
+            "pmid": "34426442",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Trastuzumab deruxtecan (DS-8201a) in patients with advanced HER2-positive breast cancer previously treated with trastuzumab emtansine: a dose-expansion phase 1 study",
+            "pdf_link": "",
+            "pmid": "31047803",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A phase 2 study of polatuzumab vedotin + bendamustine + rituximab in relapsed/refractory diffuse large B-cell lymphoma",
+            "pdf_link": "",
+            "pmid": "33942442",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase I Trials of Anti-ENPP3 Antibody-Drug Conjugates in Advanced Refractory Renal Cell Carcinomas",
+            "pdf_link": "",
+            "pmid": "29848572",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Comparison of the Efficacy Safety Pharmacokinetic and Immunogenicity of UJVIRA (ZRC-3256 Trastuzumab Emtansine) With the Kadcyla (Trastuzumab Emtansine) in the Treatment of HER2-Positive Metastatic Breast Cancer: A Randomized Open-Label Multicenter Study in India",
+            "pdf_link": "",
+            "pmid": "34955432",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Polatuzumab Vedotin in Previously Untreated Diffuse Large B-Cell Lymphoma",
+            "pdf_link": "",
+            "pmid": "34904799",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A Phase I Study of DLYE5953A an Anti-LY6E Antibody Covalently Linked to Monomethyl Auristatin E in Patients with Refractory Solid Tumors",
+            "pdf_link": "",
+            "pmid": "32694157",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A phase II multicenter study of the anti-CD19 antibody drug conjugate coltuximab ravtansine (SAR3419) in patients with relapsed or refractory diffuse large B-cell lymphoma previously treated with rituximab-based immunotherapy",
+            "pdf_link": "",
+            "pmid": "29748443",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Antibody-drug conjugate GSK2857916 in relapsed/refractory multiple myeloma: an update on safety and efficacy from dose expansion phase I study",
+            "pdf_link": "",
+            "pmid": "30894515",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Targeting HER2 with Trastuzumab Deruxtecan: A Dose-Expansion Phase I Study in Multiple Advanced Solid Tumors",
+            "pdf_link": "",
+            "pmid": "32213540",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase I safety and pharmacokinetics study of rovalpituzumab tesirine in Japanese patients with advanced recurrent small cell lung cancer",
+            "pdf_link": "",
+            "pmid": "31446987",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Glembatumumab vedotin for patients with metastatic gpNMB overexpressing triple-negative breast cancer (\u201cMETRIC\u201d): a randomized multicenter study",
+            "pdf_link": "",
+            "pmid": "34016993",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "INTELLANCE 2/EORTC 1410 randomized phase II study of Depatux-M alone and with temozolomide vs temozolomide or lomustine in recurrent EGFR amplified glioblastoma",
+            "pdf_link": "",
+            "pmid": "31747009",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Trastuzumab Emtansine for HER2-Positive Advanced Breast Cancer",
+            "pdf_link": "",
+            "pmid": "23020162",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "First-in-Human Phase I Study of ABBV-838 an Antibody-Drug Conjugate Targeting SLAMF7/CS1 in Patients with Relapsed and Refractory Multiple Myeloma",
+            "pdf_link": "",
+            "pmid": "31969330",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Trastuzumab Emtansine for Residual Invasive HER2-Positive Breast Cancer",
+            "pdf_link": "",
+            "pmid": "30516102",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A Phase II Study of Telisotuzumab Vedotin in Patients With c\u2013MET-positive Stage IV or Recurrent Squamous Cell Lung Cancer (LUNG-MAP Sub-study S1400K NCT03574753)",
+            "pdf_link": "",
+            "pmid": "33221175",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase I Study of DMOT4039A an Antibody-Drug Conjugate Targeting Mesothelin in Patients with Unresectable Pancreatic or Platinum-Resistant Ovarian Cancer",
+            "pdf_link": "",
+            "pmid": "26823490",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "EMERGE: A Randomized Phase II Study of the Antibody-Drug Conjugate Glembatumumab Vedotin in Advanced Glycoprotein NMB-Expressing Breast Cancer",
+            "pdf_link": "",
+            "pmid": "25847941",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Brentuximab vedotin (SGN-35) for relapsed CD30-positive lymphomas",
+            "pdf_link": "",
+            "pmid": "21047225",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Enfortumab vedotin after PD-1 or PD-L1 inhibitors in cisplatin-ineligible patients with advanced urothelial carcinoma (EV-201): a multicentre single-arm phase 2 trial",
+            "pdf_link": "",
+            "pmid": "33991512",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase I Trial of a Novel Anti-HER2 Antibody-Drug Conjugate ARX788 for the Treatment of HER2-Positive Metastatic Breast Cancer",
+            "pdf_link": "",
+            "pmid": "35766963",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Nivolumab Combined With Brentuximab Vedotin for Relapsed/Refractory Primary Mediastinal Large B-cell Lymphoma",
+            "pdf_link": "",
+            "pmid": "31398081",
+            "doi": "",
+            "nctid": ""
+        }
+    ],
+    "forest_plot_path": {
+        "./images/36408673/a.png": {
+            "subgroup": "",
+            "outcome": "The overall incidence of all-grade treatment-related adverse events in ADC (antibody-drug conjugate) regimens"
+        },
+        "./images/36408673/b.png": {
+            "subgroup": "",
+            "outcome": "The overall incidence of grade \u22653 treatment-related adverse events in ADC (antibody-drug conjugate) regimens"
+        },
+        "./images/36408673/c.png": {
+            "subgroup": "",
+            "outcome": "The incidence of most common all-grade adverse events"
+        }
+    }
+}

@@ -1,0 +1,687 @@
+{
+    "title": "Meta-analysis of chemotherapy in head and neck cancer (MACH-NC): An update on 107 randomized trials and 19,805 patients, on behalf of MACH-NC Group",
+    "pmid": "33515668",
+    "date": "2021/03",
+    "text": {
+        "abstract": "Abstract\nBackground and purpose: The Meta-Analysis of Chemotherapy in squamous cell Head and Neck Cancer (MACH-NC) demonstrated that concomitant chemotherapy (CT) improved overall survival (OS) in patients without distant metastasis. We report the updated results.\n\nMaterials and methods: Published or unpublished randomized trials including patients with non-metastatic carcinoma randomized between 1965 and 2016 and comparing curative loco-regional treatment (LRT) to LRT + CT or adding another timing of CT to LRT + CT (main question), or comparing induction CT + radiotherapy to radiotherapy + concomitant (or alternating) CT (secondary question) were eligible. Individual patient data were collected and combined using a fixed-effect model. OS was the main endpoint.\n\nResults: For the main question, 101 trials (18951 patients, median follow-up of 6.5 years) were analyzed. For both questions, there were 16 new (2767 patients) and 11 updated trials. Around 90% of the patients had stage III or IV disease. Interaction between treatment effect on OS and the timing of CT was significant (p < 0.0001), the benefit being limited to concomitant CT (HR: 0.83, 95%CI [0.79; 0.86]; 5(10)-year absolute benefit of 6.5% (3.6%)). Efficacy decreased as patients age increased (p_trend = 0.03). OS was not increased by the addition of induction (HR = 0.96 [0.90; 1.01]) or adjuvant CT (1.02 [0.92; 1.13]). Efficacy of induction CT decreased with poorer performance status (p_trend = 0.03). For the secondary question, eight trials (1214 patients) confirmed the superiority of concomitant CT on OS (HR = 0.84 [0.74; 0.95], p = 0.005).\n\nConclusion: The update of MACH-NC confirms the benefit and superiority of the addition of concomitant CT for non-metastatic head and neck cancer.\n\nKeywords: Chemotherapy; Head and Neck Cancer; Individual Patient Data; Meta-analysis; Radiotherapy; Randomised Clinical Trials.",
+        "results": "For the main question, 101 trials (18951 patients, median follow-up of 6.5 years) were analyzed. For both questions, there were 16 new (2767 patients) and 11 updated trials. Around 90% of the patients had stage III or IV disease. Interaction between treatment effect on OS and the timing of CT was significant (p < 0.0001), the benefit being limited to concomitant CT (HR: 0.83, 95%CI [0.79; 0.86]; 5(10)-year absolute benefit of 6.5% (3.6%)). Efficacy decreased as patients age increased (p_trend = 0.03). OS was not increased by the addition of induction (HR = 0.96 [0.90; 1.01]) or adjuvant CT (1.02 [0.92; 1.13]). Efficacy of induction CT decreased with poorer performance status (p_trend = 0.03). For the secondary question, eight trials (1214 patients) confirmed the superiority of concomitant CT on OS (HR = 0.84 [0.74; 0.95], p = 0.005).",
+        "conclusions": "The update of MACH-NC confirms the benefit and superiority of the addition of concomitant CT for non-metastatic head and neck cancer."
+    },
+    "PICO": {
+        "P": "Patients with non-metastatic squamous cell carcinoma of the head and neck",
+        "I": "Concomitant chemotherapy (CT) with loco-regional treatment (LRT)",
+        "C": "Loco-regional treatment alone, or loco-regional treatment with induction or adjuvant chemotherapy, or different timing of chemotherapy (e.g., induction CT + radiotherapy vs. radiotherapy + concomitant or alternating CT)",
+        "O": "Overall survival (OS)"
+    },
+    "PICO_terms": {
+        "P": ["non-metastatic squamous cell carcinoma"],
+        "I": ["Concomitant chemotherapy", "loco-regional treatment"],
+        "C": ["Loco-regional treatment alone", "loco-regional treatment with induction", "adjuvant chemotherapy", "different timing of chemotherapy", "induction CT + radiotherapy", "radiotherapy + concomitant", "alternating"],
+        "O": ["Overall survival"]
+    },
+    "trials": [
+        {
+            "title": "Long-term outcomes of induction chemotherapy followed by chemoradiotherapy vs chemoradiotherapy alone as treatment of unresectable head and neck cancer: follow-up of the Spanish Head and Neck Cancer Group (TTCC) 2503 Trial",
+            "pdf_link": "",
+            "pmid": "32797376",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Longterm results of a phase III randomized trial of postoperative radiotherapy with or without carboplatin in patients with high-risk head and neck cancer",
+            "pdf_link": "",
+            "pmid": "18091334",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "French multicenter phase III randomized study testing concurrent twice-a-day radiotherapy and cisplatin/5-fluorouracil chemotherapy (BiRCF) in unresectable pharyngeal carcinoma: Results at 2 years (FNCLCC-GORTEC)",
+            "pdf_link": "",
+            "pmid": "16376489",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Long-term update of the 24954 EORTC phase III trial on larynx preservation",
+            "pdf_link": "",
+            "pmid": "27494036",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Docetaxel, cisplatin and 5-fluorouracil induction chemotherapy followed by chemoradiotherapy or chemoradiotherapy alone in stage III-IV unresectable head and neck cancer: Results of a randomized phase II study",
+            "pdf_link": "",
+            "pmid": "25782685",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase III randomized trial of induction chemotherapy in patients with N2 or N3 locally advanced head and neck cancer",
+            "pdf_link": "",
+            "pmid": "25049329",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Concomitant chemoradiotherapy versus induction docetaxel, cisplatin and 5 fluorouracil (TPF) followed by concomitant chemoradiotherapy in locally advanced head and neck cancer: A phase II randomized study",
+            "pdf_link": "",
+            "pmid": "20032123",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Induction TPF followed by concomitant treatment versus concomitant treatment alone in locally advanced head and neck cancer. A phase II-III trial",
+            "pdf_link": "",
+            "pmid": "28911070",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Long-term results of a randomized phase III trial of TPF induction chemotherapy followed by surgery and radiation in locally advanced oral squamous cell carcinoma",
+            "pdf_link": "",
+            "pmid": "26124084",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Randomized phase III trial of induction chemotherapy with docetaxel, cisplatin, and fluorouracil followed by surgery versus up-front surgery in locally advanced resectable oral squamous cell carcinoma",
+            "pdf_link": "",
+            "pmid": "23129742",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Radiotherapy alone or with concomitant daily low-dose carboplatin in locally advanced, unresectable head and neck cancer: definitive results of a phase III study with a follow-up period of up to ten years",
+            "pdf_link": "",
+            "pmid": "20572581",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Randomized clinical trial of post-operative radiotherapy versus concomitant carboplatin and radiotherapy for head and neck cancers with lymph node involvement",
+            "pdf_link": "",
+            "pmid": "18222010",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "The use of cisplatin as radiosensitizing agent in advanced tumors of the head and neck. Randomized study",
+            "pdf_link": "",
+            "pmid": "1767060",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Comparison of concomitant radiotherapy and chemotherapy with radiotherapy alone in advanced cancers of the head and neck: results of a randomized trial",
+            "pdf_link": "",
+            "pmid": "8688226",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Conventional radiotherapy versus concurrent chemoradiotherapy versus accelerated radiotherapy in locoregionally advanced carcinoma of head and neck: Results of a prospective randomized trial",
+            "pdf_link": "",
+            "pmid": "25224814",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Simultaneous versus sequential combined technique therapy for squamous cell head and neck cancer",
+            "pdf_link": "",
+            "pmid": "2317751",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A randomized trial of combined multidrug chemotherapy and radiotherapy in advanced squamous cell carcinoma of the head and neck. An interim report from the SECOG participants",
+            "pdf_link": "",
+            "pmid": "2428668",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Chemo-radiotherapy in advanced head and neck tumors. Personal experience",
+            "pdf_link": "",
+            "pmid": "1378641",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Randomized comparison of neoadjuvant cisplatin and fluorouracil infusion followed by radiation versus concomitant treatment in advanced head and neck cancer",
+            "pdf_link": "",
+            "pmid": "8113846",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Combined chemotherapy and radiation therapy in advanced inoperable squamous cell carcinoma of the head and neck. The final report of a randomized trial",
+            "pdf_link": "",
+            "pmid": "1703916",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Intra-arterial methotrexate chemotherapy and telecobalt therapy in cancer of the oral cavity and oropharynx",
+            "pdf_link": "",
+            "pmid": "4852531",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Adjuvant intravenous methotrexate or definitive radiotherapy alone for advanced squamous cancers of the oral cavity, oropharynx, supraglottic larynx or hypopharynx. Concluding report of an RTOG randomized trial on 638 patients",
+            "pdf_link": "",
+            "pmid": "7410127",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A randomized EORTC study on the effect of preoperative polychemotherapy in pyriform sinus carcinoma treated by pharyngolaryngectomy and irradiation. Results from 5 to 10 years",
+            "pdf_link": "",
+            "pmid": "1695801",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A prospective study of preoperative chemotherapy and split-course irradiation for locally advanced or recurrent oral/pharyngeal squamous carcinoma",
+            "pdf_link": "",
+            "pmid": "2417476",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Adjuvant chemotherapy for advanced head and neck squamous carcinoma. Final report of the Head and Neck Contracts Program",
+            "pdf_link": "",
+            "pmid": "2885080",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Randomised EORTC Head and Neck Cooperative Group trial of preoperative intra-arterial chemotherapy in oral cavity and oropharynx carcinoma",
+            "pdf_link": "",
+            "pmid": "1718348",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Randomized study of adjuvant chemotherapy for head and neck cancer",
+            "pdf_link": "",
+            "pmid": "2418400",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A randomized study of adjuvant chemotherapy for cancer of the upper aerodigestive tract",
+            "pdf_link": "",
+            "pmid": "2419292",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Preoperative chemotherapy in advanced resectable head and neck cancer: final report of the Southwest Oncology Group",
+            "pdf_link": "",
+            "pmid": "3054373",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Induction chemotherapy in head and neck cancer: Results of a phase III trial",
+            "pdf_link": "",
+            "pmid": "1376306",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Induction chemotherapy in advanced head and neck cancer. Preliminary results of a randomized study",
+            "pdf_link": "",
+            "pmid": "2650723",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A randomized trial of neoadjuvant vs concomitant chemotherapy vs radiotherapy alone in the treatment of stage IV head and neck squamous cell carcinoma",
+            "pdf_link": "",
+            "pmid": "1642879",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Induction chemotherapy in advanced head and neck tumors: Results of two randomized trials",
+            "pdf_link": "",
+            "pmid": "1612948",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Combination chemotherapy as induction therapy for advanced resectable head and neck cancer",
+            "pdf_link": "",
+            "pmid": "7539873",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Cisplatin and fluorouracil as neoadjuvant therapy in head and neck cancer",
+            "pdf_link": "",
+            "pmid": "3580158",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "The effects of delay in standard treatment due to induction chemotherapy in two randomized prospective studies",
+            "pdf_link": "",
+            "pmid": "3550340",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Neoadjuvant chemotherapy with cisplatin and 5-fluorouracil in advanced squamous cell carcinoma of the head and neck: A randomized phase III study",
+            "pdf_link": "",
+            "pmid": "9165133",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Randomized study of 5 fluorouracil and cis platin as neoadjuvant therapy in head and neck cancer: A preliminary report",
+            "pdf_link": "",
+            "pmid": "2211266",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase III trial of initial chemotherapy in stage III or IV head and neck cancers: A study by the Gruppo di Studio sui Tumori della Testa e del Collo",
+            "pdf_link": "",
+            "pmid": "8158680",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Randomized phase III trial of neoadjuvant chemotherapy in head and neck cancer: 10-year follow-up",
+            "pdf_link": "",
+            "pmid": "15547184",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Randomized trial of neoadjuvant chemotherapy in oropharyngeal carcinoma",
+            "pdf_link": "",
+            "pmid": "11189100",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Induction chemotherapy with carboplatin and ftorafur in advanced head and neck cancer. A randomized study",
+            "pdf_link": "",
+            "pmid": "1524042",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Neoadjuvant combination of carboplatin and 5-FU in head and neck cancer: A randomized study",
+            "pdf_link": "",
+            "pmid": "1390316",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Neoadjuvant chemotherapy with carboplatin/5-fluorouracil in head and neck cancer",
+            "pdf_link": "",
+            "pmid": "8233298",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Induction chemotherapy in primary resectable head and neck tumors: A prospective randomized trial",
+            "pdf_link": "",
+            "pmid": "21567001",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Combined therapy in advanced head and neck cancer: hydroxyurea and radiotherapy",
+            "pdf_link": "",
+            "pmid": "1197760",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Ten-year results of randomized trial comparing radiotherapy and concomitant bleomycin to radiotherapy alone in epidermoid carcinomas of the oropharynx: experience of the European Organization for Research and Treatment of Cancer",
+            "pdf_link": "",
+            "pmid": "2451135",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Combined bleomycin treatment and radiation therapy in squamous cell carcinoma of the head and neck region",
+            "pdf_link": "",
+            "pmid": "2420153",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Bleomycin and radiation therapy in squamous cell carcinoma of the upper aero-digestive tract: A phase III clinical trial",
+            "pdf_link": "",
+            "pmid": "2414253",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Single fraction per day versus two fractions per day versus radiochemotherapy in the treatment of head and neck cancer",
+            "pdf_link": "",
+            "pmid": "2262356",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A randomised clinical trial to contrast radiotherapy with radiotherapy and methotrexate given synchronously in head and neck cancer",
+            "pdf_link": "",
+            "pmid": "3121233",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Concomitant methotrexate and radiotherapy in advanced head and neck cancer: 15-year follow-up of a randomized clinical trial",
+            "pdf_link": "",
+            "pmid": "11716226",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Phase III study of radiation therapy with or without cis-platinum in patients with unresectable squamous or undifferentiated carcinoma of the head and neck: an intergroup trial of the Eastern Cooperative Oncology Group (E2382)",
+            "pdf_link": "",
+            "pmid": "20888709",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Placebo-controlled randomized trial of infusional fluorouracil during standard radiotherapy in locally advanced head and neck cancer",
+            "pdf_link": "",
+            "pmid": "7989940",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Radiation therapy alone or with concurrent low-dose daily either cisplatin or carboplatin in locally advanced unresectable squamous cell carcinoma of the head and neck: A prospective randomized trial",
+            "pdf_link": "",
+            "pmid": "9165134",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Simultaneous radiochemotherapy versus radiotherapy alone in advanced head and neck cancer: A randomized multicenter study",
+            "pdf_link": "",
+            "pmid": "9552032",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Radiotherapy, combined with simultaneous chemotherapy with mitomycin C and bleomycin for inoperable head and neck cancer\u2013preliminary report",
+            "pdf_link": "",
+            "pmid": "7540606",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Combined bleomycin and radiotherapy in oral cancer",
+            "pdf_link": "",
+            "pmid": "6162599",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Combined preoperative treatment with cobalt and bleomycin in patients with head and neck carcinoma\u2013a controlled clinical study",
+            "pdf_link": "",
+            "pmid": "75878",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Treatment of advanced head and neck cancer by means of radiation therapy plus chemotherapy\u2013a randomised trial",
+            "pdf_link": "",
+            "pmid": "384188",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Treatment of advanced head and neck cancer: multiple daily dose fractionated radiation therapy and sequential multimodal treatment approach",
+            "pdf_link": "",
+            "pmid": "6203024",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Randomized clinical trial of mitomycin C as an adjunct to radiotherapy in head and neck cancer",
+            "pdf_link": "",
+            "pmid": "2501243",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "A randomized trial of radiation therapy compared to split course radiation therapy combined with mitomycin C and 5 fluorouracil as initial treatment for advanced laryngeal and hypopharyngeal squamous carcinoma",
+            "pdf_link": "",
+            "pmid": "8454478",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Combined postoperative radiotherapy and weekly cisplatin infusion for locally advanced head and neck carcinoma: Final report of a randomized trial",
+            "pdf_link": "",
+            "pmid": "8985019",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Simultaneous chemoradiation in the treatment of advanced head and neck cancer",
+            "pdf_link": "",
+            "pmid": "1642831",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Mitomycin C as an adjunct to postoperative radiation therapy in squamous cell carcinoma of the head and neck: Results from two randomized clinical trials",
+            "pdf_link": "",
+            "pmid": "7691784",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Treatment of advanced squamous-cell carcinoma of the head and neck with alternating chemotherapy and radiotherapy",
+            "pdf_link": "",
+            "pmid": "1302472",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Five-year update of a randomized trial of alternating radiotherapy and chemotherapy compared with radiotherapy alone in treatment of unresectable squamous cell carcinoma of the head and neck",
+            "pdf_link": "",
+            "pmid": "8609658",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Feasibility of non-cisplatin-based induction chemotherapy and concurrent chemoradiotherapy in advanced head and neck cancer",
+            "pdf_link": "",
+            "pmid": "8938220",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Mature results of a Phase III randomized trial comparing concurrent chemoradiotherapy with radiation therapy alone in patients with Stage III and IV squamous cell carcinoma of the head and neck",
+            "pdf_link": "",
+            "pmid": "10679658",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Hyperfractionated irradiation with or without concurrent chemotherapy for locally advanced head and neck cancer",
+            "pdf_link": "",
+            "pmid": "9632446",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Continuous hyperfractionated accelerated radiotherapy with/without mitomycin C in head and neck cancers",
+            "pdf_link": "",
+            "pmid": "11054514",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Chemoradiotherapy for locally advanced head and neck cancer: 10-year follow-up of the UK Head and Neck (UKHAN1) trial",
+            "pdf_link": "",
+            "pmid": "19875337",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Hyperfractionated radiation therapy with or without concurrent low-dose daily cisplatin in locally advanced squamous cell carcinoma of the head and neck: a prospective randomized trial",
+            "pdf_link": "",
+            "pmid": "10735893",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "An intergroup phase III comparison of standard radiation therapy and two schedules of concurrent chemoradiotherapy in patients with unresectable squamous cell head and neck cancer",
+            "pdf_link": "",
+            "pmid": "12506176",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Concurrent chemotherapy and radiotherapy for organ preservation in advanced laryngeal cancer",
+            "pdf_link": "",
+            "pmid": "14645636",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Long-term results of RTOG 91\u201311: a comparison of three nonsurgical treatment strategies to preserve the larynx in patients with locally advanced larynx cancer",
+            "pdf_link": "",
+            "pmid": "23182993",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Locoregionally advanced carcinoma of the oropharynx: conventional radiotherapy vs. accelerated hyperfractionated radiotherapy vs. concomitant radiotherapy and chemotherapy\u2013a multicenter randomized trial",
+            "pdf_link": "",
+            "pmid": "12504039",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Final results of the 94\u201301 French Head and Neck Oncology and Radiotherapy Group randomized trial comparing radiotherapy alone with concomitant radiochemotherapy in advanced-stage oropharynx carcinoma",
+            "pdf_link": "",
+            "pmid": "14657228",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Hyperfractionated accelerated chemoradiation with concurrent fluorouracil-mitomycin is more effective than dose-escalated hyperfractionated accelerated radiation therapy alone in locally advanced head and neck cancer",
+            "pdf_link": "",
+            "pmid": "15718308",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Postoperative irradiation with or without concomitant chemotherapy for locally advanced head and neck cancer",
+            "pdf_link": "",
+            "pmid": "15128894",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Concomitant cisplatin significantly improves locoregional control in advanced head and neck cancers treated with hyperfractionated radiotherapy",
+            "pdf_link": "",
+            "pmid": "15534360",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Concomitant cisplatin and hyperfractionated radiotherapy in locally advanced head and neck cancer: 10-year follow-up of a randomized phase III trial (SAKK 10/94)",
+            "pdf_link": "",
+            "pmid": "21300466",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Intensified hyperfractionated accelerated radiotherapy limits the additional benefit of simultaneous chemotherapy - Results of a multicentric randomized German trial in advanced head-and-neck cancer",
+            "pdf_link": "",
+            "pmid": "11483325",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Concomitant radiochemotherapy vs radiotherapy alone in patients with head and neck cancer: A Hellenic Cooperative Oncology Group Phase III Study",
+            "pdf_link": "",
+            "pmid": "15299181",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Postoperative concurrent radiotherapy and chemotherapy for high-risk squamous-cell carcinoma of the head and neck",
+            "pdf_link": "",
+            "pmid": "15128893",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Long-term follow-up of the RTOG 9501/intergroup phase III trial: Postoperative concurrent radiation therapy and chemotherapy in high-risk squamous cell carcinoma of the head and neck",
+            "pdf_link": "",
+            "pmid": "22749632",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Radiotherapy with or without mitomycin c in the treatment of locally advanced head and neck cancer: results of the IAEA multicentre randomised trial",
+            "pdf_link": "",
+            "pmid": "12758236",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Accelerated radiotherapy and concomitant high dose chemotherapy in non resectable stage IV locally advanced HNSCC: results of a GORTEC randomized trial",
+            "pdf_link": "",
+            "pmid": "21831465",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Patterns of failure in patients with locally advanced head and neck cancer treated postoperatively with irradiation or concomitant irradiation with Mitomycin C and Bleomycin",
+            "pdf_link": "",
+            "pmid": "17197122",
+            "doi": "",
+            "nctid": ""
+        },
+        {
+            "title": "Adjuvant treatment of tongue and floor of the mouth cancers",
+            "pdf_link": "",
+            "pmid": "88754",
+            "doi": "",
+            "nctid": ""
+        }
+    ],
+    "forest_plot_path": {
+        "./images/33515668/a-overall-Overall Survival.png": {
+            "subgroup": "overall",
+            "outcome": "Overall Survival"
+        },
+        "./images/33515668/c-Overall Survival(LRT+CT v.s. LRT)-Overall Survival.png": {
+            "subgroup": "Overall Survival(LRT+CT v.s. LRT)",
+            "outcome": "Overall Survival"
+        },
+        "./images/33515668/b-overall-Event-free survival.png": {
+            "subgroup": "overall",
+            "outcome": "Event-free survival"
+        },
+        "./images/33515668/d-Event-Free Survival(LRT+CT v.s. LRT)-Event-Free Survival.png": {
+            "subgroup": "Event-Free Survival(LRT+CT v.s. LRT)",
+            "outcome": "Event-Free Survival"
+        },
+        "./images/33515668/e-Overall Survival(LRT+CT v.s. LRT)-Overall Survival(By Age).png": {
+            "subgroup": "Overall Survival(LRT+CT v.s. LRT)",
+            "outcome": "Overall Survival(By Age)"
+        },
+        "./images/33515668/f-Event-Free Survival(LRT+CT v.s. LRT)-Event-Free Survival(By Age).png": {
+            "subgroup": "Event Free Survival(LRT+CT v.s. LRT)",
+            "outcome": "Event-Free Survival(By Age)"
+        }
+    }
+}

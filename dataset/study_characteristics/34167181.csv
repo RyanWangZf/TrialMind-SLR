@@ -1,0 +1,16 @@
+PMID,Country,Study Design,Tumor,"radiofrequency ablation, n","microwave ablation, n","Age, radiofrequency ablation","Age, microwave ablation","Child-Pugh A/B/C, radiofrequency ablation","Child-Pugh A/B/C, microwave ablation","Tumor size (cm), radiofrequency ablation","Tumor size (cm), microwave ablation","Tumor lesions, radiofrequency ablation","Tumor lesions, microwave ablation"
+31183208,Egypt,randomized clinical trial,hepatocellular cancer,28,28,55,55,22/6/0,22/6/0,3.28 ± 0.91,3.25 ± 0.92,34,34
+29503247,France/Switzerland,randomized clinical trial,hepatocellular cancer,73,71,65 (median),68 (median),53/20/0,57/14/0,1.8 ± 0.71,1.8 ± 0.65,104,98
+24935203,Egypt,randomized clinical trial,hepatocellular cancer,45,66,56.8 ± 7.3,53.6 ± 5,24/21/0,25/41/0,2.95 ± 1.03,2.9 ± 0.97,52,76
+24196263,Italy,randomized clinical trial,hepatocellular cancer/metastases,20,20,59 (median),63 (median),not reported,not reported,3.2 (median),3.6 (median),20,20
+22544225,China,Prospective,hepatocellular cancer,20,22,56 ± 11,52 ± 12,20/0/0,22/0/0,2 ± 0.5,2.1 ± 0.4,20,22
+31476199,Romania,Retrospective,metastases,44,17,60.18 ± 9.96,62.12 ± 10.73,-,-,2.maj,feb.55,62,20
+29929785,USA,Retrospective,colorectal liver metastases,54,51,not reported,not reported,-,-,2.4 (median),2.1 (median),155,121
+29203394,USA,Retrospective,colorectal liver metastases,62,48,not reported,not reported,-,-,1.8 (median),1.7 (median),85,60
+28103953,China,Retrospective,hepatocellular cancer,159,301,54 ± 11,54.2 ± 11,140/19/0,278/23/0,1.7 ± 0.3,1.7 ± 0.3,159,301
+27387188,Netherlands,Retrospective,colorectal liver metastases,Total number of participants: 122,not reported,not reported,not reported,-,-,2.apr,2.maj,151,48
+27017124,USA,Retrospective,hepatocellular cancer,55,99,62,61,not reported,not reported,2.apr,2.feb,69,136
+24720137,China,Retrospective,hepatocellular cancer/metastases,92,230,51.5 ± 14.3,55.7 ± 13.2,not reported,not reported,5.4 ± 1.9,5.7 ± 2.1,173,349
+24146824,China,Retrospective,hepatocellular cancer,78,77,54 ± 10.5,54 ± 9.5,78/0/0,77/0/0,2.3 ± 0.4,2.2 ± 0.4,97,105
+23470267,China,Retrospective,metastases,54,35,53.1 ± 12.7,53.4 ± 15.3,-,-,2.5 ± 1.0,2.3 ± 1.0,70,62
+23726122,China,Retrospective,hepatocellular cancer,85,113,58.64 ± 8.52,59.06 ± 11.68,49/36/0,75/30/0,2.38 ± 0.81,2.55 ± 0.89,98,131

@@ -1,0 +1,7 @@
+PMID,Design,number,Age in tyrosine kinase inhibitor group (range),tyrosine kinase inhibitor,Comparator,Myeloablative conditioning,complete remission at transplant,High-risk cytogenetics,Length of follow-up
+32673171,Randomized phase 2,83,54 (23–74),Sorafenib,Placebo,"tyrosine kinase inhibitor: 42%, Placebo: 47%","tyrosine kinase inhibitor: 63%, placebo: 48%","tyrosine kinase inhibitor: 2%, Placebo: 8%",42 months
+27434660,Retrospective,81,55 (20–74),Sorafenib,No tyrosine kinase inhibitor,"tyrosine kinase inhibitor: 54%, No: 49%",100% (CR1),8%,27 months
+30563875,"Prospective phase 2, propensity score matching with historical controls",116a,54 (18–70),Midostaurin,Historical control,not reported,"tyrosine kinase inhibitor: 61%, control: 43%",not reported,24 months
+32791048,Randomized phase 3,202,35 (26–42),Sorafenib,No tyrosine kinase inhibitor,100%,"tyrosine kinase inhibitor: 73%, no: 77%","tyrosine kinase inhibitor: 7%, no: 5%",21 months
+29509276,Retrospective,82,37 (15–55),Sorafenib,No tyrosine kinase inhibitor,100%,77%,"tyrosine kinase inhibitor: 6%, no: 1%",59 months
+29509276,Retrospective,56,24 (14–62),Sorafenib,No tyrosine kinase inhibitor,100%,100%,17%,24 months

@@ -1,0 +1,16 @@
+PMID,Study,Year,Country,No. of patients (HSCT/CT),Median age (range),Chemotherapy Regimen in consolidation therapy,"Median follow-up (range, month)",TKI,Study type,NOS score
+30988558,Agrawal,2019,India,16/30,35 (14-76),Hyper-CVAD,17.5 (2-58),IM/DA,R,7
+31016870,Chang,2019,China,30/40,45 (21-69),BFM-like,15 (1-131),DA,R,7
+25682595,Daver,2015,USA,16/23,51 (17-84),Hyper-CVAD,130 (73-149),IM,P,7
+28103625,Fujisawa,2017,Japan,43/22,49 (18-64),Hyper-CVAD,34 (13.4-52.8),IM,P,8
+29694642,Hatta,2018,Japan,59/37,45 (15-64),HD-Ara+MTX,58.8 (4.8-96),IM,P,8
+30501869,Jabbour,2018,USA,15/61,47 (39-61),Hyper-CVAD,"36 (22-63,IQR)",PO,P,9
+26065651,Kim,2015,Korea,57/25,47 (17-71),DVP+HD-Ara+VP16,NA,NL,P,9
+30635765,Liu,2019,China,13/14,40 (21-59),COATD/HD-MTX+MA,56.5 (49-72),NL,R,7
+26308885,Ravandi,2015,USA,12/57,55 (21-80),Hyper-CVAD,67 (0.3-97),DA,P,8
+29046900,Ravandi,2016,USA,38/40,44 (22-60),Hyper-CVAD,36 (9-63),DA,P,8
+22960387,Tanguy,2013,France,24/9,45 (16-59),VP+HD-Ara+MTZ,29.5 (0.6-59.8),IM,P,7
+22650180,Thyagu,2012,Canada,16/12,46(18-60),DOLD+6-MP+MTX,85 (46-110),IM,R,7
+24730539,Togasaki,2014,Japan,13/9,53 (22-72),Hyper-CVAD,25 (7-126),IM,R,7
+29247779,Wang,2017,China,77/56,37 (14-65),Hyper-CVAD,33 (4-114),IM,R,7
+30918339,Wang,2019,China,60/74,NA (14-60),Hyper-CVAD,37 (7-115),IM/DA,R,7
