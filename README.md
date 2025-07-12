@@ -1,4 +1,4 @@
-# TrialMind-paper-code
+# TrialMind
 
 
 ## Pre-requisites
